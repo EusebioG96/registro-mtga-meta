@@ -1,119 +1,119 @@
 {
  "formato": "standard",
- "fecha": "2026-10-16",
+ "fecha": "2026-10-19",
  "fuente": "MTGGoldfish · metagame de Standard (desglose medio de cartas por arquetipo)",
- "nota": "Cada carta: [copias medias en el principal, % de mazos que la llevan en el principal, copias medias en el banquillo, % en el banquillo]. % vacío = la fuente no lo daba.",
+ "nota": "Cada carta: [copias medias en el principal, % de mazos que la llevan en el principal, copias medias en el banquillo, % en el banquillo].",
  "arquetipos": [
   {
    "nombre": "Izzet Spellementals",
    "colores": "UR",
-   "meta": 12.3,
+   "meta": 11.5,
    "cartas": {
     "Hearth Elemental": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Eddymurk Crab": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Sunderflock": [
      3.9,
-     null,
-     0,
-     null
-    ],
-    "Sleight of Hand": [
-     4.0,
-     null,
-     0,
-     null
-    ],
-    "Flow State": [
-     3.3,
-     null,
-     0,
-     null
-    ],
-    "Winternight Stories": [
-     2.1,
-     null,
+     100,
      0,
      null
     ],
     "Impractical Joke": [
      2.0,
-     null,
+     75,
+     0,
+     null
+    ],
+    "Sleight of Hand": [
+     4.0,
+     100,
+     0,
+     null
+    ],
+    "Flow State": [
+     3.4,
+     34,
+     0,
+     null
+    ],
+    "Winternight Stories": [
+     2.1,
+     40,
      0,
      null
     ],
     "Burst Lightning": [
      3.1,
-     null,
+     99,
      0,
      null
     ],
     "Opt": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Spell Pierce": [
      1.5,
-     null,
-     0,
-     null
+     61,
+     1.5,
+     39
     ],
     "Spell Snare": [
      2.1,
-     null,
-     0,
-     null
+     99,
+     1.3,
+     71
     ],
     "Get Out": [
      2.3,
-     null,
+     97,
      0,
      null
     ],
     "Prismari Charm": [
      3.9,
-     null,
+     100,
      0,
      null
     ],
     "Traumatic Critique": [
-     2.8,
-     null,
+     2.9,
+     98,
      0,
      null
     ],
     "Riverpyre Verge": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Spirebluff Canal": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Steam Vents": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Stormcarved Coast": [
      1.7,
-     null,
+     82,
      0,
      null
     ],
@@ -121,49 +121,49 @@
      0,
      null,
      1.5,
-     null
+     38
     ],
     "Disdainful Stroke": [
      0,
      null,
      1.3,
-     null
+     89
     ],
     "Flashfreeze": [
      0,
      null,
      1.4,
-     null
+     79
     ],
     "Hydro-Man, Fluid Felon": [
      0,
      null,
      1.7,
-     null
+     39
     ],
     "Avengers Disassembled": [
      0,
      null,
      1.5,
-     null
+     52
     ],
     "Broadside Barrage": [
      0,
      null,
      1.4,
-     null
+     78
     ],
     "Colorstorm Stallion": [
      0,
      null,
      3.2,
-     null
+     94
     ],
     "Sunspine Lynx": [
      0,
      null,
      2.0,
-     null
+     45
     ]
    }
   },
@@ -174,139 +174,133 @@
    "cartas": {
     "Dream Beavers": [
      4.0,
-     null,
+     99,
      0,
      null
     ],
     "Spyglass Siren": [
-     3.5,
-     null,
+     3.4,
+     100,
      0,
      null
     ],
     "Yuriko, Hope from the Shadows": [
      1.1,
-     null,
+     50,
      0,
      null
     ],
     "Floodpits Drowner": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "The Wondrous Wasp": [
      1.9,
-     null,
+     99,
      0,
      null
     ],
     "Wan Shi Tong, Librarian": [
-     1.3,
-     null,
-     0,
-     null
+     1.2,
+     77,
+     1.1,
+     69
     ],
     "Tishana's Tidebinder": [
-     1.6,
-     null,
-     0,
-     null
+     1.7,
+     93,
+     1.0,
+     38
     ],
     "Enduring Curiosity": [
-     3.8,
-     null,
+     3.9,
+     100,
      0,
      null
     ],
     "Strategic Betrayal": [
      1.1,
-     null,
-     2.8,
-     null
+     71,
+     2.7,
+     100
     ],
     "Requiting Hex": [
-     3.3,
-     null,
-     0,
-     null
-    ],
-    "Spell Pierce": [
-     1.1,
-     null,
+     3.2,
+     100,
      0,
      null
     ],
     "Spell Snare": [
      1.1,
-     null,
+     93,
      0,
      null
     ],
     "Bitter Triumph": [
      2.0,
-     null,
+     99,
      0,
      null
     ],
     "Shoot the Sheriff": [
      1.9,
-     null,
+     99,
      0,
      null
     ],
     "Theorix Charm": [
      1.0,
-     null,
+     56,
      0,
      null
     ],
     "We Say Thee Nay!": [
      2.0,
-     null,
+     98,
      0,
      null
     ],
     "Kaito, Bane of Nightmares": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Gloomlake Verge": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Hidden Lair": [
-     2.4,
-     null,
+     2.3,
+     94,
      0,
      null
     ],
     "Restless Reef": [
      1.9,
-     null,
+     99,
      0,
      null
     ],
     "Shipwreck Marsh": [
      1.9,
-     null,
+     58,
      0,
      null
     ],
     "Soulstone Sanctuary": [
      2.0,
-     null,
+     100,
      0,
      null
     ],
     "Watery Grave": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
@@ -314,526 +308,707 @@
      0,
      null,
      1.2,
-     null
+     54
     ],
     "Duress": [
      0,
      null,
      3.1,
-     null
+     100
     ],
     "Day of Black Sun": [
      0,
      null,
      2.0,
-     null
+     93
     ],
     "Flashfreeze": [
      0,
      null,
      2.0,
-     null
+     85
     ],
     "Negate": [
      0,
      null,
      1.0,
-     null
+     46
     ],
     "Torpor Orb": [
      0,
      null,
      1.7,
-     null
+     34
     ],
     "Vren, the Relentless": [
      0,
      null,
      1.4,
-     null
+     63
     ]
    }
   },
   {
    "nombre": "Mono-Green Landfall",
    "colores": "G",
-   "meta": 8.8,
+   "meta": 7.8,
    "cartas": {
     "Llanowar Elves": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Sazh's Chocobo": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Keen-Eyed Curator": [
-     1.6,
-     null,
-     0,
-     null
+     1.7,
+     48,
+     1.3,
+     48
     ],
     "Mossborn Hydra": [
-     3.4,
-     null,
-     0,
-     null
+     3.3,
+     83,
+     2.4,
+     46
     ],
     "Surrak, Elusive Hunter": [
-     1.1,
-     null,
-     0,
-     null
+     1.2,
+     42,
+     1.9,
+     81
     ],
     "Icetill Explorer": [
      4.0,
-     null,
+     99,
      0,
      null
     ],
     "Mightform Harmonizer": [
-     3.8,
-     null,
+     3.7,
+     98,
      0,
      null
     ],
     "Esper Origins": [
      3.4,
-     null,
+     79,
      0,
      null
     ],
     "Shared Roots": [
      2.2,
-     null,
+     41,
      0,
      null
     ],
     "Lumbering Worldwagon": [
      1.2,
-     null,
+     44,
      0,
      null
     ],
     "Meltstrider's Resolve": [
-     1.5,
-     null,
-     3.0,
-     null
+     1.6,
+     46,
+     3.1,
+     77
     ],
     "Earthbender Ascension": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Sapling Nursery": [
-     2.5,
-     null,
-     0,
-     null
+     2.6,
+     81,
+     1.7,
+     83
     ],
     "Ba Sing Se": [
      2.9,
-     null,
+     100,
      0,
      null
     ],
     "Demolition Field": [
      1.0,
-     null,
+     55,
      0,
      null
     ],
     "Elven Passage": [
-     1.9,
-     null,
+     2.1,
+     46,
      0,
      null
     ],
     "Escape Tunnel": [
-     3.2,
-     null,
+     3.0,
+     99,
      0,
      null
     ],
     "Fabled Passage": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Soul-Guide Lantern": [
      0,
      null,
-     1.7,
-     null
+     1.8,
+     57
     ],
     "Origin of Metalbending": [
      0,
      null,
      1.7,
-     null
+     35
     ],
     "Torpor Orb": [
      0,
      null,
      2.2,
-     null
+     94
     ],
     "Warg Tactics": [
      0,
      null,
      1.8,
-     null
+     60
     ],
     "Leatherhead, Swamp Stalker": [
      0,
      null,
      1.3,
+     35
+    ]
+   }
+  },
+  {
+   "nombre": "Lifegain",
+   "colores": "WB",
+   "meta": 6.4,
+   "cartas": {
+    "Hinterland Sanctifier": [
+     4.0,
+     100,
+     0,
      null
+    ],
+    "Liliana the Faultless": [
+     2.1,
+     81,
+     0,
+     null
+    ],
+    "Amalia Benavides Aguirre": [
+     4.0,
+     100,
+     0,
+     null
+    ],
+    "Deep-Cavern Bat": [
+     2.0,
+     58,
+     0,
+     null
+    ],
+    "Enlightened Confidant": [
+     3.2,
+     73,
+     0,
+     null
+    ],
+    "Essence Channeler": [
+     2.0,
+     49,
+     0,
+     null
+    ],
+    "Starscape Cleric": [
+     2.0,
+     88,
+     1.4,
+     50
+    ],
+    "Haliya, Guided by Light": [
+     3.5,
+     100,
+     0,
+     null
+    ],
+    "Moseo, Vein's New Dean": [
+     3.0,
+     97,
+     0,
+     null
+    ],
+    "Zoraline, Cosmos Caller": [
+     1.0,
+     33,
+     0,
+     null
+    ],
+    "Emptiness": [
+     1.5,
+     46,
+     0,
+     null
+    ],
+    "Erode": [
+     2.7,
+     96,
+     0,
+     null
+    ],
+    "Case of the Uneaten Feast": [
+     3.9,
+     100,
+     0,
+     null
+    ],
+    "Seam Rip": [
+     1.7,
+     33,
+     1.7,
+     92
+    ],
+    "Lunar Convocation": [
+     3.4,
+     100,
+     0,
+     null
+    ],
+    "Ajani Resolute": [
+     2.6,
+     71,
+     0,
+     null
+    ],
+    "Bleachbone Verge": [
+     1.8,
+     100,
+     0,
+     null
+    ],
+    "Concealed Courtyard": [
+     3.1,
+     99,
+     0,
+     null
+    ],
+    "Dalkovan Encampment": [
+     1.0,
+     39,
+     0,
+     null
+    ],
+    "Godless Shrine": [
+     4.0,
+     100,
+     0,
+     null
+    ],
+    "Multiversal Passage": [
+     3.0,
+     65,
+     0,
+     null
+    ],
+    "Shattered Sanctum": [
+     2.3,
+     90,
+     0,
+     null
+    ],
+    "Starting Town": [
+     3.8,
+     97,
+     0,
+     null
+    ],
+    "Curious Farm Animals": [
+     0,
+     null,
+     1.8,
+     80
+    ],
+    "Duress": [
+     0,
+     null,
+     2.5,
+     73
+    ],
+    "Ghost Vacuum": [
+     0,
+     null,
+     1.6,
+     38
+    ],
+    "Requisition Raid": [
+     0,
+     null,
+     1.0,
+     54
+    ],
+    "Strategic Betrayal": [
+     0,
+     null,
+     2.2,
+     91
+    ],
+    "Pyrrhic Strike": [
+     0,
+     null,
+     1.5,
+     41
+    ],
+    "Decorum Dissertation": [
+     0,
+     null,
+     1.0,
+     63
     ]
    }
   },
   {
    "nombre": "Boros Dragons",
    "colores": "WR",
-   "meta": 8.0,
+   "meta": 6.4,
    "cartas": {
     "Momo, Friendly Flier": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Sarkhan, Dragon Ascendant": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Voice of Victory": [
-     3.5,
-     null,
+     3.6,
+     98,
      0,
      null
     ],
     "Clarion Conqueror": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Magmatic Hellkite": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Smaug the Magnificent": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Nova Hellkite": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Twinmaw Stormbrood": [
-     2.1,
-     null,
+     2.0,
+     99,
      0,
      null
     ],
     "Burst Lightning": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Erode": [
      2.0,
-     null,
-     0,
-     null
-    ],
-    "Get Lost": [
-     2.0,
-     null,
+     77,
      0,
      null
     ],
     "Cavern of Souls": [
      2.4,
-     null,
+     99,
      0,
      null
     ],
     "Inspiring Vantage": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Maelstrom of the Spirit Dragon": [
-     3.7,
-     null,
+     3.6,
+     100,
      0,
      null
     ],
     "Multiversal Passage": [
      3.9,
-     null,
+     96,
      0,
      null
     ],
     "Sacred Foundry": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Sunbillow Verge": [
      4.0,
-     null,
+     100,
      0,
      null
     ],
     "Seam Rip": [
      0,
      null,
-     3.9,
-     null
+     3.8,
+     98
     ],
     "Boros Charm": [
      0,
      null,
      2.0,
-     null
+     73
     ],
-    "Dawn's Truce": [
+    "Get Lost": [
      0,
      null,
-     2.6,
-     null
+     1.1,
+     96
     ],
     "Magda, the Hoardmaster": [
      0,
      null,
      1.0,
-     null
+     45
     ],
     "Pyroclasm": [
      0,
      null,
      2.0,
-     null
+     75
     ],
     "Rest in Peace": [
      0,
      null,
      3.0,
-     null
+     100
     ],
     "Split Up": [
      0,
      null,
      1.0,
-     null
-    ],
-    "Desolation of Smaug": [
-     0,
-     null,
-     1.1,
-     null
+     60
     ],
     "The Legend of Roku": [
      0,
      null,
      1.2,
-     null
+     61
     ]
    }
   },
   {
-   "nombre": "Jund Sacrifice",
-   "colores": "BRG",
-   "meta": 5.9,
+   "nombre": "Izzet Prowess",
+   "colores": "UR",
+   "meta": 6.0,
    "cartas": {
-    "Callous Inspector": [
-     3.5,
-     null,
+    "Elusive Otter": [
+     3.9,
+     78,
      0,
      null
     ],
-    "Gene Pollinator": [
+    "Pompous Battlemage": [
      4.0,
-     null,
+     93,
      0,
      null
     ],
-    "Greedy Freebooter": [
+    "Slickshot Show-Off": [
      4.0,
-     null,
+     98,
      0,
      null
     ],
-    "Biotech Specialist": [
-     4.0,
-     null,
+    "Eddymurk Crab": [
+     1.9,
+     59,
      0,
      null
     ],
-    "Mutagen Man, Living Ooze": [
+    "Impractical Joke": [
      1.8,
-     null,
+     54,
      0,
      null
     ],
-    "The Sackville-Bagginses": [
+    "Sleight of Hand": [
      4.0,
-     null,
+     82,
      0,
      null
     ],
-    "Umbral Collar Zealot": [
-     1.5,
-     null,
+    "Wild Ride": [
+     1.7,
+     73,
      0,
      null
     ],
-    "Vinereap Mentor": [
+    "Flow State": [
+     3.9,
+     72,
+     0,
+     null
+    ],
+    "Stock Up": [
+     1.1,
+     47,
+     0,
+     null
+    ],
+    "Bounce Off": [
+     2.0,
+     52,
+     0,
+     null
+    ],
+    "Burst Lightning": [
+     4.0,
+     94,
+     0,
+     null
+    ],
+    "Opt": [
+     4.0,
+     78,
+     0,
+     null
+    ],
+    "Secret Identity": [
+     2.2,
+     76,
+     0,
+     null
+    ],
+    "Spell Snare": [
+     1.0,
+     46,
      1.8,
-     null,
+     54
+    ],
+    "Vibrant Outburst": [
+     1.8,
+     78,
      0,
      null
     ],
-    "Rottenmouth Viper": [
-     3.6,
-     null,
-     0,
-     null
-    ],
-    "Deadly Precision": [
+    "Great Hall of the Biblioplex": [
      1.9,
-     null,
+     37,
      0,
      null
     ],
-    "Lively Dirge": [
-     3.2,
-     null,
+    "Multiversal Passage": [
+     2.0,
+     75,
      0,
      null
     ],
-    "Requiting Hex": [
-     1.9,
-     null,
+    "Riverpyre Verge": [
+     3.9,
+     100,
      0,
      null
     ],
-    "Fanatical Offering": [
-     1.9,
-     null,
-     0,
-     null
-    ],
-    "Obsessive Pursuit": [
+    "Spirebluff Canal": [
      4.0,
-     null,
-     0,
-     null
-    ],
-    "Blazemire Verge": [
-     3.2,
-     null,
-     0,
-     null
-    ],
-    "Blood Crypt": [
-     1.3,
-     null,
-     0,
-     null
-    ],
-    "Blooming Marsh": [
-     4.0,
-     null,
-     0,
-     null
-    ],
-    "Overgrown Tomb": [
-     3.5,
-     null,
+     100,
      0,
      null
     ],
     "Starting Town": [
-     3.7,
-     null,
-     0,
-     null
-    ],
-    "Stomping Ground": [
-     2.7,
-     null,
-     0,
-     null
-    ],
-    "Wastewood Verge": [
      1.5,
-     null,
+     58,
      0,
      null
     ],
-    "Duress": [
+    "Steam Vents": [
+     4.0,
+     100,
      0,
-     null,
-     2.8,
      null
     ],
-    "Shoot the Sheriff": [
+    "Fire Magic": [
      0,
      null,
      1.8,
-     null
+     57
     ],
-    "Strategic Betrayal": [
+    "Soul-Guide Lantern": [
      0,
      null,
-     3.0,
-     null
+     2.0,
+     75
     ],
-    "The Ooze": [
+    "Spell Pierce": [
      0,
      null,
-     1.7,
-     null
+     2.2,
+     95
     ],
-    "Witherbloom Charm": [
-     0,
-     null,
-     1.6,
-     null
-    ],
-    "Maelstrom Pulse": [
+    "Disdainful Stroke": [
      0,
      null,
      1.2,
-     null
+     61
     ],
-    "Professor Dellian Fel": [
+    "Sear": [
      0,
      null,
-     1.9,
-     null
+     1.2,
+     54
+    ],
+    "Broadside Barrage": [
+     0,
+     null,
+     1.0,
+     55
+    ],
+    "Colorstorm Stallion": [
+     0,
+     null,
+     2.2,
+     61
+    ],
+    "Sunspine Lynx": [
+     0,
+     null,
+     2.5,
+     59
     ]
    }
   },
@@ -842,147 +1017,141 @@
    "colores": "WU",
    "meta": 5.9,
    "cartas": {
-    "Emeritus of Ideation": [
-     2.7,
-     38.0,
-     0,
-     null
-    ],
     "Stock Up": [
-     3.2,
-     46.0,
+     3.1,
+     41,
      0,
      null
     ],
     "Day of Judgment": [
-     2.2,
-     95.0,
+     2.1,
+     98,
      0,
      null
     ],
     "Erode": [
      2.3,
-     92.0,
-     0,
-     null
+     92,
+     1.1,
+     35
     ],
     "Spell Snare": [
-     1.4,
-     40.0,
+     1.3,
+     41,
      0,
      null
     ],
     "Three Steps Ahead": [
-     2.3,
-     98.0,
+     2.2,
+     98,
      0,
      null
     ],
     "Consult the Star Charts": [
      4.0,
-     91.0,
+     94,
      0,
      null
     ],
     "Countersculpt": [
      3.9,
-     54.0,
+     63,
      0,
      null
     ],
     "Fatehold Charm": [
      1.7,
-     43.0,
+     46,
      0,
      null
     ],
     "Get Lost": [
      3.6,
-     95.0,
+     97,
      0,
      null
     ],
     "No More Lies": [
-     3.4,
-     99.0,
+     3.3,
+     99,
      0,
      null
     ],
     "Jace's Machinations": [
-     3.3,
-     53.0,
+     3.2,
+     62,
      0,
      null
     ],
     "Pinnacle Starcage": [
      2.0,
-     77.0,
-     0,
-     null
+     80,
+     1.7,
+     83
     ],
     "Seam Rip": [
-     3.1,
-     99.0,
-     0,
-     null
+     3.0,
+     98,
+     1.0,
+     37
     ],
     "The Theorist, Jace Beleren": [
      3.8,
-     57.0,
+     67,
      0,
      null
     ],
     "Demolition Field": [
-     1.7,
-     45.0,
+     1.9,
+     40,
      0,
      null
     ],
     "Deserted Beach": [
      3.9,
-     57.0,
+     67,
      0,
      null
     ],
     "Floodfarm Verge": [
      4.0,
-     99.0,
+     99,
      0,
      null
     ],
     "Fountainport": [
-     1.5,
-     66.0,
+     1.4,
+     68,
      0,
      null
     ],
     "Hallowed Fountain": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Meticulous Archive": [
-     2.9,
-     56.0,
+     2.7,
+     55,
      0,
      null
     ],
     "Petrified Hamlet": [
-     2.5,
-     91.0,
+     2.6,
+     90,
      0,
      null
     ],
     "Restless Anchorage": [
-     2.2,
-     81.0,
+     2.1,
+     83,
      0,
      null
     ],
     "Theorist's Sanctum": [
      2.0,
-     55.0,
+     65,
      0,
      null
     ],
@@ -990,222 +1159,433 @@
      0,
      null,
      1.7,
-     83.0
+     87
     ],
     "Flashfreeze": [
      0,
      null,
      2.0,
-     88.0
+     91
     ],
     "Negate": [
      0,
      null,
      1.1,
-     41.0
+     35
     ],
     "Rest in Peace": [
      0,
      null,
      2.0,
-     65.0
+     62
     ],
     "Wan Shi Tong, Librarian": [
      0,
      null,
      1.8,
-     39.0
+     35
     ],
     "Beza, the Bounding Spring": [
      0,
      null,
      1.9,
-     77.0
+     78
+    ],
+    "Sphinx of False Conclusions": [
+     0,
+     null,
+     2.1,
+     34
     ],
     "Captain Marvel, Earth's Protector": [
      0,
      null,
-     1.3,
-     65.0
+     1.2,
+     70
+    ],
+    "Emeritus of Ideation": [
+     0,
+     null,
+     1.2,
+     40
     ]
    }
   },
   {
    "nombre": "4c Control",
    "colores": "WUBR",
-   "meta": 5.5,
+   "meta": 5.2,
    "cartas": {
     "North Wind Avatar": [
      1.1,
-     null,
+     51,
      0,
      null
     ],
     "Stock Up": [
-     3.5,
-     null,
+     3.4,
+     100,
      0,
      null
     ],
     "Day of Judgment": [
-     1.9,
-     null,
+     2.0,
+     64,
      0,
      null
     ],
     "Deadly Cover-Up": [
      1.9,
-     null,
-     0,
-     null
+     39,
+     1.0,
+     48
     ],
     "Together as One": [
-     1.4,
-     null,
+     1.2,
+     79,
      0,
      null
     ],
     "Firebending Lesson": [
      2.1,
-     null,
+     71,
      0,
      null
     ],
     "Flashback": [
-     1.6,
-     null,
+     1.7,
+     96,
      0,
      null
     ],
     "Consult the Star Charts": [
      2.8,
-     null,
+     82,
      0,
      null
     ],
     "Lightning Helix": [
      2.5,
-     null,
+     69,
      0,
      null
     ],
     "No More Lies": [
-     2.7,
-     null,
+     2.8,
+     62,
      0,
      null
     ],
     "Plunder the Trollshaws": [
      2.0,
-     null,
+     57,
      0,
      null
     ],
     "Sear": [
      1.8,
-     null,
+     35,
      0,
      null
     ],
     "Inevitable Defeat": [
-     3.7,
-     null,
+     3.8,
+     99,
      0,
      null
     ],
     "Jeskai Revelation": [
-     3.6,
-     null,
+     3.8,
+     99,
      0,
      null
     ],
     "Tablet of Discovery": [
-     3.6,
-     null,
+     3.8,
+     99,
      0,
      null
     ],
     "Blazemire Verge": [
-     1.5,
-     null,
-     0,
-     null
-    ],
-    "Bleachbone Verge": [
-     3.1,
-     null,
+     1.2,
+     49,
      0,
      null
     ],
     "Blood Crypt": [
-     1.7,
-     null,
+     1.8,
+     78,
      0,
      null
     ],
     "Cori Mountain Monastery": [
      1.0,
-     null,
+     68,
+     0,
+     null
+    ],
+    "Deserted Beach": [
+     1.0,
+     55,
      0,
      null
     ],
     "Gloomlake Verge": [
      2.0,
-     null,
+     58,
      0,
      null
     ],
     "Godless Shrine": [
      1.8,
-     null,
+     66,
      0,
      null
     ],
     "Great Hall of the Biblioplex": [
      4.0,
-     null,
+     99,
      0,
      null
     ],
     "Hallowed Fountain": [
      2.1,
-     null,
+     68,
+     0,
+     null
+    ],
+    "Mistrise Village": [
+     1.0,
+     84,
      0,
      null
     ],
     "Riverpyre Verge": [
-     2.0,
-     null,
+     2.4,
+     34,
      0,
      null
     ],
     "Sacred Foundry": [
-     2.0,
-     null,
+     2.1,
+     97,
      0,
      null
     ],
     "Shattered Sanctum": [
      1.3,
-     null,
+     91,
      0,
      null
     ],
     "Steam Vents": [
-     2.5,
-     null,
+     2.7,
+     99,
+     0,
+     null
+    ],
+    "Stormcarved Coast": [
+     1.0,
+     68,
+     0,
+     null
+    ],
+    "Sunbillow Verge": [
+     1.1,
+     58,
      0,
      null
     ],
     "Sundown Pass": [
      1.1,
-     null,
+     78,
      0,
      null
     ],
-    "Undercity Sewers": [
-     1.8,
+    "Duress": [
+     0,
      null,
+     2.7,
+     34
+    ],
+    "Fire Magic": [
+     0,
+     null,
+     1.9,
+     58
+    ],
+    "Disdainful Stroke": [
+     0,
+     null,
+     1.2,
+     40
+    ],
+    "Flashfreeze": [
+     0,
+     null,
+     1.8,
+     87
+    ],
+    "Get Lost": [
+     0,
+     null,
+     2.2,
+     56
+    ],
+    "Outrageous Robbery": [
+     0,
+     null,
+     1.1,
+     73
+    ],
+    "Return the Favor": [
+     0,
+     null,
+     1.8,
+     65
+    ],
+    "Strategic Betrayal": [
+     0,
+     null,
+     1.9,
+     77
+    ],
+    "Ancient Vendetta": [
+     0,
+     null,
+     1.2,
+     65
+    ],
+    "Ultima": [
+     0,
+     null,
+     1.1,
+     42
+    ]
+   }
+  },
+  {
+   "nombre": "Jund Sacrifice",
+   "colores": "BRG",
+   "meta": 4.5,
+   "cartas": {
+    "Callous Inspector": [
+     3.5,
+     100,
+     0,
+     null
+    ],
+    "Gene Pollinator": [
+     4.0,
+     100,
+     0,
+     null
+    ],
+    "Greedy Freebooter": [
+     4.0,
+     100,
+     0,
+     null
+    ],
+    "Biotech Specialist": [
+     4.0,
+     100,
+     0,
+     null
+    ],
+    "Mutagen Man, Living Ooze": [
+     1.6,
+     95,
+     0,
+     null
+    ],
+    "The Sackville-Bagginses": [
+     4.0,
+     100,
+     0,
+     null
+    ],
+    "Umbral Collar Zealot": [
+     1.6,
+     93,
+     0,
+     null
+    ],
+    "Rottenmouth Viper": [
+     3.4,
+     91,
+     0,
+     null
+    ],
+    "Deadly Precision": [
+     2.0,
+     79,
+     0,
+     null
+    ],
+    "Lively Dirge": [
+     3.2,
+     74,
+     0,
+     null
+    ],
+    "Requiting Hex": [
+     1.8,
+     67,
+     1.8,
+     64
+    ],
+    "Fanatical Offering": [
+     1.9,
+     50,
+     0,
+     null
+    ],
+    "Obsessive Pursuit": [
+     4.0,
+     100,
+     0,
+     null
+    ],
+    "Blazemire Verge": [
+     3.0,
+     100,
+     0,
+     null
+    ],
+    "Blood Crypt": [
+     1.4,
+     91,
+     0,
+     null
+    ],
+    "Blooming Marsh": [
+     4.0,
+     100,
+     0,
+     null
+    ],
+    "Overgrown Tomb": [
+     3.6,
+     100,
+     0,
+     null
+    ],
+    "Starting Town": [
+     3.7,
+     98,
+     0,
+     null
+    ],
+    "Stomping Ground": [
+     2.7,
+     100,
+     0,
+     null
+    ],
+    "Wastewood Verge": [
+     1.6,
+     76,
      0,
      null
     ],
@@ -1213,417 +1593,218 @@
      0,
      null,
      2.8,
-     null
+     97
     ],
-    "Fire Magic": [
+    "Shoot the Sheriff": [
      0,
      null,
+     1.8,
+     88
+    ],
+    "Strategic Betrayal": [
+     0,
+     null,
+     2.8,
+     100
+    ],
+    "The Ooze": [
+     0,
+     null,
+     1.7,
+     81
+    ],
+    "Vengeful Tracker": [
+     0,
+     null,
+     2.1,
+     36
+    ],
+    "Witherbloom Charm": [
+     0,
+     null,
+     1.5,
+     36
+    ],
+    "Professor Dellian Fel": [
+     0,
+     null,
+     1.8,
+     84
+    ]
+   }
+  },
+  {
+   "nombre": "Dimir Reanimator",
+   "colores": "UB",
+   "meta": 4.5,
+   "cartas": {
+    "Seasoned Cryomancer": [
+     3.8,
+     92,
+     0,
+     null
+    ],
+    "Superior Spider-Man": [
+     3.9,
+     100,
+     0,
+     null
+    ],
+    "Emeritus of Ideation": [
+     1.5,
+     41,
+     1.2,
+     46
+    ],
+    "Overlord of the Balemurk": [
+     2.5,
+     86,
+     0,
+     null
+    ],
+    "Deceit": [
+     4.0,
+     100,
+     0,
+     null
+    ],
+    "Uldaros Theorix": [
+     2.4,
+     98,
+     0,
+     null
+    ],
+    "Duress": [
+     2.9,
+     98,
+     1.2,
+     80
+    ],
+    "Strategic Betrayal": [
+     1.0,
+     98,
+     1.1,
+     92
+    ],
+    "Winternight Stories": [
+     2.0,
+     100,
+     0,
+     null
+    ],
+    "Deadly Cover-Up": [
+     1.1,
+     90,
+     1.2,
+     59
+    ],
+    "Requiting Hex": [
+     3.2,
+     100,
+     0,
+     null
+    ],
+    "Bitter Triumph": [
+     2.9,
+     100,
+     0,
+     null
+    ],
+    "Theorix Charm": [
+     2.9,
+     90,
+     0,
+     null
+    ],
+    "The Theorist, Jace Beleren": [
+     2.3,
+     59,
+     0,
+     null
+    ],
+    "Cavern of Souls": [
      1.9,
+     97,
+     0,
+     null
+    ],
+    "Gloomlake Verge": [
+     4.0,
+     100,
+     0,
+     null
+    ],
+    "Multiversal Passage": [
+     1.9,
+     71,
+     0,
+     null
+    ],
+    "Restless Reef": [
+     3.5,
+     100,
+     0,
+     null
+    ],
+    "Shipwreck Marsh": [
+     3.9,
+     100,
+     0,
+     null
+    ],
+    "Undercity Sewers": [
+     2.1,
+     98,
+     0,
+     null
+    ],
+    "Watery Grave": [
+     4.0,
+     100,
+     0,
      null
     ],
     "Day of Black Sun": [
      0,
      null,
-     1.7,
-     null
-    ],
-    "Flashfreeze": [
-     0,
-     null,
-     1.7,
-     null
-    ],
-    "Get Lost": [
-     0,
-     null,
-     2.3,
-     null
-    ],
-    "Outrageous Robbery": [
-     0,
-     null,
-     1.1,
-     null
-    ],
-    "Return the Favor": [
-     0,
-     null,
-     1.8,
-     null
-    ],
-    "Strategic Betrayal": [
-     0,
-     null,
-     1.8,
-     null
-    ],
-    "Ancient Vendetta": [
-     0,
-     null,
-     1.2,
-     null
-    ]
-   }
-  },
-  {
-   "nombre": "Lifegain",
-   "colores": "WB",
-   "meta": 5.3,
-   "cartas": {
-    "Hinterland Sanctifier": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Liliana the Faultless": [
-     2.1,
-     76.0,
-     0,
-     null
-    ],
-    "Amalia Benavides Aguirre": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Deep-Cavern Bat": [
-     2.1,
-     63.0,
-     0,
-     null
-    ],
-    "Enlightened Confidant": [
-     3.1,
-     67.0,
-     0,
-     null
-    ],
-    "Essence Channeler": [
-     2.1,
-     51.0,
-     0,
-     null
-    ],
-    "Starscape Cleric": [
      1.9,
-     87.0,
-     0,
-     null
-    ],
-    "Haliya, Guided by Light": [
-     3.4,
-     100.0,
-     0,
-     null
-    ],
-    "Moseo, Vein's New Dean": [
-     2.9,
-     96.0,
-     0,
-     null
-    ],
-    "Emptiness": [
-     1.6,
-     45.0,
-     0,
-     null
-    ],
-    "Erode": [
-     2.7,
-     95.0,
-     0,
-     null
-    ],
-    "Case of the Uneaten Feast": [
-     3.9,
-     100.0,
-     0,
-     null
-    ],
-    "Lunar Convocation": [
-     3.4,
-     100.0,
-     0,
-     null
-    ],
-    "Ajani Resolute": [
-     2.6,
-     73.0,
-     0,
-     null
-    ],
-    "Bleachbone Verge": [
-     1.8,
-     100.0,
-     0,
-     null
-    ],
-    "Concealed Courtyard": [
-     3.0,
-     99.0,
-     0,
-     null
-    ],
-    "Dalkovan Encampment": [
-     1.0,
-     34.0,
-     0,
-     null
-    ],
-    "Godless Shrine": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Multiversal Passage": [
-     3.0,
-     62.0,
-     0,
-     null
-    ],
-    "Shattered Sanctum": [
-     2.4,
-     93.0,
-     0,
-     null
-    ],
-    "Starting Town": [
-     3.8,
-     96.0,
-     0,
-     null
-    ],
-    "Curious Farm Animals": [
-     0,
-     null,
-     1.8,
-     79.0
-    ],
-    "Duress": [
-     0,
-     null,
-     2.5,
-     68.0
-    ],
-    "Ghost Vacuum": [
-     0,
-     null,
-     1.6,
-     39.0
-    ],
-    "Requisition Raid": [
-     0,
-     null,
-     1.0,
-     50.0
-    ],
-    "Seam Rip": [
-     0,
-     null,
-     1.7,
-     96.0
-    ],
-    "Strategic Betrayal": [
-     0,
-     null,
-     2.0,
-     89.0
-    ],
-    "Pyrrhic Strike": [
-     0,
-     null,
-     1.5,
-     46.0
-    ],
-    "Decorum Dissertation": [
-     0,
-     null,
-     1.0,
-     62.0
-    ]
-   }
-  },
-  {
-   "nombre": "Izzet Prowess",
-   "colores": "UR",
-   "meta": 4.3,
-   "cartas": {
-    "Elusive Otter": [
-     3.9,
-     78.0,
-     0,
-     null
-    ],
-    "Pompous Battlemage": [
-     4.0,
-     89.0,
-     0,
-     null
-    ],
-    "Slickshot Show-Off": [
-     4.0,
-     99.0,
-     0,
-     null
-    ],
-    "Eddymurk Crab": [
-     1.9,
-     57.0,
-     0,
-     null
-    ],
-    "Impractical Joke": [
-     1.9,
-     52.0,
-     0,
-     null
-    ],
-    "Sleight of Hand": [
-     4.0,
-     81.0,
-     0,
-     null
-    ],
-    "Wild Ride": [
-     1.8,
-     74.0,
-     0,
-     null
-    ],
-    "Flow State": [
-     3.9,
-     70.0,
-     0,
-     null
-    ],
-    "Stock Up": [
-     1.1,
-     48.0,
-     0,
-     null
-    ],
-    "Bounce Off": [
-     2.0,
-     49.0,
-     0,
-     null
-    ],
-    "Burst Lightning": [
-     4.0,
-     95.0,
-     0,
-     null
-    ],
-    "Opt": [
-     4.0,
-     78.0,
-     0,
-     null
-    ],
-    "Secret Identity": [
-     2.2,
-     75.0,
-     0,
-     null
-    ],
-    "Spell Snare": [
-     1.0,
-     44.0,
-     0,
-     null
-    ],
-    "Vibrant Outburst": [
-     1.9,
-     77.0,
-     0,
-     null
-    ],
-    "Great Hall of the Biblioplex": [
-     1.8,
-     41.0,
-     0,
-     null
-    ],
-    "Multiversal Passage": [
-     2.0,
-     75.0,
-     0,
-     null
-    ],
-    "Riverpyre Verge": [
-     3.9,
-     100.0,
-     0,
-     null
-    ],
-    "Spirebluff Canal": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Starting Town": [
-     1.6,
-     59.0,
-     0,
-     null
-    ],
-    "Steam Vents": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Fire Magic": [
-     0,
-     null,
-     1.8,
-     57.0
-    ],
-    "Soul-Guide Lantern": [
-     0,
-     null,
-     2.0,
-     73.0
-    ],
-    "Spell Pierce": [
-     0,
-     null,
-     2.2,
-     95.0
+     88
     ],
     "Disdainful Stroke": [
      0,
      null,
-     1.2,
-     59.0
+     1.1,
+     76
     ],
-    "Sear": [
+    "Flashfreeze": [
      0,
      null,
-     1.1,
-     52.0
+     1.8,
+     86
     ],
-    "Broadside Barrage": [
+    "Negate": [
+     0,
+     null,
+     1.4,
+     83
+    ],
+    "Qarsi Revenant": [
+     0,
+     null,
+     2.0,
+     85
+    ],
+    "M.O.D.O.K.": [
      0,
      null,
      1.0,
-     53.0
+     59
     ],
-    "Colorstorm Stallion": [
+    "Doomsday Excruciator": [
      0,
      null,
-     2.2,
-     59.0
-    ],
-    "Sunspine Lynx": [
-     0,
-     null,
-     2.6,
-     58.0
+     2.0,
+     59
     ]
    }
   },
@@ -1634,827 +1815,634 @@
    "cartas": {
     "Boomerang Basics": [
      2.0,
-     56.0,
+     51,
      0,
      null
     ],
     "Day of Judgment": [
      1.1,
-     65.0,
-     0,
-     null
+     71,
+     2.0,
+     92
     ],
     "United Battlefront": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Erode": [
      1.1,
-     54.0,
+     50,
      0,
      null
     ],
     "Candy Trail": [
-     3.0,
-     82.0,
+     2.9,
+     83,
      0,
      null
     ],
     "Clay-Fired Bricks": [
-     1.4,
-     79.0,
+     1.3,
+     82,
      0,
      null
     ],
     "Cryogen Relic": [
-     2.9,
-     100.0,
+     3.0,
+     100,
      0,
      null
     ],
     "Spring-Loaded Sawblades": [
-     2.0,
-     90.0,
+     2.1,
+     92,
      0,
      null
     ],
     "The Irencrag": [
      1.1,
-     76.0,
+     76,
      0,
      null
     ],
     "The Mind Stone": [
-     2.6,
-     96.0,
+     2.7,
+     96,
      0,
      null
     ],
     "Braided Net": [
-     1.4,
-     100.0,
+     1.5,
+     100,
      0,
      null
     ],
     "Perilous Snare": [
      3.5,
-     100.0,
+     100,
      0,
      null
     ],
     "Pinnacle Starcage": [
-     2.9,
-     100.0,
-     0,
-     null
+     3.0,
+     100,
+     1.0,
+     83
     ],
     "Repurposing Bay": [
      3.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Simulacrum Synthesizer": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "The Fire Crystal": [
      1.0,
-     100.0,
+     100,
      0,
      null
     ],
     "White Auracite": [
      1.0,
-     58.0,
+     64,
      0,
      null
     ],
     "Authority of the Consuls": [
      1.9,
-     61.0,
-     0,
-     null
+     55,
+     2.1,
+     79
     ],
     "Castle Doom": [
      4.0,
-     99.0,
+     99,
      0,
      null
     ],
     "Floodfarm Verge": [
      4.0,
-     99.0,
+     99,
      0,
      null
     ],
     "Fomori Vault": [
      1.0,
-     64.0,
+     70,
      0,
      null
     ],
     "Gleaming Bastion": [
      1.1,
-     58.0,
+     64,
      0,
      null
     ],
     "Hallowed Fountain": [
      3.6,
-     100.0,
+     100,
      0,
      null
     ],
     "Meticulous Archive": [
      1.7,
-     92.0,
+     82,
      0,
      null
     ],
     "Petrified Hamlet": [
-     1.8,
-     47.0,
+     1.6,
+     51,
      0,
      null
-    ],
-    "Negate": [
-     0,
-     null,
-     1.8,
-     35.0
     ],
     "No More Lies": [
      0,
      null,
      2.0,
-     58.0
+     54
     ],
     "Rest in Peace": [
      0,
      null,
-     1.7,
-     100.0
+     1.8,
+     100
     ],
     "Torpor Orb": [
      0,
      null,
      1.8,
-     97.0
+     97
     ],
     "Voice of Victory": [
      0,
      null,
-     2.1,
-     69.0
+     2.2,
+     75
     ],
     "Astelli Reclaimer": [
      0,
      null,
      1.0,
-     56.0
+     50
     ],
     "Krang, Master Mind": [
      0,
      null,
      1.0,
-     56.0
-    ]
-   }
-  },
-  {
-   "nombre": "Dimir Reanimator",
-   "colores": "UB",
-   "meta": 2.8,
-   "cartas": {
-    "Seasoned Cryomancer": [
-     3.9,
-     88.0,
-     0,
-     null
-    ],
-    "Superior Spider-Man": [
-     3.9,
-     100.0,
-     0,
-     null
-    ],
-    "Overlord of the Balemurk": [
-     2.4,
-     85.0,
-     0,
-     null
-    ],
-    "Deceit": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Uldaros Theorix": [
-     2.4,
-     97.0,
-     0,
-     null
-    ],
-    "Duress": [
-     3.0,
-     97.0,
-     0,
-     null
-    ],
-    "Strategic Betrayal": [
-     1.0,
-     100.0,
-     0,
-     null
-    ],
-    "Winternight Stories": [
-     2.1,
-     100.0,
-     0,
-     null
-    ],
-    "Deadly Cover-Up": [
-     1.1,
-     85.0,
-     0,
-     null
-    ],
-    "Requiting Hex": [
-     3.2,
-     100.0,
-     0,
-     null
-    ],
-    "Bitter Triumph": [
-     2.9,
-     100.0,
-     0,
-     null
-    ],
-    "Theorix Charm": [
-     3.0,
-     94.0,
-     0,
-     null
-    ],
-    "The Theorist, Jace Beleren": [
-     2.4,
-     50.0,
-     0,
-     null
-    ],
-    "Cavern of Souls": [
-     1.9,
-     94.0,
-     0,
-     null
-    ],
-    "Gloomlake Verge": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Multiversal Passage": [
-     2.0,
-     62.0,
-     0,
-     null
-    ],
-    "Restless Reef": [
-     3.5,
-     100.0,
-     0,
-     null
-    ],
-    "Shipwreck Marsh": [
-     3.8,
-     100.0,
-     0,
-     null
-    ],
-    "Undercity Sewers": [
-     2.1,
-     100.0,
-     0,
-     null
-    ],
-    "Watery Grave": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Day of Black Sun": [
-     0,
-     null,
-     2.0,
-     82.0
-    ],
-    "Disdainful Stroke": [
-     0,
-     null,
-     1.1,
-     62.0
-    ],
-    "Flashfreeze": [
-     0,
-     null,
-     1.9,
-     88.0
-    ],
-    "Negate": [
-     0,
-     null,
-     1.5,
-     91.0
-    ],
-    "Qarsi Revenant": [
-     0,
-     null,
-     2.0,
-     79.0
-    ],
-    "Oildeep Gearhulk": [
-     0,
-     null,
-     1.9,
-     35.0
-    ],
-    "M.O.D.O.K.": [
-     0,
-     null,
-     1.0,
-     44.0
-    ],
-    "Doomsday Excruciator": [
-     0,
-     null,
-     2.0,
-     47.0
-    ]
-   }
-  },
-  {
-   "nombre": "Rakdos Lizards",
-   "colores": "BR",
-   "meta": 2.7,
-   "cartas": {
-    "Hired Claw": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Iridescent Vinelasher": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Fireglass Mentor": [
-     3.9,
-     88.0,
-     0,
-     null
-    ],
-    "Flamecache Gecko": [
-     4.0,
-     98.0,
-     0,
-     null
-    ],
-    "Gev, Scaled Scorch": [
-     3.0,
-     98.0,
-     0,
-     null
-    ],
-    "Master of Barbs": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Ingris Stingerquill": [
-     3.1,
-     98.0,
-     0,
-     null
-    ],
-    "Valley Flamecaller": [
-     2.9,
-     88.0,
-     0,
-     null
-    ],
-    "Burst Lightning": [
-     3.9,
-     98.0,
-     0,
-     null
-    ],
-    "Stingerquill Charm": [
-     3.9,
-     98.0,
-     0,
-     null
-    ],
-    "Blazemire Verge": [
-     4.0,
-     98.0,
-     0,
-     null
-    ],
-    "Blood Crypt": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Cavern of Souls": [
-     2.2,
-     80.0,
-     0,
-     null
-    ],
-    "Haunted Ridge": [
-     2.4,
-     61.0,
-     0,
-     null
-    ],
-    "Multiversal Passage": [
-     3.5,
-     34.0,
-     0,
-     null
-    ],
-    "Rockface Village": [
-     2.1,
-     98.0,
-     0,
-     null
-    ],
-    "Starting Town": [
-     2.9,
-     56.0,
-     0,
-     null
-    ],
-    "Duress": [
-     0,
-     null,
-     3.4,
-     95.0
-    ],
-    "Requiting Hex": [
-     0,
-     null,
-     3.4,
-     80.0
-    ],
-    "Bitter Triumph": [
-     0,
-     null,
-     1.9,
-     68.0
-    ],
-    "Magebane Lizard": [
-     0,
-     null,
-     3.0,
-     59.0
-    ],
-    "Vengeful Tracker": [
-     0,
-     null,
-     2.2,
-     44.0
-    ],
-    "Laughing Jasper Flint": [
-     0,
-     null,
-     2.0,
-     68.0
-    ],
-    "Thought-Stalker Warlock": [
-     0,
-     null,
-     3.1,
-     44.0
+     50
     ]
    }
   },
   {
    "nombre": "Azorius Momo",
    "colores": "WU",
-   "meta": 2.6,
+   "meta": 3.1,
    "cartas": {
     "Curious Farm Animals": [
      1.0,
-     38.0,
+     40,
      0,
      null
     ],
     "Guiding Hydra": [
      1.0,
-     76.0,
+     81,
      0,
      null
     ],
     "Mockingbird": [
      1.0,
-     38.0,
+     40,
      0,
      null
     ],
     "Momo, Friendly Flier": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Nurturing Pixie": [
-     1.6,
-     97.0,
+     1.5,
+     95,
      0,
      null
     ],
     "Zack Fair": [
      1.0,
-     35.0,
-     0,
-     null
-    ],
-    "Cosmogrand Zenith": [
-     2.0,
-     35.0,
+     35,
      0,
      null
     ],
     "Haliya, Guided by Light": [
-     1.9,
-     47.0,
+     2.0,
+     40,
      0,
      null
     ],
     "Sage of the Skies": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Steamcore Scholar": [
      3.9,
-     65.0,
+     70,
      0,
      null
     ],
     "Quantum Riddler": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Starfield Shepherd": [
      3.9,
-     100.0,
+     100,
      0,
      null
     ],
     "Daydream": [
      3.9,
-     100.0,
+     100,
      0,
      null
     ],
     "Practiced Offense": [
-     3.5,
-     74.0,
+     3.4,
+     79,
      0,
      null
     ],
     "Erode": [
-     1.5,
-     88.0,
+     1.7,
+     88,
      0,
      null
     ],
     "Get Lost": [
      1.6,
-     41.0,
-     0,
-     null
+     42,
+     1.1,
+     44
     ],
     "Springleaf Drum": [
      3.6,
-     100.0,
+     100,
      0,
      null
     ],
     "Seam Rip": [
      2.0,
-     85.0,
-     0,
-     null
+     79,
+     1.9,
+     100
     ],
     "Abandoned Air Temple": [
-     2.0,
-     94.0,
+     1.9,
+     91,
      0,
      null
     ],
     "Floodfarm Verge": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Gleaming Bastion": [
-     3.8,
-     85.0,
+     3.7,
+     86,
      0,
      null
     ],
     "Hallowed Fountain": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Disdainful Stroke": [
      0,
      null,
-     1.6,
-     74.0
+     1.7,
+     65
     ],
     "Rest in Peace": [
      0,
      null,
      3.2,
-     94.0
+     93
     ],
     "Spider-Sense": [
      0,
      null,
      2.0,
-     97.0
+     95
     ],
     "The Queen of Dale": [
      0,
      null,
-     2.0,
-     44.0
+     1.9,
+     44
     ],
     "Clarion Conqueror": [
      0,
      null,
-     2.5,
-     56.0
+     2.7,
+     60
     ],
     "Avatar's Wrath": [
      0,
      null,
      1.1,
-     47.0
+     44
+    ]
+   }
+  },
+  {
+   "nombre": "Rakdos Lizards",
+   "colores": "BR",
+   "meta": 2.8,
+   "cartas": {
+    "Hired Claw": [
+     4.0,
+     100,
+     0,
+     null
+    ],
+    "Iridescent Vinelasher": [
+     4.0,
+     100,
+     0,
+     null
+    ],
+    "Fireglass Mentor": [
+     3.9,
+     88,
+     0,
+     null
+    ],
+    "Flamecache Gecko": [
+     4.0,
+     98,
+     0,
+     null
+    ],
+    "Gev, Scaled Scorch": [
+     3.0,
+     98,
+     0,
+     null
+    ],
+    "Master of Barbs": [
+     4.0,
+     100,
+     0,
+     null
+    ],
+    "Ingris Stingerquill": [
+     3.1,
+     98,
+     0,
+     null
+    ],
+    "Valley Flamecaller": [
+     2.9,
+     88,
+     0,
+     null
+    ],
+    "Burst Lightning": [
+     3.9,
+     98,
+     0,
+     null
+    ],
+    "Stingerquill Charm": [
+     3.9,
+     98,
+     0,
+     null
+    ],
+    "Blazemire Verge": [
+     4.0,
+     98,
+     0,
+     null
+    ],
+    "Blood Crypt": [
+     4.0,
+     100,
+     0,
+     null
+    ],
+    "Cavern of Souls": [
+     2.2,
+     80,
+     0,
+     null
+    ],
+    "Haunted Ridge": [
+     2.4,
+     61,
+     0,
+     null
+    ],
+    "Multiversal Passage": [
+     3.5,
+     34,
+     0,
+     null
+    ],
+    "Rockface Village": [
+     2.1,
+     98,
+     0,
+     null
+    ],
+    "Starting Town": [
+     2.9,
+     56,
+     0,
+     null
+    ],
+    "Duress": [
+     0,
+     null,
+     3.4,
+     95
+    ],
+    "Requiting Hex": [
+     0,
+     null,
+     3.4,
+     80
+    ],
+    "Bitter Triumph": [
+     0,
+     null,
+     1.9,
+     68
+    ],
+    "Magebane Lizard": [
+     0,
+     null,
+     3.0,
+     59
+    ],
+    "Vengeful Tracker": [
+     0,
+     null,
+     2.2,
+     44
+    ],
+    "Laughing Jasper Flint": [
+     0,
+     null,
+     2.0,
+     68
+    ],
+    "Thought-Stalker Warlock": [
+     0,
+     null,
+     3.1,
+     44
     ]
    }
   },
   {
    "nombre": "Dimir Excruciator",
    "colores": "UB",
-   "meta": 2.6,
+   "meta": 2.2,
    "cartas": {
     "Superior Spider-Man": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Emeritus of Ideation": [
      2.0,
-     97.0,
-     0,
-     null
+     97,
+     1.0,
+     44
     ],
     "M.O.D.O.K.": [
      1.0,
-     53.0,
-     0,
-     null
+     44,
+     1.0,
+     56
     ],
     "Deceit": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Doomsday Excruciator": [
-     2.8,
-     100.0,
+     2.7,
+     100,
      0,
      null
     ],
     "Duress": [
-     3.5,
-     100.0,
-     0,
-     null
+     3.4,
+     100,
+     1.1,
+     47
     ],
     "Day of Black Sun": [
      2.1,
-     42.0,
-     0,
-     null
+     50,
+     1.8,
+     56
     ],
     "Strategic Betrayal": [
      1.0,
-     39.0,
-     1.7,
-     97.0
+     47,
+     1.6,
+     97
     ],
     "Stock Up": [
      2.9,
-     86.0,
+     78,
      0,
      null
     ],
     "Winternight Stories": [
-     2.2,
-     94.0,
+     2.3,
+     94,
      0,
      null
     ],
     "Deadly Cover-Up": [
-     1.6,
-     94.0,
+     1.5,
+     97,
      0,
      null
     ],
     "Requiting Hex": [
      3.4,
-     100.0,
+     100,
      0,
      null
     ],
     "Bitter Triumph": [
-     3.6,
-     100.0,
+     3.5,
+     100,
      0,
      null
     ],
     "Archenemy's Charm": [
      1.8,
-     69.0,
+     59,
      0,
      null
     ],
     "Cavern of Souls": [
      1.9,
-     47.0,
+     56,
      0,
      null
     ],
     "Gloomlake Verge": [
      4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Hidden Lair": [
-     1.9,
-     36.0,
+     100,
      0,
      null
     ],
     "Restless Reef": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Shipwreck Marsh": [
-     3.2,
-     50.0,
+     3.3,
+     62,
      0,
      null
     ],
     "Undercity Sewers": [
-     1.8,
-     94.0,
+     1.7,
+     94,
      0,
      null
     ],
     "Watery Grave": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
@@ -2462,162 +2450,162 @@
      0,
      null,
      1.1,
-     47.0
+     56
     ],
     "Flashfreeze": [
      0,
      null,
      2.0,
-     86.0
+     88
     ],
     "Malcolm, Alluring Scoundrel": [
      0,
      null,
      2.0,
-     50.0
+     41
     ],
     "Wan Shi Tong, Librarian": [
      0,
      null,
      1.7,
-     69.0
+     62
     ],
     "Preacher of the Schism": [
      0,
      null,
-     2.9,
-     56.0
+     2.8,
+     53
     ],
     "Qarsi Revenant": [
      0,
      null,
-     2.1,
-     33.0
+     2.0,
+     34
     ],
     "Oildeep Gearhulk": [
      0,
      null,
-     1.9,
-     33.0
+     1.8,
+     44
     ],
     "Quantum Riddler": [
      0,
      null,
-     1.8,
-     33.0
+     1.7,
+     38
     ]
    }
   },
   {
    "nombre": "Boros Dwarves",
    "colores": "WR",
-   "meta": 2.2,
+   "meta": 1.7,
    "cartas": {
     "Dwarven Mauler": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Dain's Company": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Dwalin, Weaponmaster": [
      2.6,
-     83.0,
+     93,
      0,
      null
     ],
     "Giott, King of the Dwarves": [
      2.0,
-     47.0,
+     50,
      0,
      null
     ],
     "Kili the Resourceful": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Thorin, Mountain-king": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Basilisk Collar": [
      1.9,
-     75.0,
+     77,
      0,
      null
     ],
     "Doc Ock's Tentacles": [
-     1.7,
-     67.0,
+     1.6,
+     60,
      0,
      null
     ],
     "Dragonfire Blade": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Lavaspur Boots": [
      3.9,
-     100.0,
+     100,
      0,
      null
     ],
     "Chainsaw": [
      3.0,
-     64.0,
-     0,
-     null
+     70,
+     2.1,
+     47
     ],
     "Leyline Axe": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Cavern of Souls": [
-     3.3,
-     100.0,
+     3.4,
+     100,
      0,
      null
     ],
     "Inspiring Vantage": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Multiversal Passage": [
-     1.1,
-     39.0,
+     1.2,
+     40,
      0,
      null
     ],
     "Sacred Foundry": [
      3.9,
-     100.0,
+     100,
      0,
      null
     ],
     "Sunbillow Verge": [
      4.0,
-     94.0,
+     93,
      0,
      null
     ],
     "The Lonely Mountain": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
@@ -2625,37 +2613,43 @@
      0,
      null,
      1.6,
-     39.0
+     47
     ],
     "Erode": [
      0,
      null,
-     2.9,
-     97.0
+     2.8,
+     97
+    ],
+    "Dawn's Truce": [
+     0,
+     null,
+     1.4,
+     37
     ],
     "Rest in Peace": [
      0,
      null,
-     3.0,
-     97.0
+     2.9,
+     97
     ],
     "Shattered Acolyte": [
      0,
      null,
      1.6,
-     69.0
+     73
     ],
     "The Queen of Dale": [
      0,
      null,
-     1.6,
-     58.0
+     1.5,
+     53
     ],
     "Voice of Victory": [
      0,
      null,
-     2.1,
-     67.0
+     2.0,
+     60
     ]
    }
   },
@@ -2666,133 +2660,133 @@
    "cartas": {
     "Oblivious Bookworm": [
      3.9,
-     100.0,
+     100,
      0,
      null
     ],
     "Town Greeter": [
      3.8,
-     58.0,
+     58,
      0,
      null
     ],
     "Formidable Speaker": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Seasoned Cryomancer": [
      4.0,
-     46.0,
+     46,
      0,
      null
     ],
     "Superior Spider-Man": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Overlord of the Balemurk": [
      2.7,
-     100.0,
+     100,
      0,
      null
     ],
     "Terror of the Peaks": [
      2.5,
-     100.0,
+     100,
      0,
      null
     ],
     "Wistfulness": [
      2.0,
-     96.0,
-     0,
-     null
+     96,
+     1.0,
+     38
     ],
     "Deceit": [
      2.1,
-     46.0,
+     46,
      0,
      null
     ],
     "Ardyn, the Usurper": [
      2.5,
-     96.0,
+     96,
      0,
      null
     ],
     "Bringer of the Last Gift": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Analyze the Pollen": [
      2.0,
-     54.0,
+     54,
      0,
      null
     ],
     "Rapid Rescue": [
      2.0,
-     38.0,
+     38,
      0,
      null
     ],
     "Bitter Triumph": [
      2.0,
-     46.0,
+     46,
      0,
      null
     ],
     "Awaken the Honored Dead": [
      1.7,
-     83.0,
-     0,
-     null
+     83,
+     1.2,
+     83
     ],
     "Breeding Pool": [
      4.0,
-     96.0,
+     96,
      0,
      null
     ],
     "Cavern of Souls": [
      3.5,
-     100.0,
+     100,
      0,
      null
     ],
     "Overgrown Tomb": [
      3.7,
-     100.0,
+     100,
      0,
      null
     ],
     "Starting Town": [
      2.9,
-     54.0,
+     54,
      0,
      null
     ],
     "Wastewood Verge": [
      2.5,
-     100.0,
+     100,
      0,
      null
     ],
     "Watery Grave": [
      3.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Willowrush Verge": [
      2.2,
-     96.0,
+     96,
      0,
      null
     ],
@@ -2800,156 +2794,409 @@
      0,
      null,
      3.1,
-     96.0
+     96
     ],
     "Requiting Hex": [
      0,
      null,
      2.0,
-     50.0
+     50
     ],
     "Deep-Cavern Bat": [
      0,
      null,
      3.0,
-     50.0
+     50
+    ],
+    "Flashfreeze": [
+     0,
+     null,
+     1.0,
+     33
     ],
     "Negate": [
      0,
      null,
      1.7,
-     50.0
+     50
     ],
     "Strategic Betrayal": [
      0,
      null,
      2.5,
-     96.0
+     96
     ],
     "Witherbloom Charm": [
      0,
      null,
      2.2,
-     79.0
+     79
     ],
     "Glarb, Calamity's Augur": [
      0,
      null,
      1.0,
-     42.0
+     42
     ],
     "Elektra, Daughter of the Hand": [
      0,
      null,
      1.0,
-     42.0
+     42
     ],
     "Stormkeld Vanguard": [
      0,
      null,
      1.0,
-     62.0
+     62
+    ]
+   }
+  },
+  {
+   "nombre": "Jeskai Control",
+   "colores": "WUR",
+   "meta": 1.3,
+   "cartas": {
+    "Thor, God of Thunder": [
+     1.5,
+     38,
+     0,
+     null
+    ],
+    "Stock Up": [
+     3.0,
+     100,
+     0,
+     null
+    ],
+    "Day of Judgment": [
+     2.0,
+     50,
+     1.1,
+     50
+    ],
+    "Erode": [
+     1.6,
+     44,
+     0,
+     null
+    ],
+    "Firebending Lesson": [
+     3.9,
+     56,
+     0,
+     null
+    ],
+    "Spell Snare": [
+     1.5,
+     50,
+     0,
+     null
+    ],
+    "Three Steps Ahead": [
+     1.8,
+     81,
+     0,
+     null
+    ],
+    "Consult the Star Charts": [
+     2.4,
+     44,
+     0,
+     null
+    ],
+    "Get Lost": [
+     3.3,
+     44,
+     0,
+     null
+    ],
+    "Lightning Helix": [
+     3.0,
+     44,
+     0,
+     null
+    ],
+    "No More Lies": [
+     3.0,
+     62,
+     0,
+     null
+    ],
+    "Jeskai Revelation": [
+     3.1,
+     69,
+     0,
+     null
+    ],
+    "Tablet of Discovery": [
+     4.0,
+     50,
+     0,
+     null
+    ],
+    "Seam Rip": [
+     2.0,
+     44,
+     0,
+     null
+    ],
+    "Chandra, Chill of Compliance": [
+     3.0,
+     50,
+     0,
+     null
+    ],
+    "Chandra, Torch of Defiance": [
+     2.1,
+     44,
+     0,
+     null
+    ],
+    "The Theorist, Jace Beleren": [
+     2.6,
+     50,
+     0,
+     null
+    ],
+    "Elspeth, Storm Slayer": [
+     1.6,
+     44,
+     0,
+     null
+    ],
+    "Ajani Unrelenting": [
+     2.7,
+     56,
+     0,
+     null
+    ],
+    "Cori Mountain Monastery": [
+     1.0,
+     44,
+     0,
+     null
+    ],
+    "Deserted Beach": [
+     1.4,
+     56,
+     0,
+     null
+    ],
+    "Floodfarm Verge": [
+     3.3,
+     69,
+     0,
+     null
+    ],
+    "Hallowed Fountain": [
+     3.1,
+     100,
+     0,
+     null
+    ],
+    "Mistrise Village": [
+     1.0,
+     56,
+     0,
+     null
+    ],
+    "Riverpyre Verge": [
+     2.5,
+     100,
+     0,
+     null
+    ],
+    "Sacred Foundry": [
+     2.5,
+     75,
+     0,
+     null
+    ],
+    "Spirebluff Canal": [
+     2.1,
+     50,
+     0,
+     null
+    ],
+    "Starting Town": [
+     2.8,
+     50,
+     0,
+     null
+    ],
+    "Steam Vents": [
+     3.3,
+     100,
+     0,
+     null
+    ],
+    "Stormcarved Coast": [
+     1.3,
+     44,
+     0,
+     null
+    ],
+    "Sundown Pass": [
+     1.9,
+     69,
+     0,
+     null
+    ],
+    "Annul": [
+     0,
+     null,
+     2.0,
+     38
+    ],
+    "Ghost Vacuum": [
+     0,
+     null,
+     1.3,
+     44
+    ],
+    "Disdainful Stroke": [
+     0,
+     null,
+     1.2,
+     88
+    ],
+    "Flashfreeze": [
+     0,
+     null,
+     1.9,
+     100
+    ],
+    "Negate": [
+     0,
+     null,
+     1.5,
+     69
+    ],
+    "Rest in Peace": [
+     0,
+     null,
+     2.0,
+     50
+    ],
+    "Return the Favor": [
+     0,
+     null,
+     1.0,
+     38
+    ],
+    "Voice of Victory": [
+     0,
+     null,
+     2.9,
+     50
+    ],
+    "Pinnacle Starcage": [
+     0,
+     null,
+     1.4,
+     62
     ]
    }
   },
   {
    "nombre": "Simic Landfall",
    "colores": "UG",
-   "meta": 1.1,
+   "meta": 1.2,
    "cartas": {
     "Llanowar Elves": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Sazh's Chocobo": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Avatar of Burgeoning Echoes": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Mossborn Hydra": [
      3.9,
-     93.0,
+     94,
      0,
      null
     ],
     "Icetill Explorer": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Mightform Harmonizer": [
      3.9,
-     73.0,
+     69,
      0,
      null
     ],
     "Shared Roots": [
      2.8,
-     80.0,
+     75,
      0,
      null
     ],
     "Meltstrider's Resolve": [
-     1.8,
-     67.0,
-     0,
-     null
+     1.7,
+     69,
+     1.9,
+     88
     ],
     "Earthbender Ascension": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Sapling Nursery": [
-     1.8,
-     87.0,
-     0,
-     null
+     1.9,
+     88,
+     1.9,
+     81
     ],
     "Ba Sing Se": [
      1.6,
-     100.0,
+     100,
      0,
      null
     ],
     "Botanical Sanctum": [
-     1.9,
-     67.0,
+     1.8,
+     69,
      0,
      null
     ],
     "Breeding Pool": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Elven Passage": [
-     1.3,
-     80.0,
+     1.2,
+     81,
      0,
      null
     ],
     "Escape Tunnel": [
      3.2,
-     93.0,
+     94,
      0,
      null
     ],
     "Fabled Passage": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
@@ -2957,399 +3204,411 @@
      0,
      null,
      2.1,
-     93.0
+     94
     ],
     "Soul-Guide Lantern": [
      0,
      null,
      1.0,
-     87.0
+     88
     ],
     "Disdainful Stroke": [
      0,
      null,
      1.9,
-     53.0
+     50
     ],
     "Keen-Eyed Curator": [
      0,
      null,
      1.2,
-     67.0
+     62
     ],
     "Origin of Metalbending": [
      0,
      null,
-     1.9,
-     67.0
+     1.8,
+     69
     ],
     "Torpor Orb": [
      0,
      null,
      2.1,
-     100.0
+     100
     ],
     "Warg Tactics": [
      0,
      null,
-     1.8,
-     93.0
+     1.9,
+     94
     ]
    }
   },
   {
    "nombre": "Selesnya Landfall",
-   "colores": "GW",
-   "meta": 1.1,
+   "colores": "WG",
+   "meta": 1.2,
    "cartas": {
     "Llanowar Elves": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Sazh's Chocobo": [
      4.0,
-     86.0,
+     87,
      0,
      null
     ],
     "Dyadrine, Synthesis Amalgam": [
      1.8,
-     43.0,
+     40,
      0,
      null
     ],
     "Mossborn Hydra": [
-     3.4,
-     100.0,
-     0,
-     null
+     3.5,
+     100,
+     1.2,
+     40
     ],
     "Icetill Explorer": [
      3.9,
-     100.0,
+     100,
      0,
      null
     ],
     "Mightform Harmonizer": [
      3.9,
-     100.0,
+     100,
      0,
      null
     ],
     "Esper Origins": [
-     2.8,
-     86.0,
+     2.9,
+     87,
      0,
      null
     ],
     "Shared Roots": [
      2.4,
-     64.0,
+     60,
      0,
      null
     ],
     "Practiced Offense": [
      1.8,
-     43.0,
+     40,
      0,
      null
     ],
     "Erode": [
      3.6,
-     79.0,
+     73,
      0,
      null
     ],
     "Earthbender Ascension": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Ba Sing Se": [
      2.9,
-     100.0,
+     100,
      0,
      null
     ],
     "Escape Tunnel": [
-     3.2,
-     93.0,
+     3.1,
+     93,
      0,
      null
     ],
     "Fabled Passage": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Hushwood Verge": [
      1.3,
-     64.0,
+     67,
      0,
      null
     ],
     "Temple Garden": [
      3.8,
-     86.0,
+     87,
      0,
      null
+    ],
+    "Doorkeeper Thrull": [
+     0,
+     null,
+     1.6,
+     33
     ],
     "Rest in Peace": [
      0,
      null,
      2.1,
-     50.0
+     47
     ],
     "Sheltered by Ghosts": [
      0,
      null,
-     3.2,
-     100.0
+     3.1,
+     100
     ],
     "Torpor Orb": [
      0,
      null,
      2.4,
-     79.0
+     73
     ],
     "Clarion Conqueror": [
      0,
      null,
-     3.1,
-     50.0
+     3.3,
+     53
     ],
     "Surrak, Elusive Hunter": [
      0,
      null,
      2.6,
-     64.0
+     67
     ],
     "Sapling Nursery": [
      0,
      null,
      3.8,
-     43.0
+     40
     ]
    }
   },
   {
-   "nombre": "Jeskai Control",
-   "colores": "WUR",
-   "meta": 1.0,
+   "nombre": "Dimir Control",
+   "colores": "UB",
+   "meta": 1.1,
    "cartas": {
-    "Thor, God of Thunder": [
-     1.5,
-     40.0,
+    "Seasoned Cryomancer": [
+     3.2,
+     42,
      0,
      null
+    ],
+    "Superior Spider-Man": [
+     4.0,
+     33,
+     0,
+     null
+    ],
+    "Deceit": [
+     4.0,
+     33,
+     0,
+     null
+    ],
+    "Uldaros Theorix": [
+     1.6,
+     42,
+     0,
+     null
+    ],
+    "Duress": [
+     2.7,
+     58,
+     2.2,
+     50
+    ],
+    "Day of Black Sun": [
+     1.8,
+     50,
+     1.0,
+     67
+    ],
+    "Strategic Betrayal": [
+     1.1,
+     67,
+     1.8,
+     42
     ],
     "Stock Up": [
-     3.1,
-     100.0,
+     2.8,
+     42,
      0,
      null
     ],
-    "Day of Judgment": [
+    "Deadly Cover-Up": [
+     1.9,
+     83,
+     1.0,
+     50
+    ],
+    "Requiting Hex": [
+     3.0,
+     92,
+     0,
+     null
+    ],
+    "Spell Snare": [
      2.0,
-     40.0,
-     0,
-     null
-    ],
-    "Firebending Lesson": [
-     3.9,
-     67.0,
-     0,
-     null
+     67,
+     1.0,
+     42
     ],
     "Three Steps Ahead": [
-     1.6,
-     80.0,
+     2.3,
+     50,
+     0,
+     null
+    ],
+    "Bitter Triumph": [
+     2.3,
+     83,
      0,
      null
     ],
     "Consult the Star Charts": [
-     2.6,
-     33.0,
+     3.7,
+     100,
      0,
      null
     ],
-    "Get Lost": [
-     3.0,
-     33.0,
-     0,
-     null
-    ],
-    "Lightning Helix": [
-     3.0,
-     33.0,
-     0,
-     null
-    ],
-    "No More Lies": [
-     3.3,
-     53.0,
-     0,
-     null
-    ],
-    "Jeskai Revelation": [
-     3.5,
-     67.0,
-     0,
-     null
-    ],
-    "Tablet of Discovery": [
+    "Countersculpt": [
      4.0,
-     60.0,
+     50,
      0,
      null
     ],
-    "Chandra, Chill of Compliance": [
-     2.7,
-     40.0,
+    "Shoot the Sheriff": [
+     1.0,
+     33,
      0,
      null
     ],
-    "Chandra, Torch of Defiance": [
-     2.1,
-     47.0,
+    "Theorix Charm": [
+     1.5,
+     50,
      0,
      null
     ],
     "The Theorist, Jace Beleren": [
-     2.8,
-     40.0,
-     0,
-     null
-    ],
-    "Elspeth, Storm Slayer": [
-     1.8,
-     33.0,
-     0,
-     null
-    ],
-    "Ajani Unrelenting": [
-     2.3,
-     47.0,
-     0,
-     null
-    ],
-    "Cori Mountain Monastery": [
-     1.0,
-     47.0,
-     0,
-     null
-    ],
-    "Floodfarm Verge": [
-     3.3,
-     60.0,
-     0,
-     null
-    ],
-    "Great Hall of the Biblioplex": [
      3.0,
-     40.0,
+     75,
      0,
      null
     ],
-    "Hallowed Fountain": [
-     3.0,
-     100.0,
-     0,
-     null
-    ],
-    "Mistrise Village": [
+    "Agna Qel'a": [
      1.0,
-     67.0,
+     33,
      0,
      null
     ],
-    "Riverpyre Verge": [
-     2.5,
-     100.0,
+    "Demolition Field": [
+     1.3,
+     58,
      0,
      null
     ],
-    "Sacred Foundry": [
-     2.6,
-     67.0,
+    "Fountainport": [
+     1.3,
+     33,
      0,
      null
     ],
-    "Spirebluff Canal": [
-     2.1,
-     60.0,
+    "Gloomlake Verge": [
+     4.0,
+     100,
      0,
      null
     ],
-    "Steam Vents": [
-     3.3,
-     100.0,
+    "Multiversal Passage": [
+     2.0,
+     42,
      0,
      null
     ],
-    "Stormcarved Coast": [
+    "Petrified Hamlet": [
      1.4,
-     53.0,
-     0,
-     null
+     42,
+     1.4,
+     42
     ],
-    "Sundown Pass": [
+    "Restless Reef": [
      2.1,
-     67.0,
+     83,
      0,
      null
     ],
-    "Fire Magic": [
+    "Shipwreck Marsh": [
+     3.6,
+     92,
      0,
-     null,
-     1.7,
-     40.0
+     null
+    ],
+    "Theorist's Sanctum": [
+     1.5,
+     50,
+     0,
+     null
+    ],
+    "Undercity Sewers": [
+     2.0,
+     50,
+     0,
+     null
+    ],
+    "Watery Grave": [
+     4.0,
+     100,
+     0,
+     null
     ],
     "Ghost Vacuum": [
      0,
      null,
-     1.3,
-     53.0
+     1.6,
+     58
     ],
     "Disdainful Stroke": [
      0,
      null,
-     1.2,
-     87.0
+     1.3,
+     92
     ],
     "Flashfreeze": [
      0,
      null,
-     2.1,
-     100.0
+     2.0,
+     75
     ],
     "Negate": [
      0,
      null,
-     1.5,
-     67.0
+     1.1,
+     75
     ],
-    "Rest in Peace": [
+    "Outrageous Robbery": [
+     0,
+     null,
+     1.3,
+     33
+    ],
+    "Terminal Criticism": [
      0,
      null,
      2.0,
-     40.0
+     42
     ],
-    "Voice of Victory": [
+    "Qarsi Revenant": [
      0,
      null,
-     2.8,
-     40.0
-    ],
-    "Pinnacle Starcage": [
-     0,
-     null,
-     1.5,
-     53.0
+     2.0,
+     42
     ]
    }
   },
@@ -3358,123 +3617,129 @@
    "colores": "WBR",
    "meta": 1.0,
    "cartas": {
-    "Cecil, Dark Knight": [
-     1.9,
-     47.0,
-     0,
-     null
-    ],
     "Marauding Mako": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Moonshadow": [
      3.9,
-     100.0,
+     100,
      0,
      null
     ],
     "Bloodghast": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Hardened Academic": [
      4.0,
-     94.0,
+     94,
      0,
      null
     ],
     "Inti, Seneschal of the Sun": [
-     1.4,
-     82.0,
+     1.5,
+     81,
      0,
      null
     ],
     "Iron-Shield Elf": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Casey Jones, Vigilante": [
      1.0,
-     53.0,
+     38,
      0,
      null
     ],
     "Tersa Lightshatter": [
      2.1,
-     100.0,
+     88,
      0,
      null
     ],
     "Carnage, Crimson Chaos": [
-     2.0,
-     65.0,
+     1.8,
+     81,
      0,
      null
     ],
     "Practiced Offense": [
      3.5,
-     100.0,
+     100,
      0,
      null
     ],
     "Erode": [
      2.0,
-     94.0,
+     94,
      0,
      null
     ],
     "Requiting Hex": [
      2.1,
-     100.0,
+     94,
      0,
      null
     ],
     "Cool but Rude": [
      4.0,
-     100.0,
+     100,
+     0,
+     null
+    ],
+    "Blazemire Verge": [
+     1.1,
+     44,
      0,
      null
     ],
     "Blood Crypt": [
      3.9,
-     100.0,
+     100,
      0,
      null
     ],
     "Concealed Courtyard": [
-     3.0,
-     100.0,
+     2.9,
+     100,
      0,
      null
     ],
     "Godless Shrine": [
-     2.8,
-     100.0,
+     2.9,
+     100,
      0,
      null
     ],
     "Inspiring Vantage": [
-     2.4,
-     100.0,
+     2.3,
+     100,
+     0,
+     null
+    ],
+    "Multiversal Passage": [
+     1.1,
+     44,
      0,
      null
     ],
     "Sacred Foundry": [
-     3.7,
-     100.0,
+     3.8,
+     100,
      0,
      null
     ],
     "Starting Town": [
-     3.5,
-     100.0,
+     3.6,
+     100,
      0,
      null
     ],
@@ -3482,230 +3747,49 @@
      0,
      null,
      2.1,
-     41.0
+     50
     ],
     "Requisition Raid": [
      0,
      null,
-     1.2,
-     53.0
+     1.3,
+     38
     ],
     "Sheltered by Ghosts": [
      0,
      null,
-     2.8,
-     59.0
+     2.5,
+     50
     ],
     "Shoot the Sheriff": [
      0,
      null,
      1.9,
-     65.0
+     56
     ],
     "Strategic Betrayal": [
      0,
      null,
-     2.8,
-     82.0
+     2.7,
+     81
     ],
     "Voice of Victory": [
      0,
      null,
      2.6,
-     53.0
-    ],
-    "Case of the Crimson Pulse": [
-     0,
-     null,
-     1.2,
-     35.0
+     56
     ],
     "Monument to Endurance": [
      0,
      null,
-     2.6,
-     71.0
+     2.5,
+     69
     ],
     "Avatar's Wrath": [
      0,
      null,
      1.7,
-     41.0
-    ]
-   }
-  },
-  {
-   "nombre": "Dimir Control",
-   "colores": "UB",
-   "meta": 0.8,
-   "cartas": {
-    "Seasoned Cryomancer": [
-     3.3,
-     36.0,
-     0,
-     null
-    ],
-    "Uldaros Theorix": [
-     1.5,
-     36.0,
-     0,
-     null
-    ],
-    "Duress": [
-     2.7,
-     64.0,
-     0,
-     null
-    ],
-    "Day of Black Sun": [
-     1.8,
-     55.0,
-     0,
-     null
-    ],
-    "Strategic Betrayal": [
-     1.1,
-     73.0,
-     0,
-     null
-    ],
-    "Stock Up": [
-     2.8,
-     55.0,
-     0,
-     null
-    ],
-    "Deadly Cover-Up": [
-     1.9,
-     73.0,
-     0,
-     null
-    ],
-    "Requiting Hex": [
-     3.0,
-     91.0,
-     0,
-     null
-    ],
-    "Spell Snare": [
-     1.9,
-     73.0,
-     0,
-     null
-    ],
-    "Three Steps Ahead": [
-     2.3,
-     64.0,
-     0,
-     null
-    ],
-    "Bitter Triumph": [
-     2.1,
-     82.0,
-     0,
-     null
-    ],
-    "Consult the Star Charts": [
-     3.5,
-     100.0,
-     0,
-     null
-    ],
-    "Countersculpt": [
-     4.0,
-     36.0,
-     0,
-     null
-    ],
-    "Shoot the Sheriff": [
-     1.0,
-     45.0,
-     0,
-     null
-    ],
-    "Theorix Charm": [
-     1.6,
-     45.0,
-     0,
-     null
-    ],
-    "We Say Thee Nay!": [
-     2.0,
-     36.0,
-     0,
-     null
-    ],
-    "The Theorist, Jace Beleren": [
-     2.9,
-     64.0,
-     0,
-     null
-    ],
-    "Agna Qel'a": [
-     1.0,
-     36.0,
-     0,
-     null
-    ],
-    "Demolition Field": [
-     1.3,
-     55.0,
-     0,
-     null
-    ],
-    "Gloomlake Verge": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Restless Reef": [
-     2.1,
-     82.0,
-     0,
-     null
-    ],
-    "Shipwreck Marsh": [
-     3.6,
-     82.0,
-     0,
-     null
-    ],
-    "Undercity Sewers": [
-     2.0,
-     45.0,
-     0,
-     null
-    ],
-    "Watery Grave": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Ghost Vacuum": [
-     0,
-     null,
-     1.4,
-     64.0
-    ],
-    "Disdainful Stroke": [
-     0,
-     null,
-     1.3,
-     82.0
-    ],
-    "Flashfreeze": [
-     0,
-     null,
-     2.0,
-     73.0
-    ],
-    "Negate": [
-     0,
-     null,
-     1.1,
-     82.0
+     44
     ]
    }
   },
@@ -3716,85 +3800,91 @@
    "cartas": {
     "Forsaken Miner": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Iridescent Vinelasher": [
      3.6,
-     100.0,
+     100,
      0,
      null
     ],
     "Nighthowl Pursuer": [
      4.0,
-     70.0,
+     78,
      0,
      null
     ],
     "Desolation Prowler": [
      4.0,
-     70.0,
+     78,
      0,
      null
     ],
     "Gollum, Riddle Master": [
      2.3,
-     100.0,
+     100,
      0,
      null
     ],
     "Sunset Saboteur": [
      4.0,
-     70.0,
+     78,
      0,
      null
     ],
     "Timeline Culler": [
-     3.0,
-     40.0,
+     2.7,
+     33,
      0,
      null
     ],
+    "Strategic Betrayal": [
+     2.0,
+     33,
+     2.9,
+     100
+    ],
     "Dissection Practice": [
      3.3,
-     80.0,
+     89,
      0,
      null
     ],
     "Requiting Hex": [
-     3.5,
-     100.0,
+     3.4,
+     100,
      0,
      null
     ],
     "Shoot the Sheriff": [
-     1.6,
-     50.0,
-     0,
-     null
+     1.5,
+     44,
+     1.5,
+     44
     ],
     "Lich's Relic": [
      2.5,
-     60.0,
+     67,
      0,
      null
     ],
     "Corpses of the Lost": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Realm of Koh": [
      1.9,
-     90.0,
+     100,
      0,
      null
     ],
     "Soulstone Sanctuary": [
      2.7,
-     100.0,
+     100,
      0,
      null
     ],
@@ -3802,25 +3892,25 @@
      0,
      null,
      3.7,
-     100.0
+     100
     ],
     "Karn, Argent Defender": [
      0,
      null,
      3.2,
-     60.0
+     67
     ],
-    "Strategic Betrayal": [
+    "Terminal Criticism": [
      0,
      null,
      3.0,
-     100.0
+     33
     ],
     "Elegy Acolyte": [
      0,
      null,
      2.0,
-     80.0
+     89
     ]
    }
   },
@@ -3830,281 +3920,257 @@
    "meta": 0.7,
    "cartas": {
     "Fanatical Firebrand": [
-     3.7,
-     60.0,
+     3.6,
+     78,
      0,
      null
     ],
     "Hired Claw": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Emberheart Challenger": [
      4.0,
-     90.0,
+     89,
      0,
      null
     ],
+    "Hexing Squelcher": [
+     2.3,
+     33,
+     2.0,
+     89
+    ],
     "Stingcaster Mage": [
      4.0,
-     60.0,
+     78,
      0,
      null
     ],
     "Tomik, Izzet Sparkmage": [
      2.0,
-     60.0,
+     78,
      0,
      null
     ],
     "Tersa Lightshatter": [
      3.0,
-     60.0,
+     78,
      0,
      null
     ],
     "Nova Hellkite": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Plasma Bolt": [
      2.0,
-     60.0,
+     78,
      0,
      null
     ],
     "Burst Lightning": [
      4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Shock": [
-     3.3,
-     40.0,
+     100,
      0,
      null
     ],
     "Lightning Strike": [
-     3.0,
-     80.0,
+     3.4,
+     78,
      0,
      null
     ],
     "Chandra, Torch of Defiance": [
      2.0,
-     40.0,
+     44,
      0,
      null
     ],
     "Rockface Village": [
-     2.2,
-     90.0,
+     2.0,
+     89,
      0,
      null
     ],
     "Soulstone Sanctuary": [
-     3.1,
-     100.0,
+     2.9,
+     100,
      0,
      null
-    ],
-    "Ghost Vacuum": [
-     0,
-     null,
-     1.5,
-     40.0
     ],
     "Soul-Guide Lantern": [
      0,
      null,
-     2.8,
-     90.0
-    ],
-    "Hexing Squelcher": [
-     0,
-     null,
-     2.1,
-     90.0
+     2.6,
+     89
     ],
     "Magebane Lizard": [
      0,
      null,
-     2.8,
-     100.0
+     3.1,
+     100
     ],
     "Sear": [
      0,
      null,
-     2.9,
-     70.0
+     3.0,
+     89
     ],
     "Sunspine Lynx": [
      0,
      null,
      3.7,
-     100.0
+     100
     ]
    }
   },
   {
    "nombre": "Boros Tokens",
    "colores": "WR",
-   "meta": 0.7,
+   "meta": 0.6,
    "cartas": {
     "Stadium Headliner": [
      4.0,
-     100.0,
+     92,
      0,
      null
     ],
     "Belladonna Took": [
-     4.0,
-     83.0,
+     3.9,
+     85,
      0,
      null
     ],
     "Voice of Victory": [
-     4.0,
-     100.0,
+     3.9,
+     100,
      0,
      null
     ],
     "Song of Totentanz": [
      3.8,
-     92.0,
+     92,
      0,
      null
     ],
     "Hop to It": [
      2.0,
-     75.0,
+     69,
      0,
      null
     ],
     "Erode": [
-     1.5,
-     33.0,
-     0,
-     null
+     1.8,
+     38,
+     2.0,
+     38
     ],
     "Torch the Tower": [
      3.2,
-     100.0,
+     92,
      0,
      null
     ],
     "Frontline Rush": [
      4.0,
-     83.0,
+     77,
      0,
      null
     ],
     "The Last Ronin's Technique": [
      3.6,
-     92.0,
+     85,
      0,
      null
     ],
     "Political Triumph": [
      4.0,
-     92.0,
+     85,
      0,
      null
     ],
     "Warleader's Call": [
-     3.8,
-     100.0,
+     3.7,
+     100,
      0,
      null
     ],
     "Dalkovan Encampment": [
      2.7,
-     100.0,
+     92,
      0,
      null
     ],
     "Fountainport": [
      1.8,
-     67.0,
+     69,
      0,
      null
     ],
     "Inspiring Vantage": [
      4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Multiversal Passage": [
-     2.5,
-     33.0,
+     92,
      0,
      null
     ],
     "Sacred Foundry": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Sunbillow Verge": [
      4.0,
-     100.0,
+     100,
      0,
      null
-    ],
-    "Requisition Raid": [
-     0,
-     null,
-     1.8,
-     33.0
     ],
     "Seam Rip": [
      0,
      null,
      2.4,
-     67.0
+     62
     ],
     "Bilbo's Gambit": [
      0,
      null,
      2.9,
-     75.0
+     69
     ],
     "Get Lost": [
      0,
      null,
      2.0,
-     33.0
+     38
     ],
     "Rest in Peace": [
      0,
      null,
      3.3,
-     100.0
+     92
     ],
     "Pyrrhic Strike": [
      0,
      null,
      2.0,
-     67.0
+     62
     ],
     "Sunspine Lynx": [
      0,
      null,
      3.2,
-     42.0
+     38
     ],
     "Elspeth, Storm Slayer": [
      0,
      null,
      1.8,
-     50.0
+     46
     ]
    }
   },
@@ -4115,91 +4181,91 @@
    "cartas": {
     "Greasewrench Goblin": [
      3.6,
-     77.0,
+     77,
      0,
      null
     ],
     "Hired Claw": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Hexing Squelcher": [
      3.8,
-     69.0,
+     69,
      0,
      null
     ],
     "Scalding Viper": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Colorstorm Stallion": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Smaug the Magnificent": [
      1.8,
-     77.0,
+     77,
      0,
      null
     ],
     "Nova Hellkite": [
      3.8,
-     100.0,
+     100,
      0,
      null
     ],
     "Channeled Dragonfire": [
      1.8,
-     85.0,
+     85,
      0,
      null
     ],
     "Burst Lightning": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Vibrant Outburst": [
      3.9,
-     100.0,
+     100,
      0,
      null
     ],
     "Riverpyre Verge": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Soulstone Sanctuary": [
      2.9,
-     85.0,
+     85,
      0,
      null
     ],
     "Spirebluff Canal": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Steam Vents": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Stormcarved Coast": [
      2.0,
-     85.0,
+     85,
      0,
      null
     ],
@@ -4207,150 +4273,150 @@
      0,
      null,
      2.0,
-     100.0
+     100
     ],
     "Spell Pierce": [
      0,
      null,
      3.0,
-     85.0
+     85
     ],
     "Magebane Lizard": [
      0,
      null,
      2.7,
-     92.0
+     92
     ],
     "Sear": [
      0,
      null,
      3.2,
-     100.0
+     100
     ],
     "Sunspine Lynx": [
      0,
      null,
      4.0,
-     85.0
+     85
     ]
    }
   },
   {
    "nombre": "Selesnya Ouroboroid",
-   "colores": "GW",
+   "colores": "WG",
    "meta": 0.5,
    "cartas": {
     "Goldvein Hydra": [
      1.0,
-     86.0,
+     86,
      0,
      null
     ],
     "Llanowar Elves": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Pawpatch Recruit": [
      3.3,
-     100.0,
+     100,
      0,
      null
     ],
     "Bejeweled Warg": [
      2.6,
-     100.0,
+     100,
      0,
      null
     ],
     "Great Divide Guide": [
      1.8,
-     71.0,
+     71,
      0,
      null
     ],
     "Spider Manifestation": [
      3.1,
-     100.0,
+     100,
      0,
      null
     ],
     "Surrak, Elusive Hunter": [
      3.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Brightglass Gearhulk": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Leatherhead, Swamp Stalker": [
      4.0,
-     71.0,
+     71,
      0,
      null
     ],
     "Ouroboroid": [
      2.6,
-     100.0,
+     100,
      0,
      null
     ],
     "Practiced Offense": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Skateboard": [
      1.0,
-     71.0,
+     71,
      0,
      null
     ],
     "Meltstrider's Resolve": [
      1.3,
-     100.0,
-     0,
-     null
+     100,
+     1.0,
+     71
     ],
     "Seam Rip": [
      2.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Abandoned Air Temple": [
      2.1,
-     100.0,
+     100,
      0,
      null
     ],
     "Gathering Place": [
      1.0,
-     57.0,
+     57,
      0,
      null
     ],
     "Hushwood Verge": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Multiversal Passage": [
      3.0,
-     86.0,
+     86,
      0,
      null
     ],
     "Temple Garden": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
@@ -4358,206 +4424,31 @@
      0,
      null,
      2.1,
-     100.0
+     100
     ],
     "Dawn's Truce": [
      0,
      null,
      2.8,
-     71.0
+     71
     ],
     "Rest in Peace": [
      0,
      null,
      3.1,
-     100.0
+     100
     ],
     "Sheltered by Ghosts": [
      0,
      null,
      2.4,
-     100.0
+     100
     ],
     "Elspeth, Storm Slayer": [
      0,
      null,
      2.0,
-     71.0
-    ]
-   }
-  },
-  {
-   "nombre": "Bant Airbending Combo",
-   "colores": "GWU",
-   "meta": 0.5,
-   "cartas": {
-    "Llanowar Elves": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Bramble Familiar": [
-     3.4,
-     100.0,
-     0,
-     null
-    ],
-    "Doc Aurlock, Grizzled Genius": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Jennifer Walters": [
-     2.0,
-     57.0,
-     0,
-     null
-    ],
-    "Spider Manifestation": [
-     3.3,
-     57.0,
-     0,
-     null
-    ],
-    "Aang, Swift Savior": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Formidable Speaker": [
-     2.7,
-     43.0,
-     0,
-     null
-    ],
-    "Appa, Steadfast Guardian": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Aang, at the Crossroads": [
-     2.9,
-     100.0,
-     0,
-     null
-    ],
-    "Michelangelo's Technique": [
-     3.0,
-     43.0,
-     0,
-     null
-    ],
-    "The Mind Stone": [
-     2.2,
-     71.0,
-     0,
-     null
-    ],
-    "Interdimensional Web Watch": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Airbender Ascension": [
-     1.4,
-     71.0,
-     0,
-     null
-    ],
-    "Breeding Pool": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Cavern of Souls": [
-     2.0,
-     100.0,
-     0,
-     null
-    ],
-    "Floodfarm Verge": [
-     2.6,
-     71.0,
-     0,
-     null
-    ],
-    "Hallowed Fountain": [
-     3.1,
-     100.0,
-     0,
-     null
-    ],
-    "Hushwood Verge": [
-     3.9,
-     100.0,
-     0,
-     null
-    ],
-    "Starting Town": [
-     3.9,
-     100.0,
-     0,
-     null
-    ],
-    "Temple Garden": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Seam Rip": [
-     0,
-     null,
-     2.9,
-     100.0
-    ],
-    "Bovine Intervention": [
-     0,
-     null,
-     2.0,
-     57.0
-    ],
-    "Negate": [
-     0,
-     null,
-     2.0,
-     43.0
-    ],
-    "Rest in Peace": [
-     0,
-     null,
-     2.5,
-     86.0
-    ],
-    "Aven Interrupter": [
-     0,
-     null,
-     1.3,
-     57.0
-    ],
-    "Surrak, Elusive Hunter": [
-     0,
-     null,
-     2.7,
-     86.0
-    ],
-    "Beza, the Bounding Spring": [
-     0,
-     null,
-     2.3,
-     43.0
-    ],
-    "Leatherhead, Swamp Stalker": [
-     0,
-     null,
-     1.7,
-     43.0
+     71
     ]
    }
   },
@@ -4568,575 +4459,370 @@
    "cartas": {
     "Molten-Core Maestro": [
      3.2,
-     100.0,
+     100,
      0,
      null
     ],
     "Sanar, Unfinished Genius": [
      3.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Colorstorm Stallion": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Thor, God of Thunder": [
      1.5,
-     33.0,
+     33,
      0,
      null
     ],
     "Stock Up": [
      3.3,
-     100.0,
+     100,
      0,
      null
     ],
     "Rapturous Moment": [
      2.0,
-     33.0,
+     33,
      0,
      null
     ],
     "Improvisation Capstone": [
      1.2,
-     100.0,
+     100,
      0,
      null
     ],
     "Burst Lightning": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Fire Magic": [
      1.0,
-     83.0,
-     0,
-     null
+     83,
+     1.0,
+     83
     ],
     "Flashback": [
      1.0,
-     83.0,
+     83,
      0,
      null
     ],
     "Into the Flood Maw": [
      1.0,
-     83.0,
+     83,
      0,
      null
     ],
     "Spell Pierce": [
      1.0,
-     67.0,
-     0,
-     null
+     67,
+     1.2,
+     83
     ],
     "Spell Snare": [
      1.0,
-     67.0,
+     67,
      0,
      null
     ],
     "Three Steps Ahead": [
      1.0,
-     67.0,
-     0,
-     null
+     67,
+     1.0,
+     83
     ],
     "Consult the Star Charts": [
      2.0,
-     67.0,
+     67,
      0,
      null
     ],
     "Prismari Charm": [
      2.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Traumatic Critique": [
      1.0,
-     67.0,
+     67,
      0,
      null
     ],
     "Ashling's Command": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Tablet of Discovery": [
      3.8,
-     100.0,
+     100,
      0,
      null
     ],
     "Cori Mountain Monastery": [
      1.0,
-     67.0,
+     67,
      0,
      null
     ],
     "Mistrise Village": [
      1.0,
-     67.0,
+     67,
      0,
      null
     ],
     "Multiversal Passage": [
      1.2,
-     83.0,
+     83,
      0,
      null
     ],
     "Riverpyre Verge": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Spirebluff Canal": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Steam Vents": [
      4.0,
-     100.0,
+     100,
      0,
      null
     ],
     "Stormcarved Coast": [
      4.0,
-     100.0,
+     100,
      0,
      null
+    ],
+    "Disdainful Stroke": [
+     0,
+     null,
+     1.0,
+     83
     ],
     "Flashfreeze": [
      0,
      null,
      2.0,
-     83.0
+     83
+    ],
+    "Negate": [
+     0,
+     null,
+     1.5,
+     33
     ],
     "Return the Favor": [
      0,
      null,
      1.0,
-     50.0
+     50
     ],
     "Sear": [
      0,
      null,
      2.0,
-     100.0
+     100
     ],
     "Avengers Disassembled": [
      0,
      null,
      1.5,
-     33.0
+     33
     ],
     "Broadside Barrage": [
      0,
      null,
      2.0,
-     67.0
+     67
     ],
     "Emeritus of Ideation": [
      0,
      null,
      1.8,
-     83.0
+     83
     ]
    }
   },
   {
-   "nombre": "Golgari Midrange",
-   "colores": "BG",
+   "nombre": "Temur Prowess",
+   "colores": "URG",
    "meta": 0.4,
    "cartas": {
-    "Keen-Eyed Curator": [
-     2.0,
-     40.0,
+    "Elusive Otter": [
+     4.0,
+     100,
      0,
      null
     ],
-    "Mosswood Dreadknight": [
-     3.0,
-     40.0,
+    "Pompous Battlemage": [
+     4.0,
+     100,
      0,
      null
     ],
-    "Sharp-Eyed Rookie": [
-     3.0,
-     40.0,
-     0,
-     null
-    ],
-    "Preacher of the Schism": [
-     3.0,
-     40.0,
-     0,
-     null
-    ],
-    "Sentinel of the Nameless City": [
-     3.0,
-     40.0,
-     0,
-     null
-    ],
-    "Elegy Acolyte": [
-     3.0,
-     40.0,
-     0,
-     null
-    ],
-    "Super-Skrull": [
+    "Balmor, Battlemage Captain": [
      1.0,
-     40.0,
+     100,
      0,
      null
     ],
-    "Duress": [
-     3.3,
-     80.0,
-     0,
-     null
-    ],
-    "Intimidation Tactics": [
-     2.0,
-     40.0,
-     0,
-     null
-    ],
-    "Maelstrom Pulse": [
-     1.2,
-     100.0,
-     0,
-     null
-    ],
-    "Deadly Cover-Up": [
-     3.0,
-     40.0,
-     0,
-     null
-    ],
-    "Together as One": [
+    "Callous Sell-Sword": [
      4.0,
-     40.0,
+     100,
      0,
      null
     ],
-    "Requiting Hex": [
-     3.0,
-     100.0,
+    "Drake Hatcher": [
+     2.0,
+     100,
      0,
      null
     ],
-    "Bitter Triumph": [
-     1.7,
-     60.0,
+    "Slickshot Show-Off": [
+     4.0,
+     100,
      0,
      null
     ],
-    "Shoot the Sheriff": [
-     2.4,
-     100.0,
+    "Ancestral Anger": [
+     4.0,
+     100,
      0,
      null
     ],
-    "Witherbloom Charm": [
+    "Sleight of Hand": [
+     4.0,
+     100,
+     0,
+     null
+    ],
+    "Wild Ride": [
+     4.0,
+     100,
+     0,
+     null
+    ],
+    "Full Bore": [
+     2.0,
+     100,
      1.0,
-     40.0,
-     0,
-     null
+     100
     ],
-    "Archenemy's Charm": [
-     2.0,
-     40.0,
-     0,
-     null
-    ],
-    "Firdoch Core": [
-     3.7,
-     60.0,
-     0,
-     null
-    ],
-    "Unholy Annex": [
-     4.0,
-     60.0,
-     0,
-     null
-    ],
-    "Professor Dellian Fel": [
-     1.6,
-     100.0,
-     0,
-     null
-    ],
-    "Blooming Marsh": [
-     4.0,
-     60.0,
-     0,
-     null
-    ],
-    "Deathcap Glade": [
-     2.2,
-     100.0,
-     0,
-     null
-    ],
-    "Overgrown Tomb": [
-     3.4,
-     100.0,
-     0,
-     null
-    ],
-    "Restless Cottage": [
-     2.6,
-     100.0,
-     0,
-     null
-    ],
-    "Wastewood Verge": [
-     3.8,
-     80.0,
-     0,
-     null
-    ],
-    "Heritage Reclamation": [
-     0,
-     null,
-     2.0,
-     60.0
-    ],
-    "Morlun, Devourer of Spiders": [
-     0,
-     null,
-     2.0,
-     40.0
-    ],
-    "Outrageous Robbery": [
-     0,
-     null,
-     1.0,
-     40.0
-    ],
-    "Qarsi Revenant": [
-     0,
-     null,
-     2.0,
-     40.0
-    ],
-    "Surrak, Elusive Hunter": [
-     0,
-     null,
+    "Opt": [
      3.0,
-     40.0
-    ],
-    "Ancient Vendetta": [
-     0,
-     null,
-     1.0,
-     60.0
-    ],
-    "Cease": [
-     0,
-     null,
-     1.0,
-     40.0
-    ]
-   }
-  },
-  {
-   "nombre": "Sultai Reanimator",
-   "colores": "UBG",
-   "meta": 0.4,
-   "cartas": {
-    "Oblivious Bookworm": [
-     3.7,
-     100.0,
+     100,
      0,
      null
     ],
-    "Town Greeter": [
-     2.7,
-     50.0,
-     0,
-     null
-    ],
-    "Formidable Speaker": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Seasoned Cryomancer": [
-     4.0,
-     67.0,
-     0,
-     null
-    ],
-    "Ouroboroid": [
+    "Secret Identity": [
      2.0,
-     67.0,
+     100,
+     1.0,
+     100
+    ],
+    "Shore Up": [
+     1.0,
+     100,
      0,
      null
     ],
-    "Superior Spider-Man": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Overlord of the Balemurk": [
-     2.5,
-     100.0,
-     0,
-     null
-    ],
-    "Wistfulness": [
-     1.8,
-     100.0,
-     0,
-     null
-    ],
-    "Deceit": [
-     4.0,
-     33.0,
-     0,
-     null
-    ],
-    "Ardyn, the Usurper": [
-     2.2,
-     100.0,
-     0,
-     null
-    ],
-    "Bringer of the Last Gift": [
-     4.0,
-     100.0,
-     0,
-     null
-    ],
-    "Rapid Rescue": [
-     2.5,
-     67.0,
-     0,
-     null
-    ],
-    "Requiting Hex": [
-     2.3,
-     50.0,
-     0,
-     null
-    ],
-    "Bitter Triumph": [
+    "Turn Inside Out": [
      2.0,
-     67.0,
+     100,
      0,
      null
     ],
-    "Awaken the Honored Dead": [
-     2.2,
-     83.0,
-     0,
-     null
-    ],
-    "Breeding Pool": [
-     3.5,
-     100.0,
-     0,
-     null
-    ],
-    "Cavern of Souls": [
+    "Multiversal Passage": [
      3.0,
-     100.0,
+     100,
      0,
      null
     ],
-    "Gloomlake Verge": [
-     2.0,
-     33.0,
+    "Riverpyre Verge": [
+     3.0,
+     100,
      0,
      null
     ],
-    "Overgrown Tomb": [
-     3.8,
-     100.0,
+    "Spirebluff Canal": [
+     4.0,
+     100,
      0,
      null
     ],
     "Starting Town": [
-     3.3,
-     67.0,
+     4.0,
+     100,
      0,
      null
     ],
-    "Wastewood Verge": [
-     2.2,
-     100.0,
+    "Steam Vents": [
+     4.0,
+     100,
      0,
      null
     ],
-    "Watery Grave": [
-     3.7,
-     100.0,
-     0,
-     null
-    ],
-    "Willowrush Verge": [
-     2.2,
-     100.0,
-     0,
-     null
-    ],
-    "Duress": [
+    "Dreadmaw's Ire": [
      0,
      null,
-     3.0,
-     100.0
+     1.0,
+     100
     ],
-    "Negate": [
-     0,
-     null,
-     1.3,
-     67.0
-    ],
-    "Strategic Betrayal": [
-     0,
-     null,
-     2.2,
-     100.0
-    ],
-    "Witherbloom Charm": [
+    "Into the Flood Maw": [
      0,
      null,
      2.0,
-     67.0
+     100
     ],
-    "Dauntless Scrapbot": [
+    "Octopus Form": [
+     0,
+     null,
+     3.0,
+     100
+    ],
+    "Soul-Guide Lantern": [
+     0,
+     null,
+     2.0,
+     100
+    ],
+    "Spell Pierce": [
+     0,
+     null,
+     3.0,
+     100
+    ],
+    "Poison Dart Frog": [
      0,
      null,
      1.0,
-     67.0
+     100
     ],
-    "Disruptive Stormbrood": [
+    "Pyroclasm": [
      0,
      null,
      1.0,
-     67.0
+     100
     ]
    }
   }

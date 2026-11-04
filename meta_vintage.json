@@ -1,0 +1,7492 @@
+{
+  "formato": "vintage",
+  "fecha": "2026-11-01",
+  "fuente": "MTGGoldfish · metagame de Vintage (desglose medio de cartas por arquetipo)",
+  "nota": "Cada carta: [copias medias en el principal, % de mazos que la llevan en el principal, copias medias en el banquillo, % en el banquillo].",
+  "arquetipos": [
+    {
+      "nombre": "Jewel Shops",
+      "colores": "U",
+      "meta": 13.8,
+      "cartas": {
+        "Phyrexian Metamorph": [
+          3.8,
+          98,
+          0,
+          null
+        ],
+        "Chaos Defiler": [
+          1,
+          48,
+          0,
+          null
+        ],
+        "Time Walk": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Transmute Artifact": [
+          3.8,
+          52,
+          0,
+          null
+        ],
+        "Tinker": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Ancestral Recall": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Sink into Stupor": [
+          3.3,
+          100,
+          0,
+          null
+        ],
+        "Paradoxical Outcome": [
+          3.6,
+          56,
+          0,
+          null
+        ],
+        "Force of Will": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Black Lotus": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mana Crypt": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Emerald": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Jet": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Pearl": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Ruby": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Sapphire": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mana Vault": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Manifold Key": [
+          1,
+          72,
+          0,
+          null
+        ],
+        "Sol Ring": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Vexing Bauble": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Grim Monolith": [
+          2.8,
+          92,
+          0,
+          null
+        ],
+        "Time Vault": [
+          1,
+          74,
+          0,
+          null
+        ],
+        "The Fantasticar": [
+          1,
+          48,
+          0,
+          null
+        ],
+        "Trinisphere": [
+          1,
+          75,
+          0,
+          null
+        ],
+        "Relic of Sauron": [
+          3.1,
+          35,
+          0,
+          null
+        ],
+        "The One Ring": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Paradox Engine": [
+          1.1,
+          48,
+          0,
+          null
+        ],
+        "Coveted Jewel": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Tezzeret, Cruel Captain": [
+          1.7,
+          63,
+          0,
+          null
+        ],
+        "Karn, the Great Creator": [
+          1,
+          98,
+          0,
+          null
+        ],
+        "Ancient Tomb": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Mishra's Workshop": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Otawara, Soaring City": [
+          1.1,
+          71,
+          0,
+          null
+        ],
+        "Talon Gates of Madara": [
+          1.9,
+          44,
+          0,
+          null
+        ],
+        "Tolarian Academy": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Urza's Saga": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Grafdigger's Cage": [
+          0,
+          null,
+          1,
+          69
+        ],
+        "Pithing Needle": [
+          0,
+          null,
+          1,
+          42
+        ],
+        "Defense Grid": [
+          0,
+          null,
+          2.7,
+          68
+        ],
+        "Void Mirror": [
+          0,
+          null,
+          2.4,
+          41
+        ],
+        "Dismember": [
+          0,
+          null,
+          1.4,
+          41
+        ],
+        "Force of Negation": [
+          0,
+          null,
+          1.6,
+          75
+        ],
+        "Hullbreacher": [
+          0,
+          null,
+          1.7,
+          43
+        ],
+        "Mindbreak Trap": [
+          0,
+          null,
+          1.6,
+          52
+        ],
+        "Argentum Masticore": [
+          0,
+          null,
+          2.6,
+          79
+        ],
+        "Kappa Cannoneer": [
+          0,
+          null,
+          2,
+          34
+        ],
+        "Mycosynth Lattice": [
+          0,
+          null,
+          1,
+          48
+        ],
+        "Wurmcoil Engine": [
+          0,
+          null,
+          1.7,
+          61
+        ]
+      }
+    },
+    {
+      "nombre": "Mono-White Initiative",
+      "colores": "W",
+      "meta": 9.9,
+      "cartas": {
+        "Anointed Peacekeeper": [
+          3.8,
+          99,
+          0,
+          null
+        ],
+        "Archon of Emeria": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Clarion Conqueror": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "White Plume Adventurer": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Seasoned Dungeoneer": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Witch Enchanter": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Chancellor of the Annex": [
+          4,
+          95,
+          0,
+          null
+        ],
+        "Black Lotus": [
+          1,
+          98,
+          0,
+          null
+        ],
+        "Chrome Mox": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Mana Crypt": [
+          1,
+          99,
+          0,
+          null
+        ],
+        "Mox Emerald": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Jet": [
+          1,
+          98,
+          0,
+          null
+        ],
+        "Mox Pearl": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Ruby": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Sapphire": [
+          1,
+          93,
+          0,
+          null
+        ],
+        "Vexing Bauble": [
+          1,
+          93,
+          0,
+          null
+        ],
+        "Void Mirror": [
+          3.8,
+          92,
+          0,
+          null
+        ],
+        "Ancient Tomb": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Cavern of Souls": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Karakas": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Strip Mine": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Wasteland": [
+          3.9,
+          98,
+          0,
+          null
+        ],
+        "Swords to Plowshares": [
+          0,
+          null,
+          3.3,
+          99
+        ],
+        "Containment Priest": [
+          0,
+          null,
+          3.4,
+          94
+        ],
+        "Null Rod": [
+          0,
+          null,
+          1.6,
+          94
+        ],
+        "Archon of Absolution": [
+          0,
+          null,
+          1.9,
+          95
+        ],
+        "Leyline of the Void": [
+          0,
+          null,
+          4,
+          90
+        ]
+      }
+    },
+    {
+      "nombre": "Esper Lurrus Control",
+      "colores": "WUB",
+      "meta": 9.1,
+      "cartas": {
+        "Lurrus of the Dream-Den": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Bilbo, Thief in the Night": [
+          2.9,
+          100,
+          0,
+          null
+        ],
+        "Orcish Bowmasters": [
+          1.8,
+          77,
+          0,
+          null
+        ],
+        "Psychic Frog": [
+          3.7,
+          95,
+          0,
+          null
+        ],
+        "Gitaxian Probe": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Prismatic Ending": [
+          1,
+          99,
+          0,
+          null
+        ],
+        "Thoughtseize": [
+          1.2,
+          84,
+          0,
+          null
+        ],
+        "Demonic Tutor": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Flow State": [
+          3.3,
+          100,
+          0,
+          null
+        ],
+        "Time Walk": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Lorien Revealed": [
+          3,
+          100,
+          0,
+          null
+        ],
+        "Treasure Cruise": [
+          1,
+          85,
+          0,
+          null
+        ],
+        "Ancestral Recall": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Brainstorm": [
+          1,
+          59,
+          0,
+          null
+        ],
+        "Flusterstorm": [
+          1.1,
+          78,
+          0,
+          null
+        ],
+        "Mental Misstep": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Spell Pierce": [
+          1.4,
+          84,
+          0,
+          null
+        ],
+        "Swords to Plowshares": [
+          2.9,
+          100,
+          1.1,
+          99
+        ],
+        "Force of Negation": [
+          3,
+          100,
+          0,
+          null
+        ],
+        "Force of Will": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Black Lotus": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Jet": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Pearl": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Sapphire": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Nihil Spellbomb": [
+          1.1,
+          47,
+          1.5,
+          60
+        ],
+        "Vexing Bauble": [
+          1,
+          65,
+          0,
+          null
+        ],
+        "Null Rod": [
+          1.4,
+          59,
+          1.2,
+          67
+        ],
+        "Flooded Strand": [
+          1.3,
+          100,
+          0,
+          null
+        ],
+        "Karakas": [
+          1,
+          90,
+          0,
+          null
+        ],
+        "Meticulous Archive": [
+          1,
+          43,
+          0,
+          null
+        ],
+        "Misty Rainforest": [
+          1,
+          86,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          1,
+          95,
+          0,
+          null
+        ],
+        "Scalding Tarn": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Strip Mine": [
+          1,
+          94,
+          0,
+          null
+        ],
+        "Tundra": [
+          2.6,
+          100,
+          0,
+          null
+        ],
+        "Undercity Sewers": [
+          1,
+          51,
+          0,
+          null
+        ],
+        "Underground Sea": [
+          2.5,
+          100,
+          0,
+          null
+        ],
+        "Urza's Saga": [
+          1,
+          98,
+          0,
+          null
+        ],
+        "Wasteland": [
+          4,
+          95,
+          0,
+          null
+        ],
+        "The Tabernacle at Pendrell Vale": [
+          0,
+          null,
+          1,
+          67
+        ],
+        "Consign to Memory": [
+          0,
+          null,
+          2,
+          95
+        ],
+        "Fatal Push": [
+          0,
+          null,
+          1.7,
+          69
+        ],
+        "Pithing Needle": [
+          0,
+          null,
+          1.1,
+          46
+        ],
+        "Containment Priest": [
+          0,
+          null,
+          3.2,
+          100
+        ],
+        "Long Goodbye": [
+          0,
+          null,
+          1.3,
+          36
+        ],
+        "Stony Silence": [
+          0,
+          null,
+          1.4,
+          37
+        ],
+        "Mystical Dispute": [
+          0,
+          null,
+          1.6,
+          83
+        ]
+      }
+    },
+    {
+      "nombre": "Blue Tempo",
+      "colores": "UR",
+      "meta": 6.5,
+      "cartas": {
+        "Dragon's Rage Channeler": [
+          1,
+          94,
+          0,
+          null
+        ],
+        "Moonshadow": [
+          1,
+          43,
+          0,
+          null
+        ],
+        "Nethergoyf": [
+          1,
+          34,
+          0,
+          null
+        ],
+        "Pompous Battlemage": [
+          1,
+          42,
+          0,
+          null
+        ],
+        "Bilbo, Thief in the Night": [
+          1,
+          68,
+          0,
+          null
+        ],
+        "Dauthi Voidwalker": [
+          1,
+          43,
+          0,
+          null
+        ],
+        "Ledger Shredder": [
+          1,
+          70,
+          0,
+          null
+        ],
+        "Slickshot Show-Off": [
+          1,
+          45,
+          0,
+          null
+        ],
+        "Sprite Dragon": [
+          1,
+          45,
+          0,
+          null
+        ],
+        "Barrowgoyf": [
+          1,
+          36,
+          0,
+          null
+        ],
+        "Detective's Phoenix": [
+          1,
+          38,
+          0,
+          null
+        ],
+        "Pyrogoyf": [
+          1,
+          38,
+          0,
+          null
+        ],
+        "Murktide Regent": [
+          1,
+          49,
+          0,
+          null
+        ],
+        "Chain Lightning": [
+          1,
+          53,
+          0,
+          null
+        ],
+        "Duress": [
+          1,
+          38,
+          0,
+          null
+        ],
+        "Gitaxian Probe": [
+          1,
+          92,
+          0,
+          null
+        ],
+        "Inquisition of Kozilek": [
+          1,
+          45,
+          0,
+          null
+        ],
+        "Ponder": [
+          1,
+          83,
+          0,
+          null
+        ],
+        "Preordain": [
+          1,
+          79,
+          0,
+          null
+        ],
+        "Thoughtseize": [
+          1,
+          45,
+          0,
+          null
+        ],
+        "Expressive Iteration": [
+          1,
+          79,
+          0,
+          null
+        ],
+        "Flow State": [
+          1,
+          79,
+          0,
+          null
+        ],
+        "Molten Collapse": [
+          1,
+          38,
+          0,
+          null
+        ],
+        "Stock Up": [
+          1.2,
+          38,
+          0,
+          null
+        ],
+        "Lorien Revealed": [
+          1.1,
+          66,
+          0,
+          null
+        ],
+        "Brainstorm": [
+          1,
+          85,
+          0,
+          null
+        ],
+        "Fatal Push": [
+          1,
+          45,
+          0,
+          null
+        ],
+        "Lava Dart": [
+          1,
+          43,
+          0,
+          null
+        ],
+        "Lightning Bolt": [
+          1,
+          92,
+          0,
+          null
+        ],
+        "Mental Misstep": [
+          1,
+          72,
+          0,
+          null
+        ],
+        "Mutagenic Growth": [
+          1,
+          36,
+          0,
+          null
+        ],
+        "Spell Pierce": [
+          1,
+          55,
+          0,
+          null
+        ],
+        "Unholy Heat": [
+          1,
+          81,
+          0,
+          null
+        ],
+        "Counterspell": [
+          1,
+          34,
+          0,
+          null
+        ],
+        "Daze": [
+          1,
+          81,
+          0,
+          null
+        ],
+        "Price of Progress": [
+          1,
+          51,
+          0,
+          null
+        ],
+        "Dismember": [
+          1,
+          57,
+          0,
+          null
+        ],
+        "Force of Negation": [
+          1.1,
+          53,
+          0,
+          null
+        ],
+        "Sink into Stupor": [
+          1,
+          43,
+          0,
+          null
+        ],
+        "Force of Will": [
+          1.2,
+          68,
+          0,
+          null
+        ],
+        "Fireblast": [
+          1,
+          36,
+          0,
+          null
+        ],
+        "Mishra's Bauble": [
+          1,
+          96,
+          0,
+          null
+        ],
+        "Urza's Bauble": [
+          1,
+          91,
+          0,
+          null
+        ],
+        "Cori-Steel Cutter": [
+          1,
+          87,
+          0,
+          null
+        ],
+        "Stormchaser's Talent": [
+          1,
+          36,
+          0,
+          null
+        ],
+        "Arena of Glory": [
+          1,
+          40,
+          0,
+          null
+        ],
+        "Arid Mesa": [
+          1,
+          77,
+          0,
+          null
+        ],
+        "Badlands": [
+          1,
+          40,
+          0,
+          null
+        ],
+        "Bloodstained Mire": [
+          1,
+          96,
+          0,
+          null
+        ],
+        "Flooded Strand": [
+          1,
+          87,
+          0,
+          null
+        ],
+        "Marsh Flats": [
+          1,
+          49,
+          0,
+          null
+        ],
+        "Misty Rainforest": [
+          1.1,
+          91,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          1,
+          96,
+          0,
+          null
+        ],
+        "Prismatic Vista": [
+          1,
+          49,
+          0,
+          null
+        ],
+        "Scalding Tarn": [
+          1,
+          96,
+          0,
+          null
+        ],
+        "Steam Vents": [
+          1,
+          57,
+          0,
+          null
+        ],
+        "Thundering Falls": [
+          1,
+          58,
+          0,
+          null
+        ],
+        "Undercity Sewers": [
+          1,
+          34,
+          0,
+          null
+        ],
+        "Verdant Catacombs": [
+          1,
+          47,
+          0,
+          null
+        ],
+        "Volcanic Island": [
+          1,
+          68,
+          0,
+          null
+        ],
+        "Wooded Foothills": [
+          1,
+          81,
+          0,
+          null
+        ],
+        "Blue Elemental Blast": [
+          0,
+          null,
+          1,
+          57
+        ],
+        "Consign to Memory": [
+          0,
+          null,
+          1,
+          53
+        ],
+        "Hydroblast": [
+          0,
+          null,
+          1,
+          72
+        ],
+        "Pyroblast": [
+          0,
+          null,
+          1.1,
+          87
+        ],
+        "Red Elemental Blast": [
+          0,
+          null,
+          1,
+          94
+        ],
+        "Unlicensed Hearse": [
+          0,
+          null,
+          1,
+          64
+        ],
+        "Ashiok, Dream Render": [
+          0,
+          null,
+          1,
+          42
+        ],
+        "Opposition Agent": [
+          0,
+          null,
+          1,
+          38
+        ],
+        "Toxic Deluge": [
+          0,
+          null,
+          1,
+          36
+        ],
+        "Submerge": [
+          0,
+          null,
+          1,
+          77
+        ],
+        "Pyrokinesis": [
+          0,
+          null,
+          1.1,
+          38
+        ]
+      }
+    },
+    {
+      "nombre": "Lurrus PO",
+      "colores": "WUBR",
+      "meta": 6.4,
+      "cartas": {
+        "Lurrus of the Dream-Den": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Bilbo, Thief in the Night": [
+          1.8,
+          39,
+          0,
+          null
+        ],
+        "Hexing Squelcher": [
+          1.3,
+          61,
+          0,
+          null
+        ],
+        "Snapcaster Mage": [
+          1,
+          95,
+          0,
+          null
+        ],
+        "Thundertrap Trainer": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Gitaxian Probe": [
+          1,
+          98,
+          0,
+          null
+        ],
+        "Forth Eorlingas!": [
+          1,
+          98,
+          0,
+          null
+        ],
+        "Time Walk": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Stock Up": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Lorien Revealed": [
+          1.6,
+          97,
+          0,
+          null
+        ],
+        "Ancestral Recall": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mental Misstep": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Pyroblast": [
+          1,
+          36,
+          2,
+          87
+        ],
+        "Swords to Plowshares": [
+          2,
+          90,
+          2.1,
+          97
+        ],
+        "Flame of Anor": [
+          2.2,
+          98,
+          0,
+          null
+        ],
+        "Force of Negation": [
+          1.8,
+          79,
+          1.7,
+          34
+        ],
+        "Paradoxical Outcome": [
+          3.3,
+          100,
+          0,
+          null
+        ],
+        "Force of Will": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Black Lotus": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mana Crypt": [
+          1,
+          92,
+          0,
+          null
+        ],
+        "Mox Emerald": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Jet": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Opal": [
+          1,
+          66,
+          0,
+          null
+        ],
+        "Mox Pearl": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Ruby": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Sapphire": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mana Vault": [
+          1,
+          74,
+          0,
+          null
+        ],
+        "Portable Hole": [
+          1.1,
+          52,
+          0,
+          null
+        ],
+        "Sol Ring": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Soul-Guide Lantern": [
+          1.1,
+          80,
+          1.5,
+          75
+        ],
+        "Vexing Bauble": [
+          1,
+          79,
+          0,
+          null
+        ],
+        "Flooded Strand": [
+          2.2,
+          98,
+          0,
+          null
+        ],
+        "Meticulous Archive": [
+          1,
+          72,
+          0,
+          null
+        ],
+        "Misty Rainforest": [
+          1.4,
+          75,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          1.2,
+          62,
+          0,
+          null
+        ],
+        "Scalding Tarn": [
+          1.3,
+          92,
+          0,
+          null
+        ],
+        "Tolarian Academy": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Tundra": [
+          2.9,
+          100,
+          0,
+          null
+        ],
+        "Urza's Saga": [
+          1,
+          98,
+          0,
+          null
+        ],
+        "Volcanic Island": [
+          2.4,
+          98,
+          0,
+          null
+        ],
+        "Consign to Memory": [
+          0,
+          null,
+          2.4,
+          66
+        ],
+        "Pithing Needle": [
+          0,
+          null,
+          1.1,
+          70
+        ],
+        "Containment Priest": [
+          0,
+          null,
+          2,
+          82
+        ],
+        "Null Rod": [
+          0,
+          null,
+          2,
+          39
+        ],
+        "Seal of Cleansing": [
+          0,
+          null,
+          1,
+          36
+        ],
+        "Mindbreak Trap": [
+          0,
+          null,
+          1.2,
+          43
+        ]
+      }
+    },
+    {
+      "nombre": "Dimir Lurrus Control",
+      "colores": "UB",
+      "meta": 5.6,
+      "cartas": {
+        "Lurrus of the Dream-Den": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Bilbo, Thief in the Night": [
+          3.3,
+          94,
+          0,
+          null
+        ],
+        "Orcish Bowmasters": [
+          2.5,
+          38,
+          0,
+          null
+        ],
+        "Psychic Frog": [
+          4,
+          79,
+          0,
+          null
+        ],
+        "Gitaxian Probe": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Thoughtseize": [
+          1.9,
+          88,
+          0,
+          null
+        ],
+        "Demonic Tutor": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Flow State": [
+          3.2,
+          96,
+          0,
+          null
+        ],
+        "Time Walk": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Lorien Revealed": [
+          2.1,
+          100,
+          0,
+          null
+        ],
+        "Treasure Cruise": [
+          1,
+          65,
+          0,
+          null
+        ],
+        "Ancestral Recall": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Brainstorm": [
+          1,
+          71,
+          0,
+          null
+        ],
+        "Fatal Push": [
+          2.8,
+          100,
+          1,
+          69
+        ],
+        "Mental Misstep": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Spell Pierce": [
+          2.1,
+          73,
+          0,
+          null
+        ],
+        "Force of Negation": [
+          2.9,
+          100,
+          0,
+          null
+        ],
+        "Force of Will": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Black Lotus": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Lotus Petal": [
+          1,
+          40,
+          0,
+          null
+        ],
+        "Mox Jet": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Pearl": [
+          1,
+          69,
+          0,
+          null
+        ],
+        "Mox Sapphire": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Soul-Guide Lantern": [
+          1.2,
+          58,
+          0,
+          null
+        ],
+        "Null Rod": [
+          1,
+          44,
+          2,
+          81
+        ],
+        "Polluted Delta": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Scalding Tarn": [
+          1,
+          42,
+          0,
+          null
+        ],
+        "Strip Mine": [
+          1,
+          92,
+          0,
+          null
+        ],
+        "Undercity Sewers": [
+          1,
+          96,
+          0,
+          null
+        ],
+        "Underground Sea": [
+          3.9,
+          100,
+          0,
+          null
+        ],
+        "Urza's Saga": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Wasteland": [
+          4,
+          79,
+          0,
+          null
+        ],
+        "The Tabernacle at Pendrell Vale": [
+          0,
+          null,
+          1,
+          62
+        ],
+        "Tormod's Crypt": [
+          0,
+          null,
+          1,
+          35
+        ],
+        "Annul": [
+          0,
+          null,
+          1.1,
+          56
+        ],
+        "Consign to Memory": [
+          0,
+          null,
+          1.8,
+          92
+        ],
+        "Flusterstorm": [
+          0,
+          null,
+          1,
+          35
+        ],
+        "Grafdigger's Cage": [
+          0,
+          null,
+          2.5,
+          67
+        ],
+        "Nihil Spellbomb": [
+          0,
+          null,
+          1,
+          56
+        ],
+        "Pithing Needle": [
+          0,
+          null,
+          1,
+          62
+        ],
+        "Feed the Swarm": [
+          0,
+          null,
+          1,
+          65
+        ],
+        "Long Goodbye": [
+          0,
+          null,
+          1.3,
+          50
+        ],
+        "Dismember": [
+          0,
+          null,
+          1.4,
+          71
+        ],
+        "Mystical Dispute": [
+          0,
+          null,
+          1.6,
+          67
+        ]
+      }
+    },
+    {
+      "nombre": "Red Prison",
+      "colores": "UR",
+      "meta": 5.2,
+      "cartas": {
+        "Dragon's Rage Channeler": [
+          1,
+          40,
+          0,
+          null
+        ],
+        "Moonshadow": [
+          1,
+          40,
+          0,
+          null
+        ],
+        "Ragavan, Nimble Pilferer": [
+          1,
+          40,
+          0,
+          null
+        ],
+        "Dauthi Voidwalker": [
+          1,
+          40,
+          0,
+          null
+        ],
+        "Emperor of Bones": [
+          1,
+          40,
+          0,
+          null
+        ],
+        "Fear of Missing Out": [
+          1,
+          37,
+          0,
+          null
+        ],
+        "Barrowgoyf": [
+          1,
+          37,
+          0,
+          null
+        ],
+        "Broadside Bombardiers": [
+          1.1,
+          70,
+          0,
+          null
+        ],
+        "Detective's Phoenix": [
+          1,
+          37,
+          0,
+          null
+        ],
+        "Gut, True Soul Zealot": [
+          1,
+          47,
+          0,
+          null
+        ],
+        "Magus of the Moon": [
+          1.1,
+          93,
+          0,
+          null
+        ],
+        "Deadpool, Trading Card": [
+          1,
+          37,
+          0,
+          null
+        ],
+        "Headliner Scarlett": [
+          1,
+          53,
+          0,
+          null
+        ],
+        "Pyrogoyf": [
+          1.1,
+          70,
+          0,
+          null
+        ],
+        "Fury": [
+          1,
+          65,
+          0,
+          null
+        ],
+        "Troll of Khazad-dum": [
+          1,
+          35,
+          0,
+          null
+        ],
+        "Inquisition of Kozilek": [
+          1,
+          37,
+          0,
+          null
+        ],
+        "Thoughtseize": [
+          1,
+          40,
+          0,
+          null
+        ],
+        "Molten Collapse": [
+          1,
+          37,
+          0,
+          null
+        ],
+        "Fatal Push": [
+          1,
+          37,
+          0,
+          null
+        ],
+        "Galvanic Discharge": [
+          1,
+          35,
+          0,
+          null
+        ],
+        "Lightning Bolt": [
+          1,
+          91,
+          0,
+          null
+        ],
+        "Unholy Heat": [
+          1,
+          49,
+          0,
+          null
+        ],
+        "Price of Progress": [
+          1,
+          67,
+          0,
+          null
+        ],
+        "Dismember": [
+          1,
+          51,
+          0,
+          null
+        ],
+        "Chrome Mox": [
+          1.1,
+          47,
+          0,
+          null
+        ],
+        "Lotus Petal": [
+          1,
+          44,
+          0,
+          null
+        ],
+        "Mishra's Bauble": [
+          1,
+          53,
+          0,
+          null
+        ],
+        "Urza's Bauble": [
+          1,
+          35,
+          0,
+          null
+        ],
+        "Animate Dead": [
+          1,
+          37,
+          0,
+          null
+        ],
+        "Blood Moon": [
+          1,
+          93,
+          0,
+          null
+        ],
+        "Ancient Tomb": [
+          1.6,
+          47,
+          0,
+          null
+        ],
+        "Arena of Glory": [
+          1,
+          79,
+          0,
+          null
+        ],
+        "Arid Mesa": [
+          1,
+          81,
+          0,
+          null
+        ],
+        "Blood Crypt": [
+          1,
+          37,
+          0,
+          null
+        ],
+        "Bloodstained Mire": [
+          1,
+          86,
+          0,
+          null
+        ],
+        "Flooded Strand": [
+          1,
+          44,
+          0,
+          null
+        ],
+        "Marsh Flats": [
+          1,
+          63,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          1,
+          56,
+          0,
+          null
+        ],
+        "Prismatic Vista": [
+          1,
+          60,
+          0,
+          null
+        ],
+        "Raucous Theater": [
+          1,
+          40,
+          0,
+          null
+        ],
+        "Scalding Tarn": [
+          1,
+          77,
+          0,
+          null
+        ],
+        "Verdant Catacombs": [
+          1,
+          40,
+          0,
+          null
+        ],
+        "Wooded Foothills": [
+          1,
+          81,
+          0,
+          null
+        ],
+        "Grafdigger's Cage": [
+          0,
+          null,
+          1.1,
+          47
+        ],
+        "Pyroblast": [
+          0,
+          null,
+          1.1,
+          91
+        ],
+        "Red Elemental Blast": [
+          0,
+          null,
+          1,
+          91
+        ],
+        "Unlicensed Hearse": [
+          0,
+          null,
+          1,
+          47
+        ],
+        "Brotherhood's End": [
+          0,
+          null,
+          1,
+          44
+        ]
+      }
+    },
+    {
+      "nombre": "Oath of Druids",
+      "colores": "WUBRG",
+      "meta": 3.9,
+      "cartas": {
+        "Atraxa, Grand Unifier": [
+          2.8,
+          100,
+          0,
+          null
+        ],
+        "Raph & Mikey, Troublemakers": [
+          1,
+          64,
+          0,
+          null
+        ],
+        "Gitaxian Probe": [
+          1,
+          86,
+          0,
+          null
+        ],
+        "Thoughtseize": [
+          1.4,
+          39,
+          0,
+          null
+        ],
+        "Demonic Tutor": [
+          1,
+          55,
+          0,
+          null
+        ],
+        "Gaea's Blessing": [
+          1,
+          70,
+          0,
+          null
+        ],
+        "Time Walk": [
+          1,
+          77,
+          0,
+          null
+        ],
+        "Show and Tell": [
+          2.9,
+          86,
+          0,
+          null
+        ],
+        "Stock Up": [
+          3.4,
+          91,
+          0,
+          null
+        ],
+        "Ancestral Recall": [
+          1,
+          77,
+          0,
+          null
+        ],
+        "Brainstorm": [
+          1,
+          86,
+          0,
+          null
+        ],
+        "Flusterstorm": [
+          1.4,
+          55,
+          0,
+          null
+        ],
+        "Mental Misstep": [
+          1,
+          82,
+          0,
+          null
+        ],
+        "Vampiric Tutor": [
+          1,
+          64,
+          0,
+          null
+        ],
+        "Flash": [
+          1,
+          48,
+          0,
+          null
+        ],
+        "Force of Negation": [
+          1.6,
+          82,
+          1.4,
+          43
+        ],
+        "Force of Will": [
+          3.8,
+          82,
+          0,
+          null
+        ],
+        "Black Lotus": [
+          1,
+          77,
+          0,
+          null
+        ],
+        "Mana Crypt": [
+          1,
+          66,
+          0,
+          null
+        ],
+        "Mox Emerald": [
+          1,
+          77,
+          0,
+          null
+        ],
+        "Mox Jet": [
+          1,
+          64,
+          0,
+          null
+        ],
+        "Mox Pearl": [
+          1,
+          64,
+          0,
+          null
+        ],
+        "Mox Ruby": [
+          1,
+          75,
+          0,
+          null
+        ],
+        "Mox Sapphire": [
+          1,
+          77,
+          0,
+          null
+        ],
+        "Vexing Bauble": [
+          1,
+          66,
+          0,
+          null
+        ],
+        "Oath of Druids": [
+          3.3,
+          100,
+          0,
+          null
+        ],
+        "Oko, Thief of Crowns": [
+          1.4,
+          77,
+          0,
+          null
+        ],
+        "Boseiju, Who Endures": [
+          1.9,
+          77,
+          0,
+          null
+        ],
+        "Flooded Strand": [
+          1.1,
+          82,
+          0,
+          null
+        ],
+        "Forbidden Orchard": [
+          3,
+          95,
+          0,
+          null
+        ],
+        "Hedge Maze": [
+          1,
+          68,
+          0,
+          null
+        ],
+        "Misty Rainforest": [
+          1.4,
+          82,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          1.6,
+          91,
+          0,
+          null
+        ],
+        "Scalding Tarn": [
+          1.2,
+          66,
+          0,
+          null
+        ],
+        "Tropical Island": [
+          2.1,
+          100,
+          0,
+          null
+        ],
+        "Underground Sea": [
+          1.8,
+          75,
+          0,
+          null
+        ],
+        "Consign to Memory": [
+          0,
+          null,
+          1.6,
+          64
+        ],
+        "Veil of Summer": [
+          0,
+          null,
+          1,
+          48
+        ],
+        "Abrupt Decay": [
+          0,
+          null,
+          2.2,
+          64
+        ],
+        "Null Rod": [
+          0,
+          null,
+          2.4,
+          84
+        ],
+        "Leyline of the Void": [
+          0,
+          null,
+          4,
+          41
+        ],
+        "Mindbreak Trap": [
+          0,
+          null,
+          1.7,
+          39
+        ],
+        "Serra's Emissary": [
+          0,
+          null,
+          1.1,
+          43
+        ]
+      }
+    },
+    {
+      "nombre": "Lurrus Breach",
+      "colores": "WUBR",
+      "meta": 3.9,
+      "cartas": {
+        "Lurrus of the Dream-Den": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Bilbo, Thief in the Night": [
+          2.6,
+          44,
+          0,
+          null
+        ],
+        "Hexing Squelcher": [
+          1.7,
+          50,
+          1,
+          50
+        ],
+        "Gitaxian Probe": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Demonic Tutor": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Flow State": [
+          1.6,
+          61,
+          0,
+          null
+        ],
+        "Merchant Scroll": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Time Walk": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Stock Up": [
+          3.5,
+          100,
+          0,
+          null
+        ],
+        "Lorien Revealed": [
+          1.9,
+          92,
+          0,
+          null
+        ],
+        "Ancestral Recall": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Brainstorm": [
+          1,
+          61,
+          0,
+          null
+        ],
+        "Chain of Vapor": [
+          1,
+          42,
+          0,
+          null
+        ],
+        "Flusterstorm": [
+          1.7,
+          50,
+          0,
+          null
+        ],
+        "Mental Misstep": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Pyroblast": [
+          2,
+          58,
+          1.5,
+          78
+        ],
+        "Brain Freeze": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mana Drain": [
+          2.8,
+          33,
+          0,
+          null
+        ],
+        "Force of Negation": [
+          1.5,
+          72,
+          1,
+          47
+        ],
+        "Sink into Stupor": [
+          1,
+          44,
+          0,
+          null
+        ],
+        "Gifts Ungiven": [
+          2.9,
+          33,
+          0,
+          null
+        ],
+        "Force of Will": [
+          4,
+          89,
+          0,
+          null
+        ],
+        "Black Lotus": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Lotus Petal": [
+          1,
+          56,
+          0,
+          null
+        ],
+        "Mana Crypt": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Mox Emerald": [
+          1,
+          86,
+          0,
+          null
+        ],
+        "Mox Jet": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Mox Pearl": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Mox Ruby": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Mox Sapphire": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Sol Ring": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Soul-Guide Lantern": [
+          1,
+          56,
+          1.4,
+          56
+        ],
+        "Vexing Bauble": [
+          1,
+          47,
+          0,
+          null
+        ],
+        "Dress Down": [
+          1,
+          58,
+          1,
+          44
+        ],
+        "Underworld Breach": [
+          1.9,
+          100,
+          0,
+          null
+        ],
+        "Flooded Strand": [
+          1,
+          72,
+          0,
+          null
+        ],
+        "Misty Rainforest": [
+          1.2,
+          86,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          1.6,
+          86,
+          0,
+          null
+        ],
+        "Scalding Tarn": [
+          2.1,
+          97,
+          0,
+          null
+        ],
+        "Thundering Falls": [
+          1,
+          39,
+          0,
+          null
+        ],
+        "Tolarian Academy": [
+          1,
+          72,
+          0,
+          null
+        ],
+        "Underground Sea": [
+          1.8,
+          100,
+          0,
+          null
+        ],
+        "Urza's Saga": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Volcanic Island": [
+          2.4,
+          100,
+          0,
+          null
+        ],
+        "The Tabernacle at Pendrell Vale": [
+          0,
+          null,
+          1,
+          42
+        ],
+        "Consign to Memory": [
+          0,
+          null,
+          2.9,
+          83
+        ],
+        "Lithomantic Barrage": [
+          0,
+          null,
+          1.7,
+          36
+        ],
+        "Pithing Needle": [
+          0,
+          null,
+          1.2,
+          81
+        ],
+        "Red Elemental Blast": [
+          0,
+          null,
+          1,
+          44
+        ],
+        "Dismember": [
+          0,
+          null,
+          1.5,
+          33
+        ]
+      }
+    },
+    {
+      "nombre": "Scam",
+      "colores": "BR",
+      "meta": 3.9,
+      "cartas": {
+        "Cecil, Dark Knight": [
+          1,
+          44,
+          0,
+          null
+        ],
+        "Dragon's Rage Channeler": [
+          1,
+          72,
+          0,
+          null
+        ],
+        "Moonshadow": [
+          1,
+          81,
+          0,
+          null
+        ],
+        "Nethergoyf": [
+          1,
+          59,
+          0,
+          null
+        ],
+        "Dauthi Voidwalker": [
+          1.2,
+          81,
+          0,
+          null
+        ],
+        "Emperor of Bones": [
+          1,
+          78,
+          0,
+          null
+        ],
+        "Fear of Missing Out": [
+          1,
+          78,
+          0,
+          null
+        ],
+        "Kroxa, Titan of Death's Hunger": [
+          1,
+          66,
+          0,
+          null
+        ],
+        "Sunset Saboteur": [
+          1,
+          53,
+          0,
+          null
+        ],
+        "Super Shredder": [
+          1,
+          72,
+          0,
+          null
+        ],
+        "Barrowgoyf": [
+          1.2,
+          84,
+          0,
+          null
+        ],
+        "Broadside Bombardiers": [
+          1,
+          75,
+          0,
+          null
+        ],
+        "Death-Greeter's Champion": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Detective's Phoenix": [
+          1,
+          78,
+          0,
+          null
+        ],
+        "Spitting Dilophosaurus": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Deadpool, Trading Card": [
+          1,
+          72,
+          0,
+          null
+        ],
+        "Grief": [
+          1.6,
+          100,
+          0,
+          null
+        ],
+        "Pyrogoyf": [
+          1,
+          81,
+          0,
+          null
+        ],
+        "Fury": [
+          1,
+          81,
+          0,
+          null
+        ],
+        "Overlord of the Balemurk": [
+          1,
+          75,
+          0,
+          null
+        ],
+        "Oliphaunt": [
+          1,
+          78,
+          0,
+          null
+        ],
+        "Troll of Khazad-dum": [
+          1.2,
+          97,
+          0,
+          null
+        ],
+        "Duress": [
+          1,
+          69,
+          0,
+          null
+        ],
+        "Inquisition of Kozilek": [
+          1,
+          75,
+          0,
+          null
+        ],
+        "Reanimate": [
+          1.5,
+          100,
+          0,
+          null
+        ],
+        "Thoughtseize": [
+          1.2,
+          91,
+          0,
+          null
+        ],
+        "Molten Collapse": [
+          1,
+          78,
+          0,
+          null
+        ],
+        "Cling to Dust": [
+          1,
+          47,
+          0,
+          null
+        ],
+        "Fatal Push": [
+          1.2,
+          91,
+          0,
+          null
+        ],
+        "Lightning Bolt": [
+          1,
+          81,
+          0,
+          null
+        ],
+        "Unholy Heat": [
+          1,
+          69,
+          0,
+          null
+        ],
+        "Bitter Triumph": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Price of Progress": [
+          1,
+          34,
+          1,
+          34
+        ],
+        "Dismember": [
+          1,
+          72,
+          0,
+          null
+        ],
+        "Mishra's Bauble": [
+          1,
+          72,
+          0,
+          null
+        ],
+        "Urza's Bauble": [
+          1,
+          66,
+          0,
+          null
+        ],
+        "Animate Dead": [
+          1.2,
+          88,
+          0,
+          null
+        ],
+        "Blood Moon": [
+          1,
+          66,
+          0,
+          null
+        ],
+        "Arena of Glory": [
+          1,
+          81,
+          0,
+          null
+        ],
+        "Arid Mesa": [
+          1,
+          75,
+          0,
+          null
+        ],
+        "Badlands": [
+          1,
+          69,
+          0,
+          null
+        ],
+        "Blazemire Verge": [
+          1,
+          78,
+          0,
+          null
+        ],
+        "Blood Crypt": [
+          1,
+          81,
+          0,
+          null
+        ],
+        "Bloodstained Mire": [
+          1.2,
+          94,
+          0,
+          null
+        ],
+        "Castle Locthwain": [
+          1,
+          66,
+          0,
+          null
+        ],
+        "Marsh Flats": [
+          1.1,
+          81,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          1.2,
+          94,
+          0,
+          null
+        ],
+        "Prismatic Vista": [
+          1,
+          72,
+          0,
+          null
+        ],
+        "Raucous Theater": [
+          1,
+          78,
+          0,
+          null
+        ],
+        "Scalding Tarn": [
+          1,
+          78,
+          0,
+          null
+        ],
+        "Verdant Catacombs": [
+          1.1,
+          84,
+          0,
+          null
+        ],
+        "Wooded Foothills": [
+          1,
+          81,
+          0,
+          null
+        ],
+        "Nihil Spellbomb": [
+          0,
+          null,
+          1,
+          47
+        ],
+        "Pyroblast": [
+          0,
+          null,
+          1,
+          81
+        ],
+        "Red Elemental Blast": [
+          0,
+          null,
+          1,
+          81
+        ],
+        "Mai, Scornful Striker": [
+          0,
+          null,
+          1,
+          66
+        ],
+        "Null Rod": [
+          0,
+          null,
+          1.2,
+          62
+        ],
+        "Obsessive Pursuit": [
+          0,
+          null,
+          1,
+          50
+        ],
+        "Ashiok, Dream Render": [
+          0,
+          null,
+          1,
+          44
+        ],
+        "Fire Covenant": [
+          0,
+          null,
+          1,
+          34
+        ],
+        "Kolaghan's Command": [
+          0,
+          null,
+          1,
+          44
+        ],
+        "Liliana of the Veil": [
+          0,
+          null,
+          1,
+          34
+        ],
+        "Magus of the Moon": [
+          0,
+          null,
+          1,
+          72
+        ],
+        "Opposition Agent": [
+          0,
+          null,
+          1,
+          56
+        ],
+        "Perish": [
+          0,
+          null,
+          1,
+          59
+        ],
+        "Toxic Deluge": [
+          0,
+          null,
+          1,
+          56
+        ],
+        "Sheoldred, the Apocalypse": [
+          0,
+          null,
+          1,
+          50
+        ]
+      }
+    },
+    {
+      "nombre": "Raker Shops",
+      "colores": "W",
+      "meta": 3.8,
+      "cartas": {
+        "Glaring Fleshraker": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Scrawling Crawler": [
+          4,
+          90,
+          0,
+          null
+        ],
+        "Black Lotus": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Chalice of the Void": [
+          1,
+          85,
+          0,
+          null
+        ],
+        "Mana Crypt": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Emerald": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Jet": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Opal": [
+          1.8,
+          54,
+          0,
+          null
+        ],
+        "Mox Pearl": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Ruby": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Sapphire": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mana Vault": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Manifold Key": [
+          2.6,
+          98,
+          0,
+          null
+        ],
+        "Pithing Needle": [
+          1,
+          81,
+          0,
+          null
+        ],
+        "Sensei's Divining Top": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Sol Ring": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Vexing Bauble": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Grim Monolith": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Time Vault": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "The Fantasticar": [
+          1,
+          94,
+          0,
+          null
+        ],
+        "Mystic Forge": [
+          1,
+          98,
+          0,
+          null
+        ],
+        "The One Ring": [
+          4,
+          98,
+          0,
+          null
+        ],
+        "Tezzeret, Cruel Captain": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Karn, the Great Creator": [
+          1,
+          98,
+          0,
+          null
+        ],
+        "Ancient Tomb": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "City of Traitors": [
+          1.1,
+          85,
+          0,
+          null
+        ],
+        "Inventors' Fair": [
+          1,
+          71,
+          0,
+          null
+        ],
+        "Mishra's Workshop": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Talon Gates of Madara": [
+          3.1,
+          100,
+          0,
+          null
+        ],
+        "Tolarian Academy": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Urza's Saga": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Grafdigger's Cage": [
+          0,
+          null,
+          2,
+          100
+        ],
+        "Portable Hole": [
+          0,
+          null,
+          1.7,
+          71
+        ],
+        "Defense Grid": [
+          0,
+          null,
+          2.7,
+          75
+        ],
+        "Dismember": [
+          0,
+          null,
+          2.1,
+          98
+        ],
+        "Mindbreak Trap": [
+          0,
+          null,
+          2.9,
+          85
+        ],
+        "Argentum Masticore": [
+          0,
+          null,
+          2.4,
+          98
+        ],
+        "Mycosynth Lattice": [
+          0,
+          null,
+          1,
+          67
+        ]
+      }
+    },
+    {
+      "nombre": "Fastbond Lands",
+      "colores": "G",
+      "meta": 3.5,
+      "cartas": {
+        "Dryad Arbor": [
+          1,
+          86,
+          0,
+          null
+        ],
+        "Deathrite Shaman": [
+          1,
+          54,
+          0,
+          null
+        ],
+        "Elvish Reclaimer": [
+          1,
+          96,
+          0,
+          null
+        ],
+        "Sylvan Safekeeper": [
+          1,
+          86,
+          0,
+          null
+        ],
+        "Badgermole Cub": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Carnivorous Cultivator": [
+          1,
+          96,
+          0,
+          null
+        ],
+        "Marwyn, the Preserver": [
+          1,
+          75,
+          0,
+          null
+        ],
+        "Scythecat Cub": [
+          1,
+          43,
+          0,
+          null
+        ],
+        "Wight of the Reliquary": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Courser of Kruphix": [
+          1,
+          36,
+          0,
+          null
+        ],
+        "Endurance": [
+          1,
+          61,
+          0,
+          null
+        ],
+        "Mole Man, Moloid Master": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Opposition Agent": [
+          1,
+          43,
+          0,
+          null
+        ],
+        "Six": [
+          1,
+          86,
+          0,
+          null
+        ],
+        "Baloth Prime": [
+          1,
+          71,
+          0,
+          null
+        ],
+        "Brightglass Gearhulk": [
+          1,
+          36,
+          0,
+          null
+        ],
+        "Icetill Explorer": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Sowing Mycospawn": [
+          1,
+          82,
+          0,
+          null
+        ],
+        "Vibrance": [
+          1,
+          82,
+          0,
+          null
+        ],
+        "Primeval Titan": [
+          1,
+          68,
+          0,
+          null
+        ],
+        "Green Sun's Zenith": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Life from the Loam": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Malevolent Rumble": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Sylvan Scrying": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Sevinne's Reclamation": [
+          1,
+          36,
+          0,
+          null
+        ],
+        "Natural Order": [
+          1,
+          64,
+          0,
+          null
+        ],
+        "Crop Rotation": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Diamond": [
+          1,
+          86,
+          0,
+          null
+        ],
+        "Zuran Orb": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Expedition Map": [
+          1,
+          93,
+          0,
+          null
+        ],
+        "Crucible of Worlds": [
+          1,
+          82,
+          0,
+          null
+        ],
+        "Exploration": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Fastbond": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Walk-In Closet // Forgotten Cellar": [
+          1,
+          82,
+          0,
+          null
+        ],
+        "Grist, the Hunger Tide": [
+          1,
+          46,
+          0,
+          null
+        ],
+        "Ba Sing Se": [
+          1,
+          82,
+          0,
+          null
+        ],
+        "Bayou": [
+          1,
+          57,
+          0,
+          null
+        ],
+        "Bojuka Bog": [
+          1,
+          96,
+          0,
+          null
+        ],
+        "Boseiju, Who Endures": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Dark Depths": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Echoing Deeps": [
+          1,
+          57,
+          0,
+          null
+        ],
+        "Eumidian Hatchery": [
+          1,
+          36,
+          0,
+          null
+        ],
+        "Gaea's Cradle": [
+          1,
+          57,
+          0,
+          null
+        ],
+        "Glacial Chasm": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Horizon Canopy": [
+          1,
+          36,
+          0,
+          null
+        ],
+        "Karakas": [
+          1,
+          75,
+          0,
+          null
+        ],
+        "Lush Portico": [
+          1,
+          36,
+          0,
+          null
+        ],
+        "Maze of Ith": [
+          1,
+          86,
+          0,
+          null
+        ],
+        "Misty Rainforest": [
+          1,
+          93,
+          0,
+          null
+        ],
+        "Savannah": [
+          1,
+          39,
+          0,
+          null
+        ],
+        "Shifting Woodland": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Strip Mine": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Talon Gates of Madara": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "The Tabernacle at Pendrell Vale": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Thespian's Stage": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Underground Mortuary": [
+          1,
+          57,
+          0,
+          null
+        ],
+        "Urborg, Tomb of Yawgmoth": [
+          1,
+          61,
+          0,
+          null
+        ],
+        "Urza's Saga": [
+          1,
+          93,
+          0,
+          null
+        ],
+        "Verdant Catacombs": [
+          1,
+          96,
+          0,
+          null
+        ],
+        "Wasteland": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Windswept Heath": [
+          1,
+          96,
+          0,
+          null
+        ],
+        "Wooded Foothills": [
+          1,
+          93,
+          0,
+          null
+        ],
+        "Yavimaya, Cradle of Growth": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Carpet of Flowers": [
+          0,
+          null,
+          1,
+          96
+        ],
+        "Deafening Silence": [
+          0,
+          null,
+          1,
+          36
+        ],
+        "Haywire Mite": [
+          0,
+          null,
+          1,
+          75
+        ],
+        "Veil of Summer": [
+          0,
+          null,
+          1,
+          89
+        ],
+        "Collector Ouphe": [
+          0,
+          null,
+          1,
+          86
+        ],
+        "Sphere of Resistance": [
+          0,
+          null,
+          1,
+          43
+        ],
+        "Thorn of Amethyst": [
+          0,
+          null,
+          1,
+          43
+        ],
+        "Choke": [
+          0,
+          null,
+          1,
+          93
+        ],
+        "Toxic Deluge": [
+          0,
+          null,
+          1,
+          54
+        ],
+        "Force of Vigor": [
+          0,
+          null,
+          1,
+          100
+        ]
+      }
+    },
+    {
+      "nombre": "Dredge",
+      "colores": "UBG",
+      "meta": 3.4,
+      "cartas": {
+        "Golgari Thug": [
+          4,
+          93,
+          0,
+          null
+        ],
+        "Narcomoeba": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Prized Amalgam": [
+          4,
+          90,
+          0,
+          null
+        ],
+        "Shambling Shell": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Silversmote Ghoul": [
+          3.3,
+          87,
+          0,
+          null
+        ],
+        "Stinkweed Imp": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Grief": [
+          3.9,
+          100,
+          0,
+          null
+        ],
+        "Ichorid": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Golgari Grave-Troll": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Hollow One": [
+          4,
+          90,
+          0,
+          null
+        ],
+        "Creeping Chill": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Mental Misstep": [
+          1,
+          97,
+          0,
+          null
+        ],
+        "Noxious Revival": [
+          4,
+          93,
+          0,
+          null
+        ],
+        "Force of Negation": [
+          1.9,
+          90,
+          2.1,
+          70
+        ],
+        "Force of Will": [
+          4,
+          90,
+          0,
+          null
+        ],
+        "Chalice of the Void": [
+          1,
+          97,
+          0,
+          null
+        ],
+        "Serum Powder": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Bazaar of Baghdad": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Strip Mine": [
+          0,
+          null,
+          1,
+          80
+        ],
+        "Wasteland": [
+          0,
+          null,
+          2.1,
+          77
+        ],
+        "Sickening Shoal": [
+          0,
+          null,
+          4,
+          100
+        ],
+        "Force of Vigor": [
+          0,
+          null,
+          4,
+          100
+        ],
+        "Leyline of the Void": [
+          0,
+          null,
+          4,
+          47
+        ]
+      }
+    },
+    {
+      "nombre": "Paradoxical Outcome",
+      "colores": "WUR",
+      "meta": 3.0,
+      "cartas": {
+        "Thundertrap Trainer": [
+          2.6,
+          61,
+          0,
+          null
+        ],
+        "Time Walk": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Stock Up": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Tinker": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Lorien Revealed": [
+          1.1,
+          33,
+          0,
+          null
+        ],
+        "Ancestral Recall": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mental Misstep": [
+          1,
+          67,
+          0,
+          null
+        ],
+        "Paradoxical Outcome": [
+          3.9,
+          100,
+          0,
+          null
+        ],
+        "Force of Will": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Black Lotus": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mana Crypt": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Emerald": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Jet": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Opal": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Pearl": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Ruby": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Sapphire": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mana Vault": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Manifold Key": [
+          1,
+          58,
+          0,
+          null
+        ],
+        "Portable Hole": [
+          1.7,
+          97,
+          1.7,
+          97
+        ],
+        "Sensei's Divining Top": [
+          1.6,
+          100,
+          0,
+          null
+        ],
+        "Sol Ring": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Vexing Bauble": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Time Vault": [
+          1,
+          94,
+          0,
+          null
+        ],
+        "The One Ring": [
+          1,
+          61,
+          0,
+          null
+        ],
+        "The Endstone": [
+          1,
+          53,
+          0,
+          null
+        ],
+        "Tezzeret, Cruel Captain": [
+          3.7,
+          100,
+          0,
+          null
+        ],
+        "Karn, the Great Creator": [
+          1,
+          86,
+          0,
+          null
+        ],
+        "Adarkar Wastes": [
+          1.8,
+          33,
+          0,
+          null
+        ],
+        "Ancient Tomb": [
+          4,
+          83,
+          0,
+          null
+        ],
+        "Flooded Strand": [
+          2.9,
+          81,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          1,
+          33,
+          0,
+          null
+        ],
+        "Tolarian Academy": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Tundra": [
+          3.5,
+          94,
+          0,
+          null
+        ],
+        "Urza's Saga": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Volcanic Island": [
+          1.1,
+          42,
+          0,
+          null
+        ],
+        "Tormod's Crypt": [
+          0,
+          null,
+          1,
+          47
+        ],
+        "Pithing Needle": [
+          0,
+          null,
+          1,
+          58
+        ],
+        "Soul-Guide Lantern": [
+          0,
+          null,
+          1.1,
+          72
+        ],
+        "Swords to Plowshares": [
+          0,
+          null,
+          3.2,
+          97
+        ],
+        "Hexing Squelcher": [
+          0,
+          null,
+          1.6,
+          39
+        ],
+        "Force of Negation": [
+          0,
+          null,
+          2.1,
+          42
+        ],
+        "Hullbreacher": [
+          0,
+          null,
+          2.4,
+          64
+        ],
+        "Darksteel Angel": [
+          0,
+          null,
+          1,
+          50
+        ]
+      }
+    },
+    {
+      "nombre": "Counter Vine",
+      "colores": "UBRG",
+      "meta": 3.0,
+      "cartas": {
+        "Basking Rootwalla": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Blazing Rootwalla": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Master of Death": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Squee, Goblin Nabob": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Subtlety": [
+          3.9,
+          56,
+          0,
+          null
+        ],
+        "Vengevine": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Hollow One": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Gitaxian Probe": [
+          1,
+          52,
+          0,
+          null
+        ],
+        "Mental Misstep": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Noxious Revival": [
+          3.3,
+          48,
+          0,
+          null
+        ],
+        "Force of Negation": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Force of Vigor": [
+          3.8,
+          48,
+          0,
+          null
+        ],
+        "Mindbreak Trap": [
+          3.4,
+          100,
+          0,
+          null
+        ],
+        "Force of Will": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Commandeer": [
+          3.8,
+          78,
+          0,
+          null
+        ],
+        "Chalice of the Void": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Serum Powder": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Bazaar of Baghdad": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Strip Mine": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Wasteland": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Echoing Deeps": [
+          0,
+          null,
+          2.7,
+          52
+        ],
+        "Karakas": [
+          0,
+          null,
+          1.3,
+          48
+        ],
+        "Petrified Field": [
+          0,
+          null,
+          2,
+          37
+        ],
+        "Ravenous Trap": [
+          0,
+          null,
+          3.6,
+          100
+        ],
+        "Fury": [
+          0,
+          null,
+          3.7,
+          100
+        ],
+        "Pyrokinesis": [
+          0,
+          null,
+          3.1,
+          93
+        ]
+      }
+    },
+    {
+      "nombre": "Blue Tinker",
+      "colores": "WUBR",
+      "meta": 2.4,
+      "cartas": {
+        "Hexing Squelcher": [
+          2,
+          37,
+          0,
+          null
+        ],
+        "Gitaxian Probe": [
+          1,
+          74,
+          0,
+          null
+        ],
+        "Demonic Tutor": [
+          1,
+          68,
+          0,
+          null
+        ],
+        "Flow State": [
+          3.5,
+          63,
+          0,
+          null
+        ],
+        "Time Walk": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Stock Up": [
+          3.4,
+          74,
+          0,
+          null
+        ],
+        "Tinker": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Yawgmoth's Will": [
+          1,
+          58,
+          0,
+          null
+        ],
+        "Lorien Revealed": [
+          2.7,
+          74,
+          0,
+          null
+        ],
+        "Ancestral Recall": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Brainstorm": [
+          1,
+          53,
+          0,
+          null
+        ],
+        "Flusterstorm": [
+          1.7,
+          68,
+          0,
+          null
+        ],
+        "Mental Misstep": [
+          1,
+          68,
+          0,
+          null
+        ],
+        "Mystical Tutor": [
+          1,
+          37,
+          0,
+          null
+        ],
+        "Vampiric Tutor": [
+          1,
+          58,
+          0,
+          null
+        ],
+        "Force of Negation": [
+          2,
+          74,
+          0,
+          null
+        ],
+        "Force of Will": [
+          4,
+          84,
+          0,
+          null
+        ],
+        "Black Lotus": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mana Crypt": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Emerald": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Mox Jet": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Pearl": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Ruby": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Sapphire": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Manifold Key": [
+          1.4,
+          84,
+          0,
+          null
+        ],
+        "Sensei's Divining Top": [
+          1,
+          42,
+          0,
+          null
+        ],
+        "Sol Ring": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Vexing Bauble": [
+          1,
+          63,
+          0,
+          null
+        ],
+        "Time Vault": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Bolas's Citadel": [
+          1,
+          74,
+          0,
+          null
+        ],
+        "Tezzeret, Cruel Captain": [
+          3.1,
+          37,
+          0,
+          null
+        ],
+        "Flooded Strand": [
+          1.2,
+          84,
+          0,
+          null
+        ],
+        "Misty Rainforest": [
+          1.5,
+          68,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          1.1,
+          74,
+          0,
+          null
+        ],
+        "Scalding Tarn": [
+          1.5,
+          58,
+          0,
+          null
+        ],
+        "Tolarian Academy": [
+          1,
+          95,
+          0,
+          null
+        ],
+        "Underground Sea": [
+          2.3,
+          68,
+          0,
+          null
+        ],
+        "Urza's Saga": [
+          1,
+          95,
+          0,
+          null
+        ],
+        "Volcanic Island": [
+          2.6,
+          47,
+          0,
+          null
+        ],
+        "Consign to Memory": [
+          0,
+          null,
+          2.3,
+          58
+        ],
+        "Pyroblast": [
+          0,
+          null,
+          2.3,
+          42
+        ],
+        "Hurkyl's Recall": [
+          0,
+          null,
+          1.4,
+          58
+        ],
+        "Hullbreacher": [
+          0,
+          null,
+          1.9,
+          37
+        ],
+        "Mindbreak Trap": [
+          0,
+          null,
+          1.1,
+          42
+        ],
+        "Sphinx of the Steel Wind": [
+          0,
+          null,
+          1,
+          47
+        ],
+        "Portal to Phyrexia": [
+          0,
+          null,
+          1,
+          42
+        ]
+      }
+    },
+    {
+      "nombre": "Jeskai Lurrus",
+      "colores": "WUR",
+      "meta": 2.0,
+      "cartas": {
+        "Lurrus of the Dream-Den": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Snapcaster Mage": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Thundertrap Trainer": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Gitaxian Probe": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Prismatic Ending": [
+          1,
+          46,
+          0,
+          null
+        ],
+        "Flow State": [
+          3.6,
+          100,
+          0,
+          null
+        ],
+        "Forth Eorlingas!": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Time Walk": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Stock Up": [
+          3.5,
+          100,
+          0,
+          null
+        ],
+        "Lorien Revealed": [
+          3.3,
+          100,
+          0,
+          null
+        ],
+        "Ancestral Recall": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Flusterstorm": [
+          1.4,
+          71,
+          0,
+          null
+        ],
+        "Mental Misstep": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Pyroblast": [
+          1,
+          58,
+          2.5,
+          96
+        ],
+        "Swords to Plowshares": [
+          2.3,
+          88,
+          2,
+          100
+        ],
+        "Abrade": [
+          1,
+          33,
+          0,
+          null
+        ],
+        "Flame of Anor": [
+          3,
+          100,
+          0,
+          null
+        ],
+        "Force of Negation": [
+          2.8,
+          100,
+          0,
+          null
+        ],
+        "Force of Will": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Black Lotus": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mana Crypt": [
+          1,
+          58,
+          0,
+          null
+        ],
+        "Mox Emerald": [
+          1,
+          67,
+          0,
+          null
+        ],
+        "Mox Jet": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Pearl": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Ruby": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Sapphire": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Pithing Needle": [
+          1.1,
+          67,
+          1.1,
+          62
+        ],
+        "Portable Hole": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Sol Ring": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Soul-Guide Lantern": [
+          1,
+          50,
+          1.1,
+          96
+        ],
+        "Vexing Bauble": [
+          1,
+          46,
+          0,
+          null
+        ],
+        "Dress Down": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Flooded Strand": [
+          1.3,
+          100,
+          0,
+          null
+        ],
+        "Meticulous Archive": [
+          1,
+          67,
+          0,
+          null
+        ],
+        "Misty Rainforest": [
+          1.1,
+          79,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          1.4,
+          83,
+          0,
+          null
+        ],
+        "Scalding Tarn": [
+          1.1,
+          92,
+          0,
+          null
+        ],
+        "Strip Mine": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Tolarian Academy": [
+          1,
+          58,
+          0,
+          null
+        ],
+        "Tundra": [
+          2.5,
+          100,
+          0,
+          null
+        ],
+        "Urza's Saga": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Volcanic Island": [
+          2.7,
+          100,
+          0,
+          null
+        ],
+        "Consign to Memory": [
+          0,
+          null,
+          2,
+          96
+        ],
+        "Containment Priest": [
+          0,
+          null,
+          2.3,
+          96
+        ],
+        "Null Rod": [
+          0,
+          null,
+          1.8,
+          92
+        ],
+        "Seal of Cleansing": [
+          0,
+          null,
+          1,
+          42
+        ],
+        "Stony Silence": [
+          0,
+          null,
+          1,
+          33
+        ],
+        "Mindbreak Trap": [
+          0,
+          null,
+          1,
+          42
+        ]
+      }
+    },
+    {
+      "nombre": "Beseech Storm",
+      "colores": "UB",
+      "meta": 1.6,
+      "cartas": {
+        "Gitaxian Probe": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Ponder": [
+          2.9,
+          100,
+          0,
+          null
+        ],
+        "Demonic Tutor": [
+          1,
+          80,
+          0,
+          null
+        ],
+        "Extrapolate the Impossible": [
+          2.5,
+          73,
+          0,
+          null
+        ],
+        "Time Walk": [
+          1,
+          73,
+          0,
+          null
+        ],
+        "Stock Up": [
+          3.4,
+          93,
+          0,
+          null
+        ],
+        "Tinker": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Yawgmoth's Will": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Beseech the Mirror": [
+          2.5,
+          100,
+          1,
+          73
+        ],
+        "Tendrils of Agony": [
+          1,
+          100,
+          1,
+          73
+        ],
+        "Lorien Revealed": [
+          1,
+          73,
+          0,
+          null
+        ],
+        "Ancestral Recall": [
+          1,
+          73,
+          0,
+          null
+        ],
+        "Brainstorm": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Dark Ritual": [
+          3.2,
+          100,
+          0,
+          null
+        ],
+        "Flusterstorm": [
+          1,
+          73,
+          0,
+          null
+        ],
+        "Mental Misstep": [
+          1,
+          73,
+          0,
+          null
+        ],
+        "Cabal Ritual": [
+          1,
+          33,
+          0,
+          null
+        ],
+        "Force of Will": [
+          4,
+          73,
+          0,
+          null
+        ],
+        "Black Lotus": [
+          1,
+          73,
+          0,
+          null
+        ],
+        "Lion's Eye Diamond": [
+          1,
+          93,
+          0,
+          null
+        ],
+        "Lotus Petal": [
+          1,
+          93,
+          0,
+          null
+        ],
+        "Mana Crypt": [
+          1,
+          73,
+          0,
+          null
+        ],
+        "Mox Emerald": [
+          1,
+          73,
+          0,
+          null
+        ],
+        "Mox Jet": [
+          1,
+          73,
+          0,
+          null
+        ],
+        "Mox Pearl": [
+          1,
+          73,
+          0,
+          null
+        ],
+        "Mox Ruby": [
+          1,
+          73,
+          0,
+          null
+        ],
+        "Mox Sapphire": [
+          1,
+          73,
+          0,
+          null
+        ],
+        "Mana Vault": [
+          1,
+          73,
+          0,
+          null
+        ],
+        "Sensei's Divining Top": [
+          1,
+          73,
+          0,
+          null
+        ],
+        "Sol Ring": [
+          1,
+          73,
+          0,
+          null
+        ],
+        "The Fantasticar": [
+          1,
+          87,
+          0,
+          null
+        ],
+        "The One Ring": [
+          1,
+          47,
+          0,
+          null
+        ],
+        "Bolas's Citadel": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Karn, the Great Creator": [
+          1,
+          33,
+          0,
+          null
+        ],
+        "Flooded Strand": [
+          1,
+          80,
+          0,
+          null
+        ],
+        "Misty Rainforest": [
+          1,
+          93,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          1.8,
+          100,
+          0,
+          null
+        ],
+        "Scalding Tarn": [
+          1,
+          33,
+          0,
+          null
+        ],
+        "Tolarian Academy": [
+          1,
+          73,
+          0,
+          null
+        ],
+        "Underground Sea": [
+          3.2,
+          100,
+          0,
+          null
+        ],
+        "Urza's Saga": [
+          1,
+          73,
+          0,
+          null
+        ],
+        "Tormod's Crypt": [
+          0,
+          null,
+          1,
+          73
+        ],
+        "Boomerang Basics": [
+          0,
+          null,
+          1,
+          80
+        ],
+        "Chain of Vapor": [
+          0,
+          null,
+          1,
+          67
+        ],
+        "Duress": [
+          0,
+          null,
+          1,
+          73
+        ],
+        "Pithing Needle": [
+          0,
+          null,
+          1,
+          73
+        ],
+        "Thoughtseize": [
+          0,
+          null,
+          1,
+          73
+        ],
+        "Defense Grid": [
+          0,
+          null,
+          1,
+          87
+        ],
+        "Hurkyl's Recall": [
+          0,
+          null,
+          1,
+          87
+        ],
+        "Yixlid Jailer": [
+          0,
+          null,
+          1,
+          33
+        ],
+        "Council of Reeds": [
+          0,
+          null,
+          2,
+          53
+        ],
+        "Rebuild": [
+          0,
+          null,
+          1,
+          67
+        ],
+        "Dark Petition": [
+          0,
+          null,
+          1,
+          40
+        ]
+      }
+    },
+    {
+      "nombre": "Doomsday",
+      "colores": "UB",
+      "meta": 1.6,
+      "cartas": {
+        "Thassa's Oracle": [
+          1.8,
+          100,
+          0,
+          null
+        ],
+        "Street Wraith": [
+          4,
+          73,
+          0,
+          null
+        ],
+        "Gitaxian Probe": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Ponder": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Preordain": [
+          1.7,
+          80,
+          0,
+          null
+        ],
+        "Thoughtseize": [
+          1,
+          47,
+          0,
+          null
+        ],
+        "Demonic Tutor": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Flow State": [
+          2,
+          47,
+          0,
+          null
+        ],
+        "Time Walk": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Doomsday": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Treasure Cruise": [
+          1,
+          47,
+          0,
+          null
+        ],
+        "Ancestral Recall": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Brainstorm": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Chain of Vapor": [
+          1,
+          40,
+          0,
+          null
+        ],
+        "Dark Ritual": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Demonic Consultation": [
+          1,
+          80,
+          0,
+          null
+        ],
+        "Flusterstorm": [
+          2.5,
+          100,
+          0,
+          null
+        ],
+        "Mental Misstep": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Vampiric Tutor": [
+          1,
+          93,
+          0,
+          null
+        ],
+        "Daze": [
+          1.2,
+          67,
+          0,
+          null
+        ],
+        "Force of Negation": [
+          2.1,
+          73,
+          1.4,
+          47
+        ],
+        "Force of Will": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Gush": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Dig Through Time": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Black Lotus": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Jet": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Sapphire": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Necropotence": [
+          1,
+          47,
+          0,
+          null
+        ],
+        "Flooded Strand": [
+          2,
+          93,
+          0,
+          null
+        ],
+        "Misty Rainforest": [
+          2.1,
+          93,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          2,
+          100,
+          0,
+          null
+        ],
+        "Scalding Tarn": [
+          2,
+          100,
+          0,
+          null
+        ],
+        "Undercity Sewers": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Underground Sea": [
+          3.9,
+          100,
+          0,
+          null
+        ],
+        "The Tabernacle at Pendrell Vale": [
+          0,
+          null,
+          1,
+          53
+        ],
+        "Consign to Memory": [
+          0,
+          null,
+          1.8,
+          53
+        ],
+        "Steel Sabotage": [
+          0,
+          null,
+          1.2,
+          87
+        ],
+        "Unable to Scream": [
+          0,
+          null,
+          2.5,
+          80
+        ],
+        "Null Rod": [
+          0,
+          null,
+          1.7,
+          93
+        ],
+        "Leyline of the Void": [
+          0,
+          null,
+          4,
+          73
+        ],
+        "Mindbreak Trap": [
+          0,
+          null,
+          1.6,
+          67
+        ],
+        "Snuff Out": [
+          0,
+          null,
+          1,
+          47
+        ],
+        "Murktide Regent": [
+          0,
+          null,
+          1.2,
+          40
+        ]
+      }
+    },
+    {
+      "nombre": "Sphere Shops",
+      "colores": "",
+      "meta": 1.5,
+      "cartas": {
+        "Stonecoil Serpent": [
+          2.5,
+          84,
+          0,
+          null
+        ],
+        "Patchwork Automaton": [
+          4,
+          89,
+          0,
+          null
+        ],
+        "Scrawling Crawler": [
+          3.7,
+          79,
+          0,
+          null
+        ],
+        "Lodestone Golem": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Golos, Tireless Pilgrim": [
+          3,
+          79,
+          0,
+          null
+        ],
+        "Black Lotus": [
+          1,
+          95,
+          0,
+          null
+        ],
+        "Chalice of the Void": [
+          1,
+          84,
+          0,
+          null
+        ],
+        "Mana Crypt": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Emerald": [
+          1,
+          95,
+          0,
+          null
+        ],
+        "Mox Jet": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Pearl": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Ruby": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Sapphire": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mana Vault": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Sol Ring": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Vexing Bauble": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Null Rod": [
+          3.5,
+          79,
+          0,
+          null
+        ],
+        "Sphere of Resistance": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Thorn of Amethyst": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Crucible of Worlds": [
+          1.7,
+          95,
+          0,
+          null
+        ],
+        "Nettlecyst": [
+          2,
+          79,
+          0,
+          null
+        ],
+        "Trinisphere": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mystic Forge": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Karn, the Great Creator": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Ancient Tomb": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Bojuka Bog": [
+          1,
+          68,
+          0,
+          null
+        ],
+        "Ghost Quarter": [
+          1.4,
+          42,
+          0,
+          null
+        ],
+        "Inventors' Fair": [
+          1,
+          79,
+          0,
+          null
+        ],
+        "Karakas": [
+          1.1,
+          79,
+          0,
+          null
+        ],
+        "Mishra's Workshop": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Petrified Hamlet": [
+          1.2,
+          58,
+          0,
+          null
+        ],
+        "Strip Mine": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Talon Gates of Madara": [
+          1,
+          42,
+          0,
+          null
+        ],
+        "Tolarian Academy": [
+          1,
+          95,
+          0,
+          null
+        ],
+        "Urza's Saga": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Wasteland": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "The Tabernacle at Pendrell Vale": [
+          0,
+          null,
+          1,
+          68
+        ],
+        "Grafdigger's Cage": [
+          0,
+          null,
+          2.1,
+          95
+        ],
+        "Pithing Needle": [
+          0,
+          null,
+          1,
+          68
+        ],
+        "Dismember": [
+          0,
+          null,
+          2.1,
+          74
+        ],
+        "Leyline of the Void": [
+          0,
+          null,
+          3.6,
+          74
+        ],
+        "Mindbreak Trap": [
+          0,
+          null,
+          2.8,
+          84
+        ],
+        "Argentum Masticore": [
+          0,
+          null,
+          2,
+          42
+        ],
+        "Wurmcoil Engine": [
+          0,
+          null,
+          1.6,
+          84
+        ]
+      }
+    },
+    {
+      "nombre": "Lurrus DRS",
+      "colores": "UBG",
+      "meta": 1.1,
+      "cartas": {
+        "Lurrus of the Dream-Den": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Deathrite Shaman": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Avatar of Burgeoning Echoes": [
+          3.9,
+          69,
+          0,
+          null
+        ],
+        "Carnivorous Cultivator": [
+          1,
+          54,
+          0,
+          null
+        ],
+        "Collector Ouphe": [
+          3.2,
+          100,
+          1,
+          46
+        ],
+        "Marwyn, the Preserver": [
+          1,
+          69,
+          0,
+          null
+        ],
+        "Psychic Frog": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Gitaxian Probe": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Demonic Tutor": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Time Walk": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Treasure Cruise": [
+          1,
+          92,
+          0,
+          null
+        ],
+        "Ancestral Recall": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Fatal Push": [
+          2,
+          85,
+          2,
+          100
+        ],
+        "Mental Misstep": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Spell Pierce": [
+          1.9,
+          92,
+          0,
+          null
+        ],
+        "Abrupt Decay": [
+          1.3,
+          100,
+          0,
+          null
+        ],
+        "Daze": [
+          1.4,
+          77,
+          0,
+          null
+        ],
+        "Force of Negation": [
+          2.8,
+          100,
+          0,
+          null
+        ],
+        "Mindbreak Trap": [
+          1,
+          38,
+          0,
+          null
+        ],
+        "Force of Will": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Black Lotus": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Emerald": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Jet": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Sapphire": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Bayou": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Boseiju, Who Endures": [
+          1,
+          92,
+          0,
+          null
+        ],
+        "Hedge Maze": [
+          1,
+          85,
+          0,
+          null
+        ],
+        "Misty Rainforest": [
+          2.8,
+          92,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          2.9,
+          100,
+          0,
+          null
+        ],
+        "Strip Mine": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Tropical Island": [
+          2.2,
+          100,
+          0,
+          null
+        ],
+        "Underground Sea": [
+          2.9,
+          100,
+          0,
+          null
+        ],
+        "Wasteland": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "The Tabernacle at Pendrell Vale": [
+          0,
+          null,
+          1,
+          100
+        ],
+        "Grafdigger's Cage": [
+          0,
+          null,
+          2.3,
+          92
+        ],
+        "Nihil Spellbomb": [
+          0,
+          null,
+          2.2,
+          100
+        ],
+        "Assassin's Trophy": [
+          0,
+          null,
+          1.1,
+          54
+        ],
+        "Dismember": [
+          0,
+          null,
+          1.9,
+          77
+        ],
+        "Force of Vigor": [
+          0,
+          null,
+          2.4,
+          100
+        ],
+        "Snuff Out": [
+          0,
+          null,
+          1,
+          85
+        ]
+      }
+    },
+    {
+      "nombre": "Stiflenought",
+      "colores": "",
+      "meta": 1.0,
+      "cartas": {
+        "Stonecoil Serpent": [
+          4,
+          88,
+          0,
+          null
+        ],
+        "Phyrexian Dreadnought": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Karn, Argent Defender": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Patchwork Automaton": [
+          4,
+          88,
+          0,
+          null
+        ],
+        "Phyrexian Revoker": [
+          4,
+          75,
+          0,
+          null
+        ],
+        "Scrawling Crawler": [
+          4,
+          75,
+          0,
+          null
+        ],
+        "Eater of Days": [
+          3.6,
+          62,
+          0,
+          null
+        ],
+        "Lodestone Golem": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Mana Crypt": [
+          1,
+          75,
+          0,
+          null
+        ],
+        "Mox Jet": [
+          1,
+          38,
+          0,
+          null
+        ],
+        "Mox Pearl": [
+          1,
+          38,
+          0,
+          null
+        ],
+        "Mox Ruby": [
+          1,
+          38,
+          0,
+          null
+        ],
+        "Mox Sapphire": [
+          1,
+          38,
+          0,
+          null
+        ],
+        "Sol Ring": [
+          1,
+          88,
+          0,
+          null
+        ],
+        "Vexing Bauble": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Null Rod": [
+          4,
+          88,
+          0,
+          null
+        ],
+        "Thorn of Amethyst": [
+          1,
+          38,
+          0,
+          null
+        ],
+        "Torpor Orb": [
+          3.9,
+          100,
+          0,
+          null
+        ],
+        "Crucible of Worlds": [
+          3.4,
+          62,
+          0,
+          null
+        ],
+        "Trinisphere": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Karn, the Great Creator": [
+          1,
+          38,
+          0,
+          null
+        ],
+        "Ancient Tomb": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "City of Traitors": [
+          3.9,
+          88,
+          0,
+          null
+        ],
+        "Mishra's Workshop": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Strip Mine": [
+          1,
+          88,
+          0,
+          null
+        ],
+        "Urza's Saga": [
+          1,
+          88,
+          0,
+          null
+        ],
+        "Wasteland": [
+          4,
+          88,
+          0,
+          null
+        ],
+        "Karakas": [
+          0,
+          null,
+          2.7,
+          88
+        ],
+        "Petrified Hamlet": [
+          0,
+          null,
+          3.7,
+          88
+        ],
+        "Urborg, Tomb of Yawgmoth": [
+          0,
+          null,
+          3,
+          75
+        ],
+        "Yavimaya, Cradle of Growth": [
+          0,
+          null,
+          2,
+          38
+        ],
+        "Grafdigger's Cage": [
+          0,
+          null,
+          3.7,
+          88
+        ]
+      }
+    },
+    {
+      "nombre": "Eldrazi",
+      "colores": "RG",
+      "meta": 0.8,
+      "cartas": {
+        "It That Heralds the End": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Wastescape Battlemage": [
+          2.5,
+          100,
+          0,
+          null
+        ],
+        "Eldrazi Linebreaker": [
+          2.5,
+          100,
+          0,
+          null
+        ],
+        "Eldrazi Repurposer": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Formidable Speaker": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Glaring Fleshraker": [
+          2.5,
+          100,
+          0,
+          null
+        ],
+        "Matter Reshaper": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Thief of Existence": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Sowing Mycospawn": [
+          2.5,
+          100,
+          0,
+          null
+        ],
+        "Thought-Knot Seer": [
+          2,
+          100,
+          0,
+          null
+        ],
+        "Wumpus Aberration": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Reality Smasher": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Devourer of Destiny": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Drowner of Truth": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Sire of Seven Deaths": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Spawnbed Protector": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Void Winnower": [
+          1,
+          33,
+          0,
+          null
+        ],
+        "Emrakul, the Exigent Doom": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Ulamog, the Ceaseless Hunger": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Emrakul, the Promised End": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Ancient Stirrings": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Malevolent Rumble": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "All Is Dust": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Kozilek's Command": [
+          2.5,
+          100,
+          0,
+          null
+        ],
+        "Warping Wail": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Dismember": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Eldrazi Confluence": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Black Lotus": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Chalice of the Void": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Emerald": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Mox Ruby": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Mox Sapphire": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Expedition Map": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Mana Vault": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Sol Ring": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Vexing Bauble": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Null Rod": [
+          4,
+          50,
+          0,
+          null
+        ],
+        "The Echoverse Fulcrum": [
+          1,
+          33,
+          0,
+          null
+        ],
+        "Thorn of Amethyst": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Trinisphere": [
+          1,
+          50,
+          1,
+          50
+        ],
+        "Forsaken Monument": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Path of Annihilation": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Karn, the Great Creator": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Ugin, Eye of the Storms": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Abstergo Entertainment": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Abundant Countryside": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Ancient Tomb": [
+          2.5,
+          100,
+          0,
+          null
+        ],
+        "Bojuka Bog": [
+          1,
+          50,
+          1,
+          50
+        ],
+        "Boseiju, Who Endures": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Cavern of Souls": [
+          2.5,
+          100,
+          0,
+          null
+        ],
+        "Cloudpost": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Eldrazi Temple": [
+          2.5,
+          100,
+          0,
+          null
+        ],
+        "Eye of Ugin": [
+          1.5,
+          100,
+          0,
+          null
+        ],
+        "Glimmerpost": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Karplusan Forest": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Planar Nexus": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Secluded Courtyard": [
+          3,
+          50,
+          0,
+          null
+        ],
+        "Strip Mine": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Talon Gates of Madara": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Ugin's Labyrinth": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Urza's Cave": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Urza's Mine": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Urza's Power Plant": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Urza's Saga": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Urza's Tower": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Wasteland": [
+          4,
+          50,
+          0,
+          null
+        ],
+        "Yavimaya, Cradle of Growth": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Karakas": [
+          0,
+          null,
+          1,
+          50
+        ],
+        "Maze of Ith": [
+          0,
+          null,
+          1,
+          50
+        ],
+        "The Tabernacle at Pendrell Vale": [
+          0,
+          null,
+          1,
+          50
+        ],
+        "Carpet of Flowers": [
+          0,
+          null,
+          1,
+          50
+        ],
+        "Ghost Vacuum": [
+          0,
+          null,
+          1,
+          33
+        ],
+        "Grafdigger's Cage": [
+          0,
+          null,
+          2.5,
+          100
+        ],
+        "Haywire Mite": [
+          0,
+          null,
+          1,
+          50
+        ],
+        "Pithing Needle": [
+          0,
+          null,
+          2,
+          50
+        ],
+        "Collector Ouphe": [
+          0,
+          null,
+          1,
+          50
+        ],
+        "Cursed Totem": [
+          0,
+          null,
+          1,
+          50
+        ],
+        "Liquimetal Coating": [
+          0,
+          null,
+          1,
+          50
+        ],
+        "Soulless Jailer": [
+          0,
+          null,
+          1,
+          50
+        ],
+        "Spatial Contortion": [
+          0,
+          null,
+          1,
+          33
+        ],
+        "Sphere of Resistance": [
+          0,
+          null,
+          1,
+          50
+        ],
+        "Torpor Orb": [
+          0,
+          null,
+          1,
+          50
+        ],
+        "Choke": [
+          0,
+          null,
+          1,
+          50
+        ],
+        "Ensnaring Bridge": [
+          0,
+          null,
+          1,
+          50
+        ],
+        "Kozilek's Return": [
+          0,
+          null,
+          1,
+          33
+        ],
+        "Mindbreak Trap": [
+          0,
+          null,
+          2,
+          50
+        ],
+        "Ravenous Trap": [
+          0,
+          null,
+          2,
+          33
+        ],
+        "Mycosynth Lattice": [
+          0,
+          null,
+          1,
+          50
+        ]
+      }
+    },
+    {
+      "nombre": "Sultai Psychic Frog",
+      "colores": "UBG",
+      "meta": 0.6,
+      "cartas": {
+        "Lurrus of the Dream-Den": [
+          1,
+          83,
+          0,
+          null
+        ],
+        "Avatar of Burgeoning Echoes": [
+          3.5,
+          67,
+          0,
+          null
+        ],
+        "Bilbo, Thief in the Night": [
+          1.5,
+          67,
+          0,
+          null
+        ],
+        "Carnivorous Cultivator": [
+          2,
+          33,
+          0,
+          null
+        ],
+        "Collector Ouphe": [
+          3.2,
+          100,
+          1,
+          50
+        ],
+        "Psychic Frog": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Gitaxian Probe": [
+          1,
+          83,
+          0,
+          null
+        ],
+        "Demonic Tutor": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Flow State": [
+          3,
+          83,
+          0,
+          null
+        ],
+        "Life from the Loam": [
+          1,
+          83,
+          0,
+          null
+        ],
+        "Regrowth": [
+          1,
+          33,
+          0,
+          null
+        ],
+        "Time Walk": [
+          1,
+          83,
+          0,
+          null
+        ],
+        "Lorien Revealed": [
+          2.5,
+          100,
+          0,
+          null
+        ],
+        "Ancestral Recall": [
+          1,
+          83,
+          0,
+          null
+        ],
+        "Brainstorm": [
+          1,
+          83,
+          0,
+          null
+        ],
+        "Fatal Push": [
+          2,
+          83,
+          1.5,
+          67
+        ],
+        "Mental Misstep": [
+          1,
+          83,
+          0,
+          null
+        ],
+        "Spell Pierce": [
+          2,
+          50,
+          1,
+          33
+        ],
+        "Abrupt Decay": [
+          2,
+          83,
+          1.7,
+          50
+        ],
+        "Force of Negation": [
+          2.4,
+          83,
+          0,
+          null
+        ],
+        "Force of Will": [
+          4,
+          83,
+          0,
+          null
+        ],
+        "Black Lotus": [
+          1,
+          83,
+          0,
+          null
+        ],
+        "Mox Emerald": [
+          1,
+          83,
+          0,
+          null
+        ],
+        "Mox Jet": [
+          1,
+          83,
+          0,
+          null
+        ],
+        "Mox Sapphire": [
+          1,
+          83,
+          0,
+          null
+        ],
+        "Nihil Spellbomb": [
+          1,
+          50,
+          1.7,
+          50
+        ],
+        "Bayou": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Boseiju, Who Endures": [
+          1,
+          67,
+          0,
+          null
+        ],
+        "Misty Rainforest": [
+          2.3,
+          100,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          2.5,
+          100,
+          0,
+          null
+        ],
+        "Strip Mine": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Tropical Island": [
+          3,
+          100,
+          0,
+          null
+        ],
+        "Undercity Sewers": [
+          1,
+          33,
+          0,
+          null
+        ],
+        "Underground Sea": [
+          2.7,
+          100,
+          0,
+          null
+        ],
+        "Urza's Saga": [
+          1,
+          50,
+          0,
+          null
+        ],
+        "Verdant Catacombs": [
+          1.7,
+          50,
+          0,
+          null
+        ],
+        "Wasteland": [
+          3.8,
+          100,
+          0,
+          null
+        ],
+        "The Tabernacle at Pendrell Vale": [
+          0,
+          null,
+          1,
+          83
+        ],
+        "Consign to Memory": [
+          0,
+          null,
+          3,
+          33
+        ],
+        "Grafdigger's Cage": [
+          0,
+          null,
+          2.4,
+          83
+        ],
+        "Pithing Needle": [
+          0,
+          null,
+          1,
+          33
+        ],
+        "Vexing Bauble": [
+          0,
+          null,
+          1,
+          33
+        ],
+        "Null Rod": [
+          0,
+          null,
+          2,
+          33
+        ],
+        "Dismember": [
+          0,
+          null,
+          2,
+          50
+        ],
+        "Mystical Dispute": [
+          0,
+          null,
+          1,
+          50
+        ],
+        "Virtue's Ruin": [
+          0,
+          null,
+          1,
+          50
+        ],
+        "Force of Vigor": [
+          0,
+          null,
+          2,
+          50
+        ]
+      }
+    },
+    {
+      "nombre": "4c Psychic Frog",
+      "colores": "WUBR",
+      "meta": 0.5,
+      "cartas": {
+        "Lurrus of the Dream-Den": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Bilbo, Thief in the Night": [
+          2,
+          100,
+          0,
+          null
+        ],
+        "Hexing Squelcher": [
+          2,
+          100,
+          0,
+          null
+        ],
+        "Psychic Frog": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Gitaxian Probe": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Prismatic Ending": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Demonic Tutor": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Flow State": [
+          3,
+          100,
+          0,
+          null
+        ],
+        "Time Walk": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Lorien Revealed": [
+          3,
+          100,
+          0,
+          null
+        ],
+        "Treasure Cruise": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Ancestral Recall": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Brainstorm": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mental Misstep": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Spell Pierce": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Swords to Plowshares": [
+          3,
+          100,
+          1,
+          100
+        ],
+        "Force of Negation": [
+          3,
+          100,
+          0,
+          null
+        ],
+        "Force of Will": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Black Lotus": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Jet": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Pearl": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Ruby": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Sapphire": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Soul-Guide Lantern": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Vexing Bauble": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Null Rod": [
+          1,
+          100,
+          1,
+          100
+        ],
+        "Flooded Strand": [
+          2,
+          100,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          2,
+          100,
+          0,
+          null
+        ],
+        "Scalding Tarn": [
+          2,
+          100,
+          0,
+          null
+        ],
+        "Strip Mine": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Tundra": [
+          3,
+          100,
+          0,
+          null
+        ],
+        "Underground Sea": [
+          3,
+          100,
+          0,
+          null
+        ],
+        "Urza's Saga": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Volcanic Island": [
+          2,
+          100,
+          0,
+          null
+        ],
+        "Wasteland": [
+          2,
+          100,
+          0,
+          null
+        ],
+        "The Tabernacle at Pendrell Vale": [
+          0,
+          null,
+          1,
+          100
+        ],
+        "Consign to Memory": [
+          0,
+          null,
+          2,
+          100
+        ],
+        "Pithing Needle": [
+          0,
+          null,
+          1,
+          100
+        ],
+        "Pyroblast": [
+          0,
+          null,
+          3,
+          100
+        ],
+        "Containment Priest": [
+          0,
+          null,
+          4,
+          100
+        ],
+        "Stony Silence": [
+          0,
+          null,
+          1,
+          100
+        ]
+      }
+    },
+    {
+      "nombre": "RUG Control",
+      "colores": "URG",
+      "meta": 0.5,
+      "cartas": {
+        "Ragavan, Nimble Pilferer": [
+          1,
+          75,
+          0,
+          null
+        ],
+        "Avatar of Burgeoning Echoes": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Questing Druid": [
+          3,
+          100,
+          0,
+          null
+        ],
+        "Uro, Titan of Nature's Wrath": [
+          1.3,
+          100,
+          0,
+          null
+        ],
+        "Gitaxian Probe": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Time Walk": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Treasure Cruise": [
+          1,
+          75,
+          0,
+          null
+        ],
+        "Ancestral Recall": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Brainstorm": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Lightning Bolt": [
+          1.3,
+          100,
+          0,
+          null
+        ],
+        "Mental Misstep": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Spell Pierce": [
+          2,
+          100,
+          0,
+          null
+        ],
+        "Force of Negation": [
+          3,
+          100,
+          0,
+          null
+        ],
+        "Mindbreak Trap": [
+          2,
+          100,
+          0,
+          null
+        ],
+        "Force of Will": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Dig Through Time": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Black Lotus": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Emerald": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Ruby": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Mox Sapphire": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Null Rod": [
+          2,
+          75,
+          0,
+          null
+        ],
+        "Wrenn and Six": [
+          3,
+          100,
+          0,
+          null
+        ],
+        "Dack Fayden": [
+          2,
+          100,
+          0,
+          null
+        ],
+        "Minsc & Boo, Timeless Heroes": [
+          1,
+          75,
+          0,
+          null
+        ],
+        "Boseiju, Who Endures": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Hedge Maze": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Misty Rainforest": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Scalding Tarn": [
+          3,
+          100,
+          0,
+          null
+        ],
+        "Strip Mine": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Tropical Island": [
+          3,
+          100,
+          0,
+          null
+        ],
+        "Volcanic Island": [
+          3,
+          100,
+          0,
+          null
+        ],
+        "Wasteland": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "The Tabernacle at Pendrell Vale": [
+          0,
+          null,
+          2,
+          75
+        ],
+        "Pyroblast": [
+          0,
+          null,
+          3,
+          100
+        ],
+        "Endurance": [
+          0,
+          null,
+          1,
+          75
+        ],
+        "Force of Vigor": [
+          0,
+          null,
+          1.3,
+          100
+        ],
+        "Leyline of the Void": [
+          0,
+          null,
+          4,
+          100
+        ],
+        "Fury": [
+          0,
+          null,
+          4,
+          75
+        ]
+      }
+    }
+  ]
+}

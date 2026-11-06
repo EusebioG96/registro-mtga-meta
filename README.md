@@ -1,9 +1,9 @@
 # registro-mtga-meta
 
-Lista del meta de **Standard** que usa *Registro MTGA* para poner nombre al mazo del rival (compara las cartas que
+Listas del meta que usa *ManaLab* para poner nombre al mazo del rival (compara las cartas que
 ha jugado con los arquetipos más jugados y elige el que más coincide).
 
-- `meta_standard.json` — la lista. Se actualiza cada 3 días.
+- `meta_<formato>.json` — una lista por formato: standard, pioneer, modern, legacy, vintage y pauper. Standard se actualiza cada 3 días; los otros cinco, por turnos, uno cada 3 días.
 - Dirección para el programa (Ajustes › Mazos del meta):
   `https://raw.githubusercontent.com/EusebioG96/registro-mtga-meta/main/meta_standard.json`
 
@@ -23,7 +23,7 @@ ha jugado con los arquetipos más jugados y elige el que más coincide).
 
 Cada carta: `[copias medias en el principal, % de listas que la llevan en el principal, copias medias en el
 banquillo, % en el banquillo]` (`null` si la fuente no da el porcentaje). Las tierras básicas no hacen falta.
-`meta` es la cuota de meta en %. `colores` en orden WUBRG.
+`meta` es la cuota de meta en %. `colores` en orden WUBRG; vacío si el mazo es incoloro.
 
 ## Cómo se actualiza
 

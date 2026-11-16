@@ -1,77 +1,71 @@
 {
   "formato": "legacy",
-  "fecha": "2026-11-01",
+  "fecha": "2026-11-16",
   "fuente": "MTGGoldfish · metagame de Legacy (desglose medio de cartas por arquetipo)",
   "nota": "Cada carta: [copias medias en el principal, % de mazos que la llevan en el principal, copias medias en el banquillo, % en el banquillo].",
   "arquetipos": [
     {
-      "nombre": "Dimir Tempo",
+      "nombre": "Hogaak Tempo",
       "colores": "UB",
-      "meta": 12.7,
+      "meta": 6.5,
       "cartas": {
         "Dryad Arbor": [
           1,
-          38,
+          95,
           0,
           null
         ],
         "Dark Matter Manipulator": [
           4,
-          39,
+          100,
+          0,
+          null
+        ],
+        "Mockingbird": [
+          3.1,
+          84,
           0,
           null
         ],
         "Moonshadow": [
           4,
-          79,
-          0,
-          null
-        ],
-        "Nethergoyf": [
-          3.9,
-          53,
+          100,
           0,
           null
         ],
         "Stitcher's Supplier": [
           3.9,
-          39,
-          0,
-          null
-        ],
-        "Bilbo, Thief in the Night": [
-          2.2,
-          45,
-          0,
-          null
-        ],
-        "Orcish Bowmasters": [
-          2.8,
-          93,
-          1.8,
-          35
-        ],
-        "Brazen Borrower": [
-          1.1,
-          58,
-          1.6,
-          48
-        ],
-        "Hogaak, Arisen Necropolis": [
-          4,
-          39,
-          0,
-          null
-        ],
-        "Ponder": [
-          3.3,
           100,
           0,
           null
         ],
-        "Thoughtseize": [
+        "Orcish Bowmasters": [
+          3.1,
+          94,
+          0,
+          null
+        ],
+        "Brazen Borrower": [
+          1.1,
+          44,
+          1.7,
+          80
+        ],
+        "Hogaak, Arisen Necropolis": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Ponder": [
           3.5,
-          77,
+          84,
+          0,
+          null
+        ],
+        "Thoughtseize": [
+          2.4,
+          51,
           0,
           null
         ],
@@ -82,20 +76,352 @@
           null
         ],
         "Fatal Push": [
-          3,
-          94,
-          1.8,
-          52
+          2,
+          52,
+          2.7,
+          93
         ],
         "Daze": [
+          3.7,
+          100,
+          0,
+          null
+        ],
+        "Force of Will": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Kaito, Bane of Nightmares": [
+          1.5,
+          86,
+          0,
+          null
+        ],
+        "Misty Rainforest": [
+          3.9,
+          96,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          1.4,
+          37,
+          0,
+          null
+        ],
+        "Undercity Sewers": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Underground Sea": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Verdant Catacombs": [
+          3.9,
+          98,
+          0,
+          null
+        ],
+        "Wasteland": [
           3.6,
           100,
           0,
           null
         ],
-        "Snuff Out": [
+        "Karakas": [
+          0,
+          null,
+          1.6,
+          37
+        ],
+        "Consign to Memory": [
+          0,
+          null,
+          2.2,
+          89
+        ],
+        "Dauthi Voidwalker": [
+          0,
+          null,
+          2.6,
+          78
+        ],
+        "Null Rod": [
+          0,
+          null,
           1.1,
+          44
+        ],
+        "Force of Negation": [
+          0,
+          null,
+          1.5,
+          92
+        ],
+        "Massacre": [
+          0,
+          null,
+          1.9,
+          76
+        ]
+      }
+    },
+    {
+      "nombre": "Izzet Delver",
+      "colores": "UR",
+      "meta": 6.5,
+      "cartas": {
+        "Delver of Secrets": [
+          3.7,
+          53,
+          0,
+          null
+        ],
+        "Dragon's Rage Channeler": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Murktide Regent": [
+          2,
+          70,
+          0,
+          null
+        ],
+        "Ponder": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Flow State": [
+          3.2,
+          74,
+          0,
+          null
+        ],
+        "Brainstorm": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Lightning Bolt": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Unholy Heat": [
+          1.4,
+          70,
+          1.6,
+          90
+        ],
+        "Daze": [
+          3.5,
+          100,
+          0,
+          null
+        ],
+        "Prismari Charm": [
+          1,
+          57,
+          0,
+          null
+        ],
+        "Force of Will": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Mishra's Bauble": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Cori-Steel Cutter": [
+          3.2,
+          98,
+          0,
+          null
+        ],
+        "Flooded Strand": [
+          2.1,
+          87,
+          0,
+          null
+        ],
+        "Misty Rainforest": [
+          2,
+          85,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          2.2,
+          97,
+          0,
+          null
+        ],
+        "Scalding Tarn": [
+          2.8,
+          96,
+          0,
+          null
+        ],
+        "Thundering Falls": [
+          1,
+          97,
+          0,
+          null
+        ],
+        "Volcanic Island": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Wasteland": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Karakas": [
+          0,
+          null,
+          1.2,
+          50
+        ],
+        "Consign to Memory": [
+          0,
+          null,
+          2,
+          99
+        ],
+        "Hydroblast": [
+          0,
+          null,
+          1.6,
+          88
+        ],
+        "Meltdown": [
+          0,
+          null,
+          1.1,
+          69
+        ],
+        "Pyroblast": [
+          0,
+          null,
+          2.7,
+          98
+        ],
+        "Price of Progress": [
+          0,
+          null,
+          1.7,
+          78
+        ],
+        "Force of Negation": [
+          0,
+          null,
+          2.1,
+          96
+        ],
+        "Rough // Tumble": [
+          0,
+          null,
+          1.3,
+          55
+        ]
+      }
+    },
+    {
+      "nombre": "Dimir Tempo",
+      "colores": "UB",
+      "meta": 5.9,
+      "cartas": {
+        "Moonshadow": [
+          4,
+          66,
+          0,
+          null
+        ],
+        "Nethergoyf": [
+          3.9,
+          83,
+          0,
+          null
+        ],
+        "Tamiyo, Inquisitive Student": [
+          3.8,
           43,
+          0,
+          null
+        ],
+        "Bilbo, Thief in the Night": [
+          2.1,
+          72,
+          0,
+          null
+        ],
+        "Orcish Bowmasters": [
+          2.6,
+          90,
+          0,
+          null
+        ],
+        "Brazen Borrower": [
+          1.1,
+          79,
+          0,
+          null
+        ],
+        "Ponder": [
+          2.9,
+          100,
+          0,
+          null
+        ],
+        "Thoughtseize": [
+          3.6,
+          95,
+          0,
+          null
+        ],
+        "Brainstorm": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Fatal Push": [
+          3.7,
+          100,
+          0,
+          null
+        ],
+        "Daze": [
+          3.1,
+          100,
+          0,
+          null
+        ],
+        "Snuff Out": [
+          1,
+          75,
           0,
           null
         ],
@@ -107,130 +433,341 @@
         ],
         "Mishra's Bauble": [
           3.7,
-          45,
+          74,
           0,
           null
         ],
         "Kaito, Bane of Nightmares": [
-          1.7,
-          76,
+          2,
+          91,
           0,
           null
         ],
         "Bloodstained Mire": [
-          1.3,
-          45,
+          1.2,
+          71,
           0,
           null
         ],
         "Flooded Strand": [
-          1.4,
-          41,
+          1.3,
+          71,
           0,
           null
         ],
         "Marsh Flats": [
-          1.3,
-          35,
+          1.1,
+          57,
           0,
           null
         ],
         "Misty Rainforest": [
-          2.6,
-          79,
+          1.3,
+          75,
           0,
           null
         ],
         "Polluted Delta": [
-          3.3,
-          77,
+          3.8,
+          98,
           0,
           null
         ],
         "Scalding Tarn": [
-          1.1,
-          38,
+          1.2,
+          72,
           0,
           null
         ],
         "Undercity Sewers": [
           1,
-          100,
+          99,
           0,
           null
         ],
         "Underground Sea": [
-          3.8,
-          100,
+          3.5,
+          99,
           0,
           null
         ],
         "Verdant Catacombs": [
-          2.9,
-          67,
+          1.4,
+          42,
           0,
           null
         ],
         "Wasteland": [
-          3.8,
+          4,
           100,
           0,
           null
         ],
+        "Karakas": [
+          0,
+          null,
+          1.1,
+          44
+        ],
         "Consign to Memory": [
           0,
           null,
-          2.5,
+          2.4,
           98
         ],
         "Hydroblast": [
           0,
           null,
-          1.7,
-          50
+          1.8,
+          85
         ],
         "Nihil Spellbomb": [
           0,
           null,
-          1.7,
-          59
+          1.3,
+          67
         ],
         "Dauthi Voidwalker": [
           0,
           null,
-          2.4,
-          46
+          2,
+          57
         ],
         "Null Rod": [
           0,
           null,
-          1.1,
-          48
+          1,
+          53
         ],
         "Barrowgoyf": [
           0,
           null,
           1.9,
-          54
+          81
         ],
         "Force of Negation": [
           0,
           null,
-          1.6,
-          98
+          1.9,
+          97
         ],
         "Massacre": [
           0,
           null,
           1.7,
+          84
+        ]
+      }
+    },
+    {
+      "nombre": "Doomsday",
+      "colores": "UBG",
+      "meta": 5.2,
+      "cartas": {
+        "Doomsday": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Dark Ritual": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Brainstorm": [
+          4,
+          99,
+          0,
+          null
+        ],
+        "Force of Will": [
+          4,
+          98,
+          0,
+          null
+        ],
+        "Ponder": [
+          3.7,
+          98,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          3.9,
+          99,
+          0,
+          null
+        ],
+        "Underground Sea": [
+          3.8,
+          99,
+          0,
+          null
+        ],
+        "Tamiyo, Inquisitive Student": [
+          3.4,
+          53,
+          0,
+          null
+        ],
+        "Thoughtseize": [
+          2.8,
+          93,
+          0,
+          null
+        ],
+        "Daze": [
+          2.8,
+          98,
+          0,
+          null
+        ],
+        "Personal Tutor": [
+          2.7,
+          67,
+          0,
+          null
+        ],
+        "Lotus Petal": [
+          2.7,
+          100,
+          0,
+          null
+        ],
+        "Street Wraith": [
+          2.5,
+          99,
+          0,
+          null
+        ],
+        "Flow State": [
+          2.6,
+          74,
+          0,
+          null
+        ],
+        "Edge of Autumn": [
+          1.7,
+          99,
+          0,
+          null
+        ],
+        "Thassa's Oracle": [
+          1.4,
+          100,
+          0,
+          null
+        ],
+        "Flooded Strand": [
+          1.4,
+          86,
+          0,
+          null
+        ],
+        "Misty Rainforest": [
+          1.4,
+          80,
+          0,
+          null
+        ],
+        "Duress": [
+          1.1,
+          36,
+          1.3,
+          39
+        ],
+        "Lion's Eye Diamond": [
+          1.1,
+          99,
+          0,
+          null
+        ],
+        "Consider": [
+          1,
+          99,
+          0,
+          null
+        ],
+        "Jace, Wielder of Mysteries": [
+          1,
+          39,
+          0,
+          null
+        ],
+        "Cavern of Souls": [
+          1,
+          98,
+          0,
+          null
+        ],
+        "Undercity Sewers": [
+          1,
+          98,
+          0,
+          null
+        ],
+        "Scalding Tarn": [
+          1.2,
+          74,
+          0,
+          null
+        ],
+        "Verdant Catacombs": [
+          1.1,
+          40,
+          0,
+          null
+        ],
+        "Fatal Push": [
+          0,
+          null,
+          2.5,
           90
+        ],
+        "Flusterstorm": [
+          0,
+          null,
+          1.2,
+          40
+        ],
+        "Dauthi Voidwalker": [
+          0,
+          null,
+          2.9,
+          58
+        ],
+        "Voice of Victory": [
+          0,
+          null,
+          1,
+          58
+        ],
+        "Barrowgoyf": [
+          0,
+          null,
+          3.4,
+          65
+        ],
+        "Force of Negation": [
+          0,
+          null,
+          2.1,
+          97
+        ],
+        "Murktide Regent": [
+          0,
+          null,
+          2.2,
+          48
         ]
       }
     },
     {
       "nombre": "Boros Energy",
-      "colores": "WUR",
-      "meta": 7.2,
+      "colores": "WR",
+      "meta": 5.0,
       "cartas": {
         "Guide of Souls": [
           4,
@@ -258,54 +795,54 @@
         ],
         "Hexing Squelcher": [
           2,
-          82,
+          86,
           0,
           null
         ],
         "Sand Scout": [
-          2.8,
-          86,
+          2.9,
+          89,
           0,
           null
         ],
         "Voice of Victory": [
           3.9,
-          99,
+          100,
           0,
           null
         ],
         "Phlage, Titan of Fire's Fury": [
           1.1,
-          50,
+          57,
           0,
           null
         ],
         "Galvanic Discharge": [
-          1.1,
-          52,
+          1,
+          38,
           0,
           null
         ],
         "Swords to Plowshares": [
           4,
-          99,
+          100,
           0,
           null
         ],
         "Static Prison": [
           2.3,
-          89,
+          90,
           0,
           null
         ],
         "Goblin Bombardment": [
-          2.7,
+          2.6,
           100,
           0,
           null
         ],
         "Arid Mesa": [
-          4,
+          3.9,
           99,
           0,
           null
@@ -317,14 +854,14 @@
           null
         ],
         "Flooded Strand": [
-          1.5,
-          72,
+          1.7,
+          68,
           0,
           null
         ],
         "Karakas": [
           2,
-          99,
+          100,
           0,
           null
         ],
@@ -336,486 +873,100 @@
         ],
         "Marsh Flats": [
           1.6,
-          82,
+          76,
           0,
           null
         ],
         "Plateau": [
           2.5,
-          100,
+          99,
           0,
           null
         ],
         "Sunbaked Canyon": [
           2,
-          53,
+          60,
           0,
           null
         ],
         "Wasteland": [
           4,
-          100,
+          99,
           0,
           null
         ],
         "Windswept Heath": [
           1.8,
-          67,
+          66,
           0,
           null
         ],
         "Deafening Silence": [
           0,
           null,
-          3.1,
-          63
+          3.2,
+          72
         ],
         "Erode": [
           0,
           null,
           1.1,
-          57
+          47
         ],
         "Pyroblast": [
           0,
           null,
           2.3,
-          94
-        ],
-        "Red Elemental Blast": [
-          0,
-          null,
-          1.2,
-          34
+          86
         ],
         "Surgical Extraction": [
           0,
           null,
-          2.1,
-          83
+          2,
+          73
         ],
         "Abrade": [
           0,
           null,
-          1.2,
-          55
+          1.1,
+          48
         ],
         "Containment Priest": [
           0,
           null,
           1.8,
-          43
+          52
         ],
         "Disruptor Flute": [
           0,
           null,
-          2.1,
-          52
+          1.9,
+          47
         ],
         "Null Rod": [
           0,
           null,
           1.6,
-          42
+          38
         ],
         "Price of Progress": [
           0,
           null,
-          2.5,
-          58
-        ],
-        "Mindbreak Trap": [
-          0,
-          null,
-          2.6,
-          33
-        ]
-      }
-    },
-    {
-      "nombre": "Izzet Delver",
-      "colores": "UR",
-      "meta": 6.7,
-      "cartas": {
-        "Delver of Secrets": [
-          3.6,
-          72,
-          0,
-          null
-        ],
-        "Dragon's Rage Channeler": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Murktide Regent": [
-          1.9,
-          78,
-          0,
-          null
-        ],
-        "Ponder": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Preordain": [
-          1.1,
-          39,
-          0,
-          null
-        ],
-        "Flow State": [
-          3.2,
-          87,
-          0,
-          null
-        ],
-        "Brainstorm": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Lightning Bolt": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Unholy Heat": [
-          1.2,
-          49,
-          1.8,
-          94
-        ],
-        "Daze": [
-          3.4,
-          100,
-          0,
-          null
-        ],
-        "Prismari Charm": [
-          1,
-          62,
-          0,
-          null
-        ],
-        "Force of Will": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Mishra's Bauble": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Cori-Steel Cutter": [
-          3.1,
-          99,
-          0,
-          null
-        ],
-        "Flooded Strand": [
-          2.3,
-          90,
-          0,
-          null
-        ],
-        "Misty Rainforest": [
-          2,
-          79,
-          0,
-          null
-        ],
-        "Polluted Delta": [
-          2.5,
-          99,
-          0,
-          null
-        ],
-        "Scalding Tarn": [
-          2.8,
-          87,
-          0,
-          null
-        ],
-        "Thundering Falls": [
-          1,
-          100,
-          0,
-          null
-        ],
-        "Volcanic Island": [
-          3.9,
-          100,
-          0,
-          null
-        ],
-        "Wasteland": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Consign to Memory": [
-          0,
-          null,
-          2.1,
-          99
-        ],
-        "Hydroblast": [
-          0,
-          null,
-          1.6,
-          92
-        ],
-        "Meltdown": [
-          0,
-          null,
-          1.1,
-          67
-        ],
-        "Pyroblast": [
-          0,
-          null,
-          2.7,
-          96
-        ],
-        "Price of Progress": [
-          0,
-          null,
-          1.7,
-          87
-        ],
-        "Force of Negation": [
-          0,
-          null,
-          1.9,
-          94
-        ],
-        "Rough // Tumble": [
-          0,
-          null,
-          1.4,
-          72
-        ]
-      }
-    },
-    {
-      "nombre": "Doomsday",
-      "colores": "WUBG",
-      "meta": 5.9,
-      "cartas": {
-        "Tamiyo, Inquisitive Student": [
-          3.5,
-          39,
-          0,
-          null
-        ],
-        "Thassa's Oracle": [
-          1.3,
-          100,
-          0,
-          null
-        ],
-        "Street Wraith": [
-          2.6,
-          99,
-          0,
-          null
-        ],
-        "Personal Tutor": [
-          2.8,
-          72,
-          0,
-          null
-        ],
-        "Ponder": [
-          3.8,
-          99,
-          0,
-          null
-        ],
-        "Thoughtseize": [
-          2.8,
-          94,
-          0,
-          null
-        ],
-        "Edge of Autumn": [
-          1.7,
-          99,
-          0,
-          null
-        ],
-        "Flow State": [
           2.4,
-          78,
-          0,
-          null
-        ],
-        "Doomsday": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Brainstorm": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Consider": [
-          1,
-          100,
-          0,
-          null
-        ],
-        "Dark Ritual": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Daze": [
-          3,
-          99,
-          0,
-          null
-        ],
-        "Force of Will": [
-          4,
-          99,
-          0,
-          null
-        ],
-        "Lion's Eye Diamond": [
-          1,
-          99,
-          0,
-          null
-        ],
-        "Lotus Petal": [
-          2.7,
-          100,
-          0,
-          null
-        ],
-        "Jace, Wielder of Mysteries": [
-          1,
-          48,
-          0,
-          null
-        ],
-        "Cavern of Souls": [
-          1,
-          99,
-          0,
-          null
-        ],
-        "Flooded Strand": [
-          1.4,
-          88,
-          0,
-          null
-        ],
-        "Misty Rainforest": [
-          1.4,
-          88,
-          0,
-          null
-        ],
-        "Polluted Delta": [
-          3.9,
-          98,
-          0,
-          null
-        ],
-        "Scalding Tarn": [
-          1.3,
-          79,
-          0,
-          null
-        ],
-        "Undercity Sewers": [
-          1,
-          99,
-          0,
-          null
-        ],
-        "Underground Sea": [
-          3.8,
-          100,
-          0,
-          null
-        ],
-        "Verdant Catacombs": [
-          1.1,
-          51,
-          0,
-          null
-        ],
-        "Duress": [
-          0,
-          null,
-          1.3,
-          34
-        ],
-        "Fatal Push": [
-          0,
-          null,
-          2.4,
-          89
-        ],
-        "Dauthi Voidwalker": [
-          0,
-          null,
-          2.7,
-          66
-        ],
-        "Voice of Victory": [
-          0,
-          null,
-          1,
-          37
-        ],
-        "Barrowgoyf": [
-          0,
-          null,
-          3.5,
-          75
-        ],
-        "Force of Negation": [
-          0,
-          null,
-          2.1,
-          98
-        ],
-        "Murktide Regent": [
-          0,
-          null,
-          2.2,
-          59
+          68
         ]
       }
     },
     {
       "nombre": "Lands",
       "colores": "G",
-      "meta": 4.8,
+      "meta": 4.9,
       "cartas": {
         "Icetill Explorer": [
-          1.1,
+          1.2,
           60,
-          1.4,
-          38
+          0,
+          null
         ],
         "Life from the Loam": [
           3.9,
@@ -825,7 +976,7 @@
         ],
         "Malevolent Rumble": [
           3.9,
-          99,
+          96,
           0,
           null
         ],
@@ -849,7 +1000,7 @@
         ],
         "Grafdigger's Cage": [
           1,
-          43,
+          37,
           0,
           null
         ],
@@ -861,25 +1012,19 @@
         ],
         "Skateboard": [
           1,
-          100,
-          0,
-          null
-        ],
-        "Soul-Guide Lantern": [
-          1,
-          33,
+          98,
           0,
           null
         ],
         "Disruptor Flute": [
-          2.4,
-          42,
-          2.5,
-          75
+          2.3,
+          47,
+          2.2,
+          74
         ],
         "Sphere of Resistance": [
           4,
-          66,
+          61,
           0,
           null
         ],
@@ -890,14 +1035,14 @@
           null
         ],
         "Ancient Tomb": [
-          1.6,
-          96,
+          1.5,
+          95,
           0,
           null
         ],
         "Blast Zone": [
           1,
-          82,
+          90,
           0,
           null
         ],
@@ -908,20 +1053,20 @@
           null
         ],
         "Boseiju, Who Endures": [
-          3.1,
+          3,
           100,
           0,
           null
         ],
         "Dark Depths": [
-          2.8,
+          2.7,
           100,
           0,
           null
         ],
         "Ghost Quarter": [
           1.2,
-          100,
+          99,
           0,
           null
         ],
@@ -932,14 +1077,14 @@
           null
         ],
         "Maze of Ith": [
-          1.1,
+          1.2,
           99,
           0,
           null
         ],
         "Otawara, Soaring City": [
           1,
-          47,
+          41,
           0,
           null
         ],
@@ -968,7 +1113,7 @@
           null
         ],
         "Yavimaya, Cradle of Growth": [
-          3.9,
+          3.7,
           100,
           0,
           null
@@ -976,97 +1121,272 @@
         "Drop of Honey": [
           0,
           null,
-          1.8,
-          63
+          1.7,
+          49
         ],
         "Damping Sphere": [
           0,
           null,
-          1.9,
-          66
+          2,
+          77
         ],
         "Choke": [
           0,
           null,
           2.1,
-          92
+          87
         ],
         "Dismember": [
           0,
           null,
-          1.9,
-          72
+          2,
+          69
         ],
         "Endurance": [
           0,
           null,
-          2.4,
-          99
+          2.3,
+          98
         ],
         "Force of Vigor": [
           0,
           null,
-          2.6,
+          2.5,
           99
         ]
       }
     },
     {
-      "nombre": "Eldrazi",
-      "colores": "R",
-      "meta": 4.4,
+      "nombre": "Beanstalk Control (Non-Yorion)",
+      "colores": "WUG",
+      "meta": 4.9,
       "cartas": {
-        "It That Heralds the End": [
-          3.4,
+        "Tamiyo, Inquisitive Student": [
+          3.5,
+          88,
+          0,
+          null
+        ],
+        "Phelia, Exuberant Shepherd": [
+          2.3,
+          84,
+          0,
+          null
+        ],
+        "Quantum Riddler": [
+          3.8,
+          96,
+          0,
+          null
+        ],
+        "Murktide Regent": [
+          2.6,
+          94,
+          0,
+          null
+        ],
+        "Ponder": [
+          3.7,
+          99,
+          0,
+          null
+        ],
+        "Wrath of the Skies": [
+          1,
+          59,
+          1.9,
+          97
+        ],
+        "Brainstorm": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Swords to Plowshares": [
+          4,
           97,
           0,
           null
         ],
-        "Wastescape Battlemage": [
+        "Force of Negation": [
+          1.5,
+          95,
+          1.2,
+          51
+        ],
+        "Force of Will": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Up the Beanstalk": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Leyline Binding": [
+          3.8,
+          92,
+          0,
+          null
+        ],
+        "Boseiju, Who Endures": [
+          1,
+          34,
+          0,
+          null
+        ],
+        "Flooded Strand": [
           4,
           99,
           0,
           null
         ],
-        "Eldrazi Linebreaker": [
-          4,
-          98,
+        "Meticulous Archive": [
+          1,
+          92,
           0,
           null
         ],
-        "Glaring Fleshraker": [
-          4,
-          100,
+        "Misty Rainforest": [
+          3.8,
+          99,
           0,
           null
         ],
-        "Thought-Knot Seer": [
-          4,
-          100,
+        "Polluted Delta": [
+          1.3,
+          61,
           0,
           null
         ],
-        "Reality Smasher": [
-          3.7,
+        "Savannah": [
+          1,
           95,
           0,
           null
         ],
-        "Sire of Seven Deaths": [
-          1.1,
-          55,
+        "Tropical Island": [
+          2,
+          100,
           0,
           null
         ],
-        "Kozilek's Command": [
+        "Tundra": [
+          2.4,
+          97,
+          0,
+          null
+        ],
+        "Volcanic Island": [
+          1.1,
+          61,
+          0,
+          null
+        ],
+        "Xander's Lounge": [
+          1,
+          83,
+          0,
+          null
+        ],
+        "Carpet of Flowers": [
+          0,
+          null,
+          2.2,
+          95
+        ],
+        "Consign to Memory": [
+          0,
+          null,
+          2.9,
+          99
+        ],
+        "Hydroblast": [
+          0,
+          null,
+          1.2,
+          59
+        ],
+        "Pyroblast": [
+          0,
+          null,
+          1.7,
+          58
+        ],
+        "Surgical Extraction": [
+          0,
+          null,
+          1.2,
+          67
+        ],
+        "Containment Priest": [
+          0,
+          null,
+          1.9,
+          85
+        ],
+        "Damping Sphere": [
+          0,
+          null,
+          1.1,
+          53
+        ]
+      }
+    },
+    {
+      "nombre": "Aluren",
+      "colores": "UG",
+      "meta": 4.8,
+      "cartas": {
+        "Acererak the Archlich": [
+          3.9,
+          100,
+          0,
+          null
+        ],
+        "Atraxa, Grand Unifier": [
+          3.9,
+          100,
+          0,
+          null
+        ],
+        "Ponder": [
           4,
           100,
           0,
           null
         ],
-        "Chalice of the Void": [
+        "Show and Tell": [
           4,
-          96,
+          100,
+          0,
+          null
+        ],
+        "Stock Up": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Brainstorm": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Veil of Summer": [
+          2,
+          99,
+          1.8,
+          97
+        ],
+        "Force of Will": [
+          4,
+          100,
           0,
           null
         ],
@@ -1076,106 +1396,118 @@
           0,
           null
         ],
-        "Abundant Countryside": [
-          3.9,
-          74,
-          0,
-          null
-        ],
-        "Ancient Tomb": [
+        "Aluren": [
           4,
           100,
           0,
           null
         ],
-        "Cavern of Souls": [
-          4,
+        "Omniscience": [
+          2,
           99,
           0,
           null
         ],
-        "City of Traitors": [
+        "Ancient Tomb": [
+          3.8,
+          100,
+          0,
+          null
+        ],
+        "Boseiju, Who Endures": [
           1,
+          99,
+          1,
+          56
+        ],
+        "City of Traitors": [
+          1.2,
+          95,
+          0,
+          null
+        ],
+        "Flooded Strand": [
+          1.9,
           82,
           0,
           null
         ],
-        "Eldrazi Temple": [
-          4,
+        "Hedge Maze": [
+          1.9,
           100,
           0,
           null
         ],
-        "Eye of Ugin": [
-          3,
+        "Misty Rainforest": [
+          3.9,
+          99,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          1.4,
+          57,
+          0,
+          null
+        ],
+        "Tropical Island": [
+          2.3,
           100,
           0,
           null
         ],
-        "Wasteland": [
-          4,
-          82,
-          0,
-          null
-        ],
-        "Disruptor Flute": [
+        "Carpet of Flowers": [
           0,
           null,
           3.2,
-          96
+          100
         ],
-        "Null Rod": [
+        "Consign to Memory": [
           0,
           null,
-          2.3,
-          88
+          2.4,
+          98
         ],
-        "Warping Wail": [
+        "Defense Grid": [
           0,
           null,
           1.9,
-          79
+          55
         ],
         "Dismember": [
           0,
           null,
-          2,
-          94
+          1,
+          53
         ],
-        "Eldrazi Confluence": [
+        "Faerie Macabre": [
           0,
           null,
           1.9,
-          71
+          49
         ],
-        "Leyline of the Void": [
+        "Force of Negation": [
           0,
           null,
-          4,
-          96
+          1.1,
+          81
         ]
       }
     },
     {
       "nombre": "Sneak and Show",
       "colores": "UR",
-      "meta": 4.3,
+      "meta": 4.6,
       "cartas": {
         "Simian Spirit Guide": [
-          1.7,
-          62,
+          1.5,
+          50,
           0,
           null
         ],
         "Atraxa, Grand Unifier": [
           4,
-          100,
-          0,
-          null
-        ],
-        "Griselbrand": [
-          1,
-          41,
+          99,
           0,
           null
         ],
@@ -1198,8 +1530,8 @@
           null
         ],
         "Stock Up": [
-          3.5,
-          100,
+          3.7,
+          99,
           0,
           null
         ],
@@ -1210,20 +1542,20 @@
           null
         ],
         "Flusterstorm": [
-          2,
-          91,
+          1.9,
+          87,
           0,
           null
         ],
         "Spell Pierce": [
-          1.8,
-          43,
+          1.6,
+          50,
           0,
           null
         ],
-        "Daze": [
-          1.9,
-          48,
+        "Prismari Charm": [
+          1,
+          34,
           0,
           null
         ],
@@ -1246,20 +1578,20 @@
           null
         ],
         "Omniscience": [
-          1.4,
-          60,
-          1,
-          44
+          1.5,
+          76,
+          0,
+          null
         ],
         "Ancient Tomb": [
           3.3,
-          100,
+          99,
           0,
           null
         ],
         "City of Traitors": [
           1.7,
-          98,
+          97,
           0,
           null
         ],
@@ -1271,13 +1603,13 @@
         ],
         "Misty Rainforest": [
           1.3,
-          89,
+          86,
           0,
           null
         ],
         "Polluted Delta": [
           1.1,
-          87,
+          86,
           0,
           null
         ],
@@ -1289,13 +1621,13 @@
         ],
         "Thundering Falls": [
           1,
-          100,
+          99,
           0,
           null
         ],
         "Volcanic Island": [
-          2.9,
-          100,
+          2.8,
+          99,
           0,
           null
         ],
@@ -1303,37 +1635,37 @@
           0,
           null,
           2,
-          97
+          98
         ],
         "Grafdigger's Cage": [
           0,
           null,
           1.3,
-          78
+          67
         ],
         "Pyroblast": [
           0,
           null,
-          1.9,
-          80
+          1.7,
+          77
         ],
         "Abrade": [
           0,
           null,
-          1.1,
-          95
+          1.2,
+          91
         ],
         "Hexing Squelcher": [
           0,
           null,
-          2.8,
-          98
+          2.7,
+          95
         ],
         "Pyroclasm": [
           0,
           null,
           1,
-          57
+          55
         ],
         "Brotherhood's End": [
           0,
@@ -1344,31 +1676,417 @@
         "Faerie Macabre": [
           0,
           null,
-          1.2,
-          47
+          1.3,
+          39
         ],
         "Magus of the Moon": [
           0,
           null,
-          1.4,
-          78
+          1.6,
+          71
         ],
         "Mindbreak Trap": [
           0,
           null,
           1,
+          39
+        ]
+      }
+    },
+    {
+      "nombre": "Eldrazi",
+      "colores": "",
+      "meta": 4.1,
+      "cartas": {
+        "It That Heralds the End": [
+          3.4,
+          98,
+          0,
+          null
+        ],
+        "Wastescape Battlemage": [
+          3.9,
+          100,
+          0,
+          null
+        ],
+        "Eldrazi Linebreaker": [
+          4,
+          99,
+          0,
+          null
+        ],
+        "Glaring Fleshraker": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Thought-Knot Seer": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Reality Smasher": [
+          3.7,
+          97,
+          0,
+          null
+        ],
+        "Sire of Seven Deaths": [
+          1.1,
+          60,
+          0,
+          null
+        ],
+        "Kozilek's Command": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Chalice of the Void": [
+          4,
+          98,
+          0,
+          null
+        ],
+        "Lotus Petal": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Abundant Countryside": [
+          4,
+          81,
+          0,
+          null
+        ],
+        "Ancient Tomb": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Cavern of Souls": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "City of Traitors": [
+          1,
+          84,
+          0,
+          null
+        ],
+        "Eldrazi Temple": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Eye of Ugin": [
+          3,
+          100,
+          0,
+          null
+        ],
+        "Wasteland": [
+          4,
+          84,
+          0,
+          null
+        ],
+        "Disruptor Flute": [
+          0,
+          null,
+          3.1,
+          98
+        ],
+        "Null Rod": [
+          0,
+          null,
+          2.2,
+          89
+        ],
+        "Warping Wail": [
+          0,
+          null,
+          1.9,
+          80
+        ],
+        "Dismember": [
+          0,
+          null,
+          2.1,
+          93
+        ],
+        "Eldrazi Confluence": [
+          0,
+          null,
+          1.9,
+          77
+        ],
+        "Leyline of the Void": [
+          0,
+          null,
+          4,
+          95
+        ]
+      }
+    },
+    {
+      "nombre": "Sewer-Cam Combo",
+      "colores": "WUR",
+      "meta": 3.6,
+      "cartas": {
+        "Goblin Welder": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Goblin Engineer": [
+          4,
+          80,
+          0,
+          null
+        ],
+        "Emry, Lurker of the Loch": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Phyrexian Dragon Engine": [
+          1,
+          74,
+          0,
+          null
+        ],
+        "Pinnacle Emissary": [
+          3.7,
+          69,
+          0,
+          null
+        ],
+        "Kappa Cannoneer": [
+          1.3,
+          77,
+          1.7,
+          37
+        ],
+        "Lion's Eye Diamond": [
+          1.4,
+          47,
+          0,
+          null
+        ],
+        "Lotus Petal": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Mishra's Bauble": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Mox Opal": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Urza's Bauble": [
+          3,
+          67,
+          0,
+          null
+        ],
+        "Chromatic Star": [
+          1,
+          94,
+          0,
+          null
+        ],
+        "Sewer-veillance Cam": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Skateboard": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Agatha's Soul Cauldron": [
+          1,
+          88,
+          0,
+          null
+        ],
+        "Legion Extruder": [
+          1,
+          86,
+          0,
+          null
+        ],
+        "Arena of Glory": [
+          1.9,
+          79,
+          0,
+          null
+        ],
+        "Arid Mesa": [
+          1,
+          47,
+          0,
+          null
+        ],
+        "Bloodstained Mire": [
+          1.1,
+          61,
+          0,
+          null
+        ],
+        "Great Furnace": [
+          1,
+          47,
+          0,
+          null
+        ],
+        "Plateau": [
+          1,
+          45,
+          0,
+          null
+        ],
+        "Scalding Tarn": [
+          2,
+          75,
+          0,
+          null
+        ],
+        "Seat of the Synod": [
+          1.8,
+          100,
+          0,
+          null
+        ],
+        "Urza's Saga": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Volcanic Island": [
+          3.9,
+          100,
+          0,
+          null
+        ],
+        "Wooded Foothills": [
+          1.5,
+          60,
+          0,
+          null
+        ],
+        "Tormod's Crypt": [
+          0,
+          null,
+          1.1,
+          63
+        ],
+        "Consign to Memory": [
+          0,
+          null,
+          2.1,
+          65
+        ],
+        "Flusterstorm": [
+          0,
+          null,
+          2,
+          85
+        ],
+        "Haywire Mite": [
+          0,
+          null,
+          1,
+          88
+        ],
+        "Pithing Needle": [
+          0,
+          null,
+          1,
+          92
+        ],
+        "Portable Hole": [
+          0,
+          null,
+          1,
+          38
+        ],
+        "Swan Song": [
+          0,
+          null,
+          1.8,
+          39
+        ],
+        "Abrade": [
+          0,
+          null,
+          1.2,
           56
+        ],
+        "Damping Sphere": [
+          0,
+          null,
+          1.5,
+          78
+        ],
+        "Disruptor Flute": [
+          0,
+          null,
+          1.3,
+          71
+        ],
+        "Rip Apart": [
+          0,
+          null,
+          1.3,
+          42
+        ],
+        "Torpor Orb": [
+          0,
+          null,
+          1,
+          46
+        ],
+        "Twinshot Sniper": [
+          0,
+          null,
+          1,
+          55
         ]
       }
     },
     {
       "nombre": "Mystic Forge Combo",
-      "colores": "W",
-      "meta": 3.9,
+      "colores": "",
+      "meta": 3.5,
       "cartas": {
         "Glaring Fleshraker": [
-          3.9,
-          91,
+          4,
+          99,
           0,
           null
         ],
@@ -1380,57 +2098,57 @@
         ],
         "Lotus Petal": [
           4,
-          100,
+          99,
           0,
           null
         ],
         "Mox Opal": [
           1,
-          97,
+          96,
           0,
           null
         ],
         "Manifold Key": [
-          3.3,
-          100,
+          3.2,
+          99,
           0,
           null
         ],
         "Mishra's Research Desk": [
           1,
-          54,
+          53,
           0,
           null
         ],
         "Pithing Needle": [
           1,
-          86,
+          97,
           0,
           null
         ],
         "Portable Hole": [
           1,
-          84,
+          93,
           0,
           null
         ],
         "Voltaic Key": [
           1,
-          89,
+          94,
           0,
           null
         ],
         "Grim Monolith": [
           4,
-          100,
+          99,
           0,
           null
         ],
         "Mystic Forge": [
-          2.3,
+          2.1,
           100,
-          0,
-          null
+          1,
+          38
         ],
         "The One Ring": [
           4,
@@ -1440,7 +2158,7 @@
         ],
         "Tezzeret, Cruel Captain": [
           3.2,
-          100,
+          99,
           0,
           null
         ],
@@ -1451,8 +2169,8 @@
           null
         ],
         "Ugin, Eye of the Storms": [
-          1.8,
-          84,
+          1.9,
+          95,
           0,
           null
         ],
@@ -1464,7 +2182,7 @@
         ],
         "Planar Nexus": [
           4,
-          99,
+          100,
           0,
           null
         ],
@@ -1476,7 +2194,7 @@
         ],
         "Urza's Tower": [
           4,
-          99,
+          100,
           0,
           null
         ],
@@ -1490,55 +2208,55 @@
           0,
           null,
           1,
-          89
+          96
         ],
         "Disruptor Flute": [
           0,
           null,
-          1.6,
-          94
+          1.5,
+          95
         ],
         "Liquimetal Coating": [
           0,
           null,
           1,
-          82
+          88
         ],
         "Dismember": [
           0,
           null,
           1.8,
-          80
+          76
         ],
         "Ensnaring Bridge": [
           0,
           null,
           1,
-          100
+          99
         ],
         "Perilous Snare": [
           0,
           null,
           1,
-          85
+          91
         ],
         "Trinisphere": [
           0,
           null,
           1.8,
-          75
+          70
         ],
         "Leyline of the Void": [
           0,
           null,
           3.2,
-          70
+          86
         ],
         "Paradox Engine": [
           0,
           null,
           1,
-          89
+          90
         ],
         "Mycosynth Lattice": [
           0,
@@ -1555,196 +2273,9 @@
       }
     },
     {
-      "nombre": "Beanstalk Control (Non-Yorion)",
-      "colores": "WUG",
-      "meta": 3.9,
-      "cartas": {
-        "Tamiyo, Inquisitive Student": [
-          3.3,
-          81,
-          0,
-          null
-        ],
-        "Phelia, Exuberant Shepherd": [
-          2.7,
-          91,
-          0,
-          null
-        ],
-        "Quantum Riddler": [
-          3.8,
-          99,
-          0,
-          null
-        ],
-        "Murktide Regent": [
-          2.8,
-          95,
-          0,
-          null
-        ],
-        "Ponder": [
-          3.9,
-          100,
-          0,
-          null
-        ],
-        "Wrath of the Skies": [
-          1,
-          36,
-          1.9,
-          100
-        ],
-        "Brainstorm": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Swords to Plowshares": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Force of Negation": [
-          1.7,
-          100,
-          1.1,
-          37
-        ],
-        "Force of Will": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Up the Beanstalk": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Leyline Binding": [
-          3.8,
-          86,
-          0,
-          null
-        ],
-        "Flooded Strand": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Meticulous Archive": [
-          1,
-          83,
-          0,
-          null
-        ],
-        "Misty Rainforest": [
-          3.8,
-          88,
-          0,
-          null
-        ],
-        "Polluted Delta": [
-          1.6,
-          65,
-          0,
-          null
-        ],
-        "Savannah": [
-          1,
-          87,
-          0,
-          null
-        ],
-        "Tropical Island": [
-          1.9,
-          100,
-          0,
-          null
-        ],
-        "Tundra": [
-          2.5,
-          100,
-          0,
-          null
-        ],
-        "Volcanic Island": [
-          1,
-          54,
-          0,
-          null
-        ],
-        "Wasteland": [
-          2.9,
-          38,
-          0,
-          null
-        ],
-        "Xander's Lounge": [
-          1,
-          74,
-          0,
-          null
-        ],
-        "Carpet of Flowers": [
-          0,
-          null,
-          2.3,
-          97
-        ],
-        "Consign to Memory": [
-          0,
-          null,
-          2.9,
-          100
-        ],
-        "Hydroblast": [
-          0,
-          null,
-          1,
-          38
-        ],
-        "Pyroblast": [
-          0,
-          null,
-          1.7,
-          54
-        ],
-        "Surgical Extraction": [
-          0,
-          null,
-          1.2,
-          67
-        ],
-        "Containment Priest": [
-          0,
-          null,
-          2.1,
-          90
-        ],
-        "Damping Sphere": [
-          0,
-          null,
-          1.2,
-          35
-        ],
-        "Lavinia, Azorius Renegade": [
-          0,
-          null,
-          1.7,
-          38
-        ]
-      }
-    },
-    {
       "nombre": "Death and Taxes (Yorion) - Black/White",
       "colores": "WB",
-      "meta": 3.8,
+      "meta": 3.5,
       "cartas": {
         "Yorion, Sky Nomad": [
           1,
@@ -1753,8 +2284,8 @@
           null
         ],
         "Emperor of Bones": [
-          2.3,
-          48,
+          1.7,
+          59,
           0,
           null
         ],
@@ -1764,8 +2295,14 @@
           0,
           null
         ],
+        "Orcish Bowmasters": [
+          1.4,
+          35,
+          0,
+          null
+        ],
         "Phelia, Exuberant Shepherd": [
-          4,
+          3.9,
           100,
           0,
           null
@@ -1776,27 +2313,27 @@
           0,
           null
         ],
-        "Thalia, Guardian of Thraben": [
-          2.4,
-          52,
-          0,
-          null
-        ],
         "White Orchid Phantom": [
-          3.1,
+          3.4,
           100,
           0,
           null
         ],
         "Cloak and Dagger, Entwined": [
           1,
-          95,
+          96,
           0,
           null
         ],
         "Flickerwisp": [
           1,
           99,
+          0,
+          null
+        ],
+        "Loran of the Third Path": [
+          1,
+          46,
           0,
           null
         ],
@@ -1814,7 +2351,7 @@
         ],
         "Canoptek Scarab Swarm": [
           1,
-          51,
+          46,
           0,
           null
         ],
@@ -1854,8 +2391,14 @@
           0,
           null
         ],
+        "Lich's Relic": [
+          1,
+          42,
+          0,
+          null
+        ],
         "Pre-War Formalwear": [
-          1.8,
+          1.6,
           100,
           0,
           null
@@ -1867,20 +2410,14 @@
           null
         ],
         "Arid Mesa": [
-          2.8,
-          49,
-          0,
-          null
-        ],
-        "Flagstones of Trokair": [
-          1.2,
-          38,
+          2.4,
+          57,
           0,
           null
         ],
         "Flooded Strand": [
-          2.5,
-          73,
+          2.4,
+          75,
           0,
           null
         ],
@@ -1898,12 +2435,12 @@
         ],
         "Prismatic Vista": [
           3.9,
-          100,
+          99,
           0,
           null
         ],
         "Scrubland": [
-          2.4,
+          2.3,
           100,
           0,
           null
@@ -1921,280 +2458,141 @@
           null
         ],
         "Windswept Heath": [
-          1.7,
-          66,
+          1.6,
+          71,
           0,
           null
         ],
         "Deafening Silence": [
           0,
           null,
-          2.7,
+          2.8,
           41
         ],
         "Erode": [
           0,
           null,
           2,
-          92
+          90
         ],
         "Surgical Extraction": [
           0,
           null,
-          1.8,
-          70
+          1.5,
+          59
         ],
         "Containment Priest": [
           0,
           null,
           1,
-          67
+          51
+        ],
+        "Damping Sphere": [
+          0,
+          null,
+          1.8,
+          42
         ],
         "Disruptor Flute": [
           0,
           null,
-          2.4,
-          96
+          2.5,
+          100
         ],
         "Wrath of the Skies": [
           0,
           null,
           3,
-          97
+          99
         ],
         "Faerie Macabre": [
           0,
           null,
           1.3,
-          81
+          63
+        ],
+        "Leyline of the Void": [
+          0,
+          null,
+          3.8,
+          36
         ]
       }
     },
     {
-      "nombre": "Aluren",
-      "colores": "UBG",
-      "meta": 3.7,
+      "nombre": "Rakdos Reanimator",
+      "colores": "UBR",
+      "meta": 2.4,
       "cartas": {
-        "Acererak the Archlich": [
-          4,
-          100,
-          0,
-          null
-        ],
         "Atraxa, Grand Unifier": [
-          3.8,
+          3.7,
           100,
           0,
           null
         ],
-        "Ponder": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Show and Tell": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Stock Up": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Brainstorm": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Veil of Summer": [
-          2,
-          100,
-          1.7,
-          100
-        ],
-        "Force of Will": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Lotus Petal": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Aluren": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Omniscience": [
-          2,
-          100,
-          0,
-          null
-        ],
-        "Ancient Tomb": [
-          3.9,
-          100,
-          0,
-          null
-        ],
-        "Boseiju, Who Endures": [
-          1,
-          100,
-          0,
-          null
-        ],
-        "City of Traitors": [
+        "Raph & Mikey, Troublemakers": [
           1.1,
           97,
           0,
           null
         ],
-        "Flooded Strand": [
-          1.9,
-          82,
-          0,
-          null
-        ],
-        "Hedge Maze": [
-          1.9,
+        "Archon of Cruelty": [
+          2.9,
           100,
           0,
           null
         ],
-        "Misty Rainforest": [
-          3.9,
+        "Griselbrand": [
+          3.6,
           100,
           0,
           null
         ],
-        "Polluted Delta": [
-          1.4,
-          58,
-          0,
-          null
-        ],
-        "Tropical Island": [
-          2.3,
-          100,
-          0,
-          null
-        ],
-        "Tundra": [
-          1,
-          34,
-          0,
-          null
-        ],
-        "Carpet of Flowers": [
-          0,
-          null,
-          3.1,
-          100
-        ],
-        "Consign to Memory": [
-          0,
-          null,
-          2.4,
-          100
-        ],
-        "Orim's Chant": [
-          0,
-          null,
-          1.9,
-          34
-        ],
-        "Prismatic Ending": [
-          0,
-          null,
+        "Cabal Therapy": [
           2,
-          34
-        ],
-        "Defense Grid": [
+          97,
           0,
-          null,
-          2,
-          57
+          null
         ],
-        "Faerie Macabre": [
-          0,
-          null,
-          2.1,
-          82
-        ],
-        "Force of Negation": [
-          0,
-          null,
-          1.2,
-          79
-        ]
-      }
-    },
-    {
-      "nombre": "Sewer-Cam Combo",
-      "colores": "WUR",
-      "meta": 2.4,
-      "cartas": {
-        "Goblin Welder": [
+        "Faithless Looting": [
           4,
           100,
           0,
           null
         ],
-        "Goblin Engineer": [
-          4,
-          59,
-          0,
-          null
-        ],
-        "Loki, God of Mischief": [
-          2.5,
-          45,
-          0,
-          null
-        ],
-        "Emry, Lurker of the Loch": [
+        "Reanimate": [
           4,
           100,
           0,
           null
         ],
-        "Phyrexian Dragon Engine": [
-          1,
-          51,
-          0,
-          null
-        ],
-        "Pinnacle Emissary": [
+        "Thoughtseize": [
           3.9,
-          76,
+          83,
           0,
           null
         ],
-        "Kappa Cannoneer": [
-          1.8,
-          69,
-          0,
-          null
+        "Collective Brutality": [
+          2.9,
+          37,
+          1.9,
+          63
         ],
-        "Sink into Stupor": [
-          3.4,
-          41,
-          0,
-          null
-        ],
-        "Force of Will": [
+        "Unmask": [
           4,
-          41,
+          100,
+          0,
+          null
+        ],
+        "Dark Ritual": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Shallow Grave": [
+          4,
+          99,
           0,
           null
         ],
@@ -2204,196 +2602,112 @@
           0,
           null
         ],
-        "Mishra's Bauble": [
+        "Animate Dead": [
           4,
           100,
           0,
           null
         ],
-        "Mox Opal": [
-          3.9,
-          100,
-          0,
-          null
-        ],
-        "Urza's Bauble": [
-          3.4,
-          84,
-          0,
-          null
-        ],
-        "Chromatic Star": [
-          1,
-          82,
-          0,
-          null
-        ],
-        "Sewer-veillance Cam": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Skateboard": [
-          1,
-          100,
-          0,
-          null
-        ],
-        "Agatha's Soul Cauldron": [
-          1,
-          76,
-          0,
-          null
-        ],
-        "Legion Extruder": [
-          1,
-          67,
-          0,
-          null
-        ],
-        "Arena of Glory": [
-          1.2,
-          59,
+        "Badlands": [
+          1.8,
+          99,
           0,
           null
         ],
         "Bloodstained Mire": [
-          1,
-          47,
-          0,
-          null
-        ],
-        "Great Furnace": [
-          1,
-          59,
-          0,
-          null
-        ],
-        "Plateau": [
-          1,
-          43,
-          0,
-          null
-        ],
-        "Scalding Tarn": [
-          2.4,
-          51,
-          0,
-          null
-        ],
-        "Seat of the Synod": [
-          2,
-          100,
-          0,
-          null
-        ],
-        "Urza's Saga": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Volcanic Island": [
-          3.9,
-          100,
-          0,
-          null
-        ],
-        "Wooded Foothills": [
           1.9,
-          41,
+          93,
           0,
           null
         ],
-        "Tormod's Crypt": [
+        "Marsh Flats": [
+          1.9,
+          82,
           0,
-          null,
-          1.1,
-          71
+          null
         ],
-        "Consign to Memory": [
+        "Polluted Delta": [
+          2.2,
+          97,
           0,
-          null,
-          2.1,
-          76
+          null
         ],
-        "Flusterstorm": [
-          0,
-          null,
-          1.8,
-          88
-        ],
-        "Haywire Mite": [
-          0,
-          null,
+        "Raucous Theater": [
           1,
-          90
-        ],
-        "Pithing Needle": [
+          100,
           0,
-          null,
+          null
+        ],
+        "Undercity Sewers": [
+          1.2,
+          97,
+          0,
+          null
+        ],
+        "Underground Sea": [
           1,
-          92
-        ],
-        "Portable Hole": [
+          96,
           0,
-          null,
-          1,
-          41
+          null
         ],
-        "Swan Song": [
+        "Verdant Catacombs": [
+          2,
+          85,
           0,
-          null,
-          1.8,
-          39
+          null
         ],
         "Abrade": [
           0,
           null,
-          1.3,
-          55
+          1.5,
+          37
         ],
-        "Damping Sphere": [
+        "Bitter Triumph": [
           0,
           null,
-          1.6,
-          57
+          2,
+          46
         ],
-        "Disruptor Flute": [
+        "Hexing Squelcher": [
           0,
           null,
-          1.1,
-          57
+          2.9,
+          56
         ],
-        "Rip Apart": [
+        "Stronghold Gambit": [
           0,
           null,
-          1.1,
-          41
+          3,
+          75
         ],
-        "Twinshot Sniper": [
+        "Magus of the Moon": [
           0,
           null,
-          1,
-          82
+          1.2,
+          63
+        ],
+        "Show and Tell": [
+          0,
+          null,
+          4,
+          97
         ]
       }
     },
     {
       "nombre": "Tron",
-      "colores": "UB",
-      "meta": 2.1,
+      "colores": "U",
+      "meta": 2.0,
       "cartas": {
         "Thundertrap Trainer": [
-          1.5,
+          1.6,
           37,
           0,
           null
         ],
         "Stock Up": [
-          3.8,
-          55,
+          3.9,
+          58,
           0,
           null
         ],
@@ -2404,55 +2718,55 @@
           null
         ],
         "Force of Negation": [
-          2.3,
-          47,
-          2,
-          39
+          2.2,
+          53,
+          1.9,
+          47
         ],
         "Sink into Stupor": [
-          2.2,
-          47,
+          2.4,
+          53,
           0,
           null
         ],
         "Eldrazi Confluence": [
           2.1,
-          66,
+          63,
           0,
           null
         ],
         "Force of Will": [
           4,
-          47,
+          53,
           0,
           null
         ],
         "Expedition Map": [
           1.9,
-          74,
+          66,
           0,
           null
         ],
         "Giant's Boulder": [
-          2.6,
-          79,
+          2.7,
+          63,
           0,
           null
         ],
         "Manifold Key": [
-          3.1,
+          3.2,
           45,
           0,
           null
         ],
         "Grim Monolith": [
-          3.7,
+          3.6,
           100,
           0,
           null
         ],
         "Trinisphere": [
-          3.5,
+          2.7,
           39,
           0,
           null
@@ -2470,20 +2784,20 @@
           null
         ],
         "Ugin, Eye of the Storms": [
-          3.5,
-          97,
+          3.3,
+          98,
           0,
           null
         ],
         "Ancient Tomb": [
-          3.9,
-          47,
+          3.8,
+          48,
           0,
           null
         ],
         "Petrified Hamlet": [
-          3.9,
-          74,
+          3.7,
+          85,
           0,
           null
         ],
@@ -2494,13 +2808,13 @@
           null
         ],
         "Urza's Mine": [
-          3.2,
+          3.1,
           100,
           0,
           null
         ],
         "Urza's Power Plant": [
-          3.2,
+          3.1,
           100,
           0,
           null
@@ -2515,43 +2829,43 @@
           0,
           null,
           1,
-          34
+          40
         ],
         "Tormod's Crypt": [
           0,
           null,
           1,
-          92
+          98
         ],
         "Disruptor Flute": [
           0,
           null,
-          1.4,
-          58
+          1.2,
+          65
         ],
         "Liquimetal Coating": [
           0,
           null,
           1,
-          42
+          47
         ],
         "Dismember": [
           0,
           null,
           1.9,
-          63
+          77
         ],
         "Ensnaring Bridge": [
           0,
           null,
           1,
-          95
+          97
         ],
         "Invasion Submersible": [
           0,
           null,
           1,
-          42
+          50
         ],
         "Mycosynth Lattice": [
           0,
@@ -2559,40 +2873,34 @@
           1,
           100
         ],
-        "Cityscape Leveler": [
-          0,
-          null,
-          1,
-          37
-        ],
         "Extinguisher Battleship": [
           0,
           null,
           1,
-          82
+          69
         ],
         "Summon: Bahamut": [
           0,
           null,
-          2.4,
-          63
+          2.3,
+          55
         ]
       }
     },
     {
       "nombre": "The EPIC Storm",
       "colores": "UBRG",
-      "meta": 1.9,
+      "meta": 2.0,
       "cartas": {
         "Hexing Squelcher": [
-          3.9,
-          93,
+          3.8,
+          94,
           0,
           null
         ],
         "Runehorn Hellkite": [
           1,
-          98,
+          94,
           0,
           null
         ],
@@ -2627,10 +2935,10 @@
           100
         ],
         "Echo of Eons": [
-          3,
+          3.1,
           100,
           1,
-          98
+          91
         ],
         "Dark Ritual": [
           4,
@@ -2639,10 +2947,10 @@
           null
         ],
         "Veil of Summer": [
-          2.2,
-          100,
+          2.1,
+          99,
           1.9,
-          65
+          64
         ],
         "Chrome Mox": [
           4,
@@ -2669,8 +2977,14 @@
           null
         ],
         "Giant's Boulder": [
-          3.8,
-          93,
+          3.5,
+          94,
+          0,
+          null
+        ],
+        "Pyrite Spellbomb": [
+          1,
+          36,
           0,
           null
         ],
@@ -2688,25 +3002,25 @@
         ],
         "Bloodstained Mire": [
           1.2,
-          100,
+          93,
           0,
           null
         ],
         "Raucous Theater": [
           1,
-          93,
+          99,
           0,
           null
         ],
         "Scalding Tarn": [
-          1.1,
-          98,
+          1.3,
+          96,
           0,
           null
         ],
         "Taiga": [
           1,
-          100,
+          99,
           0,
           null
         ],
@@ -2718,13 +3032,13 @@
         ],
         "Urza's Saga": [
           4,
-          93,
+          94,
           0,
           null
         ],
         "Verdant Catacombs": [
-          1.9,
-          100,
+          1.8,
+          94,
           0,
           null
         ],
@@ -2732,12 +3046,12 @@
           0,
           null,
           2,
-          100
+          99
         ],
         "Boomerang Basics": [
           0,
           null,
-          4,
+          3.9,
           100
         ],
         "Haywire Mite": [
@@ -2762,382 +3076,14 @@
           0,
           null,
           1,
-          100
-        ]
-      }
-    },
-    {
-      "nombre": "Rakdos Reanimator",
-      "colores": "UBR",
-      "meta": 1.9,
-      "cartas": {
-        "Atraxa, Grand Unifier": [
-          3.8,
-          100,
-          0,
-          null
-        ],
-        "Raph & Mikey, Troublemakers": [
-          1.1,
-          100,
-          0,
-          null
-        ],
-        "Archon of Cruelty": [
-          2.7,
-          100,
-          0,
-          null
-        ],
-        "Griselbrand": [
-          3.8,
-          100,
-          0,
-          null
-        ],
-        "Cabal Therapy": [
-          1.8,
-          87,
-          0,
-          null
-        ],
-        "Faithless Looting": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Reanimate": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Thoughtseize": [
-          4,
-          92,
-          0,
-          null
-        ],
-        "Collective Brutality": [
-          2.3,
-          50,
-          1.7,
-          76
-        ],
-        "Unmask": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Dark Ritual": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Shallow Grave": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Lotus Petal": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Animate Dead": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Badlands": [
-          1.9,
-          100,
-          0,
-          null
-        ],
-        "Bloodstained Mire": [
-          2.1,
-          100,
-          0,
-          null
-        ],
-        "Marsh Flats": [
-          1.9,
-          53,
-          0,
-          null
-        ],
-        "Polluted Delta": [
-          2.4,
-          97,
-          0,
-          null
-        ],
-        "Raucous Theater": [
-          1.1,
-          100,
-          0,
-          null
-        ],
-        "Undercity Sewers": [
-          1.1,
-          97,
-          0,
-          null
-        ],
-        "Underground Sea": [
-          1,
-          97,
-          0,
-          null
-        ],
-        "Verdant Catacombs": [
-          1.9,
-          74,
-          0,
-          null
-        ],
-        "Abrade": [
-          0,
-          null,
-          1.9,
-          53
-        ],
-        "Bitter Triumph": [
-          0,
-          null,
-          1.9,
-          34
-        ],
-        "Hexing Squelcher": [
-          0,
-          null,
-          2.8,
-          42
-        ],
-        "Stronghold Gambit": [
-          0,
-          null,
-          3.1,
-          92
-        ],
-        "Magus of the Moon": [
-          0,
-          null,
-          1.3,
-          55
-        ],
-        "Show and Tell": [
-          0,
-          null,
-          3.9,
-          97
-        ],
-        "Massacre": [
-          0,
-          null,
-          1.6,
-          42
-        ]
-      }
-    },
-    {
-      "nombre": "Azorius Tempo",
-      "colores": "WU",
-      "meta": 1.6,
-      "cartas": {
-        "Tamiyo, Inquisitive Student": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Phelia, Exuberant Shepherd": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Quantum Riddler": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Murktide Regent": [
-          1.9,
-          86,
-          0,
-          null
-        ],
-        "Ponder": [
-          3.9,
-          100,
-          0,
-          null
-        ],
-        "Prismatic Ending": [
-          1.5,
-          61,
-          1.5,
-          46
-        ],
-        "Wrath of the Skies": [
-          1.3,
-          39,
-          2,
-          93
-        ],
-        "Brainstorm": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Consign to Memory": [
-          1.3,
-          57,
-          2,
-          93
-        ],
-        "Stifle": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Swords to Plowshares": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Daze": [
-          3,
-          68,
-          0,
-          null
-        ],
-        "Force of Negation": [
-          1.6,
-          57,
-          1.7,
-          64
-        ],
-        "Force of Will": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Flooded Strand": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Karakas": [
-          1,
-          86,
-          0,
-          null
-        ],
-        "Marsh Flats": [
-          1,
-          46,
-          0,
-          null
-        ],
-        "Meticulous Archive": [
-          1,
-          100,
-          0,
-          null
-        ],
-        "Misty Rainforest": [
-          1.6,
-          64,
-          0,
-          null
-        ],
-        "Polluted Delta": [
-          1.7,
-          89,
-          0,
-          null
-        ],
-        "Scalding Tarn": [
-          1,
-          46,
-          0,
-          null
-        ],
-        "Tundra": [
-          2.8,
-          100,
-          0,
-          null
-        ],
-        "Wasteland": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Erode": [
-          0,
-          null,
-          1.5,
-          54
-        ],
-        "Hydroblast": [
-          0,
-          null,
-          1.5,
-          61
-        ],
-        "Surgical Extraction": [
-          0,
-          null,
-          1.1,
-          57
-        ],
-        "Containment Priest": [
-          0,
-          null,
-          1.8,
-          93
-        ],
-        "Lavinia, Azorius Renegade": [
-          0,
-          null,
-          1.5,
-          86
-        ],
-        "Rest in Peace": [
-          0,
-          null,
-          1.7,
-          36
-        ],
-        "Triumph of Saint Katherine": [
-          0,
-          null,
-          1.6,
-          71
+          99
         ]
       }
     },
     {
       "nombre": "Elves",
       "colores": "BG",
-      "meta": 1.4,
+      "meta": 1.9,
       "cartas": {
         "Dryad Arbor": [
           2,
@@ -3146,92 +3092,92 @@
           null
         ],
         "Allosaurus Shepherd": [
-          3.2,
+          3.3,
           100,
           0,
           null
         ],
         "Elvish Mystic": [
-          1.7,
-          65,
+          1.8,
+          72,
           0,
           null
         ],
         "Fyndhorn Elves": [
-          2.2,
-          96,
+          2.1,
+          92,
           0,
           null
         ],
         "Llanowar Elves": [
-          2.4,
-          98,
+          2.5,
+          96,
           0,
           null
         ],
         "Quirion Ranger": [
-          3.5,
-          100,
+          3.6,
+          97,
           0,
           null
         ],
         "Wirewood Symbiote": [
-          4,
+          3.9,
           100,
           0,
           null
         ],
         "Badgermole Cub": [
           4,
-          98,
+          96,
           0,
           null
         ],
         "Collector Ouphe": [
           1,
-          59,
+          57,
           1,
           43
         ],
         "Elvish Visionary": [
           1.1,
-          83,
+          75,
           0,
           null
         ],
         "Eladamri, Korvecdal": [
           1,
-          65,
+          64,
           0,
           null
         ],
         "Endurance": [
           1,
-          39,
-          2.7,
-          35
+          42,
+          0,
+          null
         ],
         "Formidable Speaker": [
           3.1,
-          98,
+          96,
           0,
           null
         ],
         "Temur Sabertooth": [
           1,
-          91,
+          92,
           0,
           null
         ],
         "Vibrance": [
           1,
-          76,
+          74,
           0,
           null
         ],
         "Atraxa, Grand Unifier": [
           1,
-          96,
+          93,
           0,
           null
         ],
@@ -3255,19 +3201,19 @@
         ],
         "Once Upon a Time": [
           3,
-          100,
+          97,
           0,
           null
         ],
         "Bayou": [
           2,
-          89,
+          95,
           0,
           null
         ],
         "Boseiju, Who Endures": [
-          1.7,
-          100,
+          1.5,
+          96,
           0,
           null
         ],
@@ -3279,70 +3225,1548 @@
         ],
         "Misty Rainforest": [
           1.9,
-          89,
+          92,
           0,
           null
         ],
         "Verdant Catacombs": [
           2,
-          83,
+          89,
           0,
           null
         ],
         "Windswept Heath": [
           2,
-          100,
+          99,
           0,
           null
         ],
         "Wooded Foothills": [
           1.8,
-          100,
+          96,
           0,
           null
         ],
         "Thoughtseize": [
           0,
           null,
-          3.2,
-          83
+          3.3,
+          78
+        ],
+        "Assassin's Trophy": [
+          0,
+          null,
+          1.4,
+          36
         ],
         "Choke": [
           0,
           null,
           1.9,
-          76
+          80
+        ],
+        "Grist, the Hunger Tide": [
+          0,
+          null,
+          1,
+          41
         ],
         "Force of Vigor": [
           0,
           null,
-          2.4,
-          91
+          2.3,
+          92
         ],
         "Leyline of the Void": [
           0,
           null,
-          3.6,
-          70
+          3.5,
+          83
         ],
         "Snuff Out": [
           0,
           null,
           2.4,
-          76
+          79
+        ]
+      }
+    },
+    {
+      "nombre": "Jeskai Control",
+      "colores": "WUR",
+      "meta": 1.6,
+      "cartas": {
+        "Tamiyo, Inquisitive Student": [
+          3.7,
+          78,
+          0,
+          null
         ],
-        "Hogaak, Arisen Necropolis": [
+        "Ponder": [
+          3.8,
+          100,
+          0,
+          null
+        ],
+        "Prismatic Ending": [
+          1.9,
+          98,
+          0,
+          null
+        ],
+        "Flow State": [
+          3.7,
+          92,
+          0,
+          null
+        ],
+        "Forth Eorlingas!": [
+          1.4,
+          97,
+          0,
+          null
+        ],
+        "Wrath of the Skies": [
+          1.2,
+          82,
+          1.5,
+          80
+        ],
+        "Supreme Verdict": [
+          1.1,
+          57,
+          0,
+          null
+        ],
+        "Lorien Revealed": [
+          1.9,
+          35,
+          0,
+          null
+        ],
+        "Brainstorm": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Erode": [
+          1.3,
+          47,
+          0,
+          null
+        ],
+        "Swords to Plowshares": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Force of Negation": [
+          1.9,
+          95,
+          0,
+          null
+        ],
+        "Force of Will": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Back to Basics": [
+          1.4,
+          70,
+          0,
+          null
+        ],
+        "Chandra, Chill of Compliance": [
+          2.3,
+          52,
+          0,
+          null
+        ],
+        "Narset, Parter of Veils": [
+          2,
+          52,
+          0,
+          null
+        ],
+        "Teferi, Time Raveler": [
+          1.9,
+          78,
+          0,
+          null
+        ],
+        "Flooded Strand": [
+          3.8,
+          100,
+          0,
+          null
+        ],
+        "Mystic Sanctuary": [
+          1.1,
+          38,
+          0,
+          null
+        ],
+        "Prismatic Vista": [
+          3.4,
+          92,
+          0,
+          null
+        ],
+        "Scalding Tarn": [
+          2.1,
+          97,
+          0,
+          null
+        ],
+        "Tundra": [
+          1.3,
+          100,
+          0,
+          null
+        ],
+        "Volcanic Island": [
+          1.1,
+          100,
+          0,
+          null
+        ],
+        "Consign to Memory": [
+          0,
+          null,
+          2.5,
+          98
+        ],
+        "Hydroblast": [
+          0,
+          null,
+          1.4,
+          73
+        ],
+        "Pyroblast": [
+          0,
+          null,
+          2.1,
+          93
+        ],
+        "Red Elemental Blast": [
+          0,
+          null,
+          1.1,
+          38
+        ],
+        "Surgical Extraction": [
+          0,
+          null,
+          1.4,
+          53
+        ],
+        "Containment Priest": [
+          0,
+          null,
+          1.8,
+          57
+        ],
+        "Lavinia, Azorius Renegade": [
+          0,
+          null,
+          1.7,
+          52
+        ],
+        "Null Rod": [
+          0,
+          null,
+          1.1,
+          33
+        ],
+        "Ruination": [
+          0,
+          null,
+          1,
+          33
+        ]
+      }
+    },
+    {
+      "nombre": "Mardu Energy",
+      "colores": "WBR",
+      "meta": 1.6,
+      "cartas": {
+        "Guide of Souls": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Ocelot Pride": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Ajani, Nacatl Pariah": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Amped Raptor": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Hexing Squelcher": [
+          2.4,
+          33,
+          0,
+          null
+        ],
+        "Orcish Bowmasters": [
+          3.6,
+          100,
+          0,
+          null
+        ],
+        "Voice of Victory": [
+          3.6,
+          100,
+          0,
+          null
+        ],
+        "Cabal Therapy": [
+          2.8,
+          98,
+          0,
+          null
+        ],
+        "Thoughtseize": [
+          3.7,
+          98,
+          0,
+          null
+        ],
+        "Swords to Plowshares": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Goblin Bombardment": [
+          2.1,
+          100,
+          0,
+          null
+        ],
+        "Arid Mesa": [
+          3.8,
+          100,
+          0,
+          null
+        ],
+        "Badlands": [
+          1.1,
+          100,
+          0,
+          null
+        ],
+        "Elegant Parlor": [
+          1,
+          98,
+          0,
+          null
+        ],
+        "Karakas": [
+          1.8,
+          100,
+          0,
+          null
+        ],
+        "Marsh Flats": [
+          3.9,
+          100,
+          0,
+          null
+        ],
+        "Plateau": [
+          2,
+          98,
+          0,
+          null
+        ],
+        "Scrubland": [
+          1.9,
+          98,
+          0,
+          null
+        ],
+        "Shadowy Backstreet": [
+          1,
+          82,
+          0,
+          null
+        ],
+        "Silent Clearing": [
+          1,
+          76,
+          0,
+          null
+        ],
+        "Wasteland": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Deafening Silence": [
+          0,
+          null,
+          2.2,
+          87
+        ],
+        "Prismatic Ending": [
+          0,
+          null,
+          1.5,
+          49
+        ],
+        "Pyroblast": [
+          0,
+          null,
+          1.4,
+          67
+        ],
+        "Red Elemental Blast": [
+          0,
+          null,
+          1.3,
+          73
+        ],
+        "Containment Priest": [
+          0,
+          null,
+          2.1,
+          84
+        ],
+        "Stony Silence": [
+          0,
+          null,
+          1.9,
+          62
+        ],
+        "Clarion Conqueror": [
+          0,
+          null,
+          1.2,
+          53
+        ],
+        "Leyline of the Void": [
+          0,
+          null,
+          4,
+          89
+        ],
+        "Mindbreak Trap": [
+          0,
+          null,
+          1.7,
+          44
+        ]
+      }
+    },
+    {
+      "nombre": "Azorius Tempo",
+      "colores": "WU",
+      "meta": 1.4,
+      "cartas": {
+        "Tamiyo, Inquisitive Student": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Phelia, Exuberant Shepherd": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Quantum Riddler": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Murktide Regent": [
+          1.9,
+          80,
+          0,
+          null
+        ],
+        "Ponder": [
+          3.9,
+          100,
+          0,
+          null
+        ],
+        "Prismatic Ending": [
+          1.6,
+          65,
+          1.6,
+          45
+        ],
+        "Wrath of the Skies": [
+          1.3,
+          38,
+          2,
+          95
+        ],
+        "Brainstorm": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Consign to Memory": [
+          1.2,
+          55,
+          2,
+          92
+        ],
+        "Stifle": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Swords to Plowshares": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Daze": [
+          3.2,
+          62,
+          0,
+          null
+        ],
+        "Force of Negation": [
+          1.5,
+          52,
+          1.6,
+          72
+        ],
+        "Force of Will": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Flooded Strand": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Karakas": [
+          1,
+          90,
+          0,
+          null
+        ],
+        "Marsh Flats": [
+          1,
+          35,
+          0,
+          null
+        ],
+        "Meticulous Archive": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Misty Rainforest": [
+          1.2,
+          65,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          1.6,
+          85,
+          0,
+          null
+        ],
+        "Scalding Tarn": [
+          1.1,
+          65,
+          0,
+          null
+        ],
+        "Tundra": [
+          2.8,
+          100,
+          0,
+          null
+        ],
+        "Wasteland": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Erode": [
+          0,
+          null,
+          1.4,
+          50
+        ],
+        "Hydroblast": [
+          0,
+          null,
+          1.6,
+          58
+        ],
+        "Surgical Extraction": [
+          0,
+          null,
+          1.1,
+          38
+        ],
+        "Containment Priest": [
+          0,
+          null,
+          1.8,
+          95
+        ],
+        "Lavinia, Azorius Renegade": [
+          0,
+          null,
+          1.5,
+          92
+        ],
+        "Rest in Peace": [
+          0,
+          null,
+          1.7,
+          55
+        ],
+        "Triumph of Saint Katherine": [
+          0,
+          null,
+          1.6,
+          80
+        ]
+      }
+    },
+    {
+      "nombre": "Jeskai Tempo",
+      "colores": "WUR",
+      "meta": 1.2,
+      "cartas": {
+        "Tamiyo, Inquisitive Student": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Phelia, Exuberant Shepherd": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Quantum Riddler": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Murktide Regent": [
+          2.6,
+          100,
+          0,
+          null
+        ],
+        "Ponder": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Prismatic Ending": [
+          2,
+          70,
+          0,
+          null
+        ],
+        "Brainstorm": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Consign to Memory": [
+          1.4,
+          88,
+          1.8,
+          94
+        ],
+        "Stifle": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Swords to Plowshares": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Daze": [
+          3,
+          36,
+          0,
+          null
+        ],
+        "Force of Negation": [
+          1.6,
+          91,
+          1.2,
+          39
+        ],
+        "Force of Will": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Arid Mesa": [
+          1.4,
+          67,
+          0,
+          null
+        ],
+        "Flooded Strand": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Karakas": [
+          1,
+          58,
+          0,
+          null
+        ],
+        "Meticulous Archive": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Misty Rainforest": [
+          3,
+          39,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          2.5,
+          55,
+          0,
+          null
+        ],
+        "Tundra": [
+          2.8,
+          100,
+          0,
+          null
+        ],
+        "Volcanic Island": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Wasteland": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Erode": [
+          0,
+          null,
+          1.9,
+          64
+        ],
+        "Hydroblast": [
+          0,
+          null,
+          1.4,
+          97
+        ],
+        "Pyroblast": [
+          0,
+          null,
+          2,
+          94
+        ],
+        "Containment Priest": [
+          0,
+          null,
+          1.7,
+          88
+        ],
+        "Lavinia, Azorius Renegade": [
+          0,
+          null,
+          1.7,
+          94
+        ],
+        "Rest in Peace": [
+          0,
+          null,
+          1.9,
+          39
+        ],
+        "Wrath of the Skies": [
+          0,
+          null,
+          2,
+          100
+        ],
+        "Triumph of Saint Katherine": [
+          0,
+          null,
+          1.7,
+          91
+        ]
+      }
+    },
+    {
+      "nombre": "Omni-Tell",
+      "colores": "UG",
+      "meta": 1.2,
+      "cartas": {
+        "Atraxa, Grand Unifier": [
+          2.4,
+          94,
+          0,
+          null
+        ],
+        "Emrakul, the Aeons Torn": [
+          1.7,
+          97,
+          0,
+          null
+        ],
+        "Ponder": [
+          3.9,
+          100,
+          0,
+          null
+        ],
+        "Show and Tell": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Stock Up": [
+          4,
+          91,
+          0,
+          null
+        ],
+        "Lorien Revealed": [
+          1.7,
+          58,
+          0,
+          null
+        ],
+        "Brainstorm": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Veil of Summer": [
+          3,
+          70,
+          0,
+          null
+        ],
+        "Cunning Wish": [
+          3.1,
+          52,
+          0,
+          null
+        ],
+        "Intuition": [
+          1.4,
+          39,
+          0,
+          null
+        ],
+        "Sink into Stupor": [
+          1.1,
+          67,
+          0,
+          null
+        ],
+        "Force of Will": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Lotus Petal": [
+          3,
+          67,
+          0,
+          null
+        ],
+        "The One Ring": [
+          3.1,
+          64,
+          0,
+          null
+        ],
+        "Omniscience": [
+          3.7,
+          100,
+          0,
+          null
+        ],
+        "Ancient Tomb": [
+          3.4,
+          100,
+          0,
+          null
+        ],
+        "City of Traitors": [
+          1.5,
+          61,
+          0,
+          null
+        ],
+        "Flooded Strand": [
+          1.4,
+          61,
+          0,
+          null
+        ],
+        "Hedge Maze": [
+          1.1,
+          61,
+          0,
+          null
+        ],
+        "Misty Rainforest": [
+          2.9,
+          88,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          2.1,
+          85,
+          0,
+          null
+        ],
+        "Scalding Tarn": [
+          1.9,
+          42,
+          0,
+          null
+        ],
+        "Tropical Island": [
+          2,
+          73,
+          0,
+          null
+        ],
+        "Carpet of Flowers": [
+          0,
+          null,
+          2.9,
+          67
+        ],
+        "Consign to Memory": [
+          0,
+          null,
+          2.7,
+          97
+        ],
+        "Grafdigger's Cage": [
+          0,
+          null,
+          1.2,
+          36
+        ],
+        "Surgical Extraction": [
+          0,
+          null,
+          1.4,
+          73
+        ],
+        "Disruptor Flute": [
+          0,
+          null,
+          2.3,
+          36
+        ],
+        "Echoing Truth": [
+          0,
+          null,
+          1.1,
+          45
+        ],
+        "Shared Summons": [
+          0,
+          null,
+          1,
+          48
+        ],
+        "Sublime Epiphany": [
           0,
           null,
           1,
           39
+        ],
+        "Firemind's Foresight": [
+          0,
+          null,
+          1,
+          33
+        ]
+      }
+    },
+    {
+      "nombre": "Red Stompy",
+      "colores": "R",
+      "meta": 1.2,
+      "cartas": {
+        "Hexing Squelcher": [
+          2.1,
+          38,
+          2,
+          38
+        ],
+        "Broadside Bombardiers": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Magus of the Moon": [
+          3.1,
+          92,
+          0,
+          null
+        ],
+        "Simian Spirit Guide": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Pyrogoyf": [
+          3.7,
+          84,
+          0,
+          null
+        ],
+        "Fury": [
+          3.9,
+          97,
+          0,
+          null
+        ],
+        "Shatterskull Smashing": [
+          3.1,
+          100,
+          0,
+          null
+        ],
+        "Sundering Eruption": [
+          3.9,
+          100,
+          0,
+          null
+        ],
+        "Chalice of the Void": [
+          3.9,
+          100,
+          0,
+          null
+        ],
+        "Chrome Mox": [
+          3.9,
+          100,
+          0,
+          null
+        ],
+        "The One Ring": [
+          3.8,
+          92,
+          0,
+          null
+        ],
+        "Blood Moon": [
+          3.1,
+          100,
+          0,
+          null
+        ],
+        "Fable of the Mirror-Breaker": [
+          4,
+          97,
+          0,
+          null
+        ],
+        "Ancient Tomb": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "City of Traitors": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Disruptor Flute": [
+          0,
+          null,
+          3,
+          86
+        ],
+        "Null Rod": [
+          0,
+          null,
+          1.6,
+          51
+        ],
+        "Dead // Gone": [
+          0,
+          null,
+          2,
+          46
+        ],
+        "Fiery Confluence": [
+          0,
+          null,
+          2.3,
+          78
+        ],
+        "Leyline of the Void": [
+          0,
+          null,
+          3.9,
+          89
+        ]
+      }
+    },
+    {
+      "nombre": "LED Dredge",
+      "colores": "UBRG",
+      "meta": 1.0,
+      "cartas": {
+        "Golgari Thug": [
+          3.1,
+          100,
+          0,
+          null
+        ],
+        "Narcomoeba": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Poxwalkers": [
+          2.9,
+          100,
+          0,
+          null
+        ],
+        "Stinkweed Imp": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Anger": [
+          1,
+          84,
+          0,
+          null
+        ],
+        "Golgari Grave-Troll": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Ox of Agonas": [
+          1.8,
+          100,
+          0,
+          null
+        ],
+        "Ashen Rider": [
+          1,
+          84,
+          0,
+          null
+        ],
+        "Breakthrough": [
+          2.9,
+          100,
+          0,
+          null
+        ],
+        "Cabal Therapy": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Faithless Looting": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Dread Return": [
+          1.9,
+          100,
+          0,
+          null
+        ],
+        "Otherworldly Gaze": [
+          3.6,
+          100,
+          0,
+          null
+        ],
+        "Lion's Eye Diamond": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Bridge from Below": [
+          3.1,
+          100,
+          0,
+          null
+        ],
+        "Cephalid Coliseum": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Flooded Strand": [
+          1,
+          75,
+          0,
+          null
+        ],
+        "Scalding Tarn": [
+          3.9,
+          88,
+          0,
+          null
+        ],
+        "Underground Sea": [
+          1,
+          84,
+          0,
+          null
+        ],
+        "Volcanic Island": [
+          2,
+          84,
+          0,
+          null
+        ],
+        "Chain of Vapor": [
+          0,
+          null,
+          1.9,
+          69
+        ],
+        "Into the Flood Maw": [
+          0,
+          null,
+          2.1,
+          38
+        ],
+        "Kiora's Dismissal": [
+          0,
+          null,
+          1.1,
+          78
+        ],
+        "Stern Dismissal": [
+          0,
+          null,
+          2,
+          75
+        ],
+        "Shenanigans": [
+          0,
+          null,
+          2,
+          84
+        ],
+        "Leyline of Sanctity": [
+          0,
+          null,
+          4,
+          84
+        ],
+        "Unmask": [
+          0,
+          null,
+          4,
+          97
+        ]
+      }
+    },
+    {
+      "nombre": "Cephalid Breakfast",
+      "colores": "WUB",
+      "meta": 0.9,
+      "cartas": {
+        "Nomads en-Kor": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Tamiyo, Inquisitive Student": [
+          3.9,
+          100,
+          0,
+          null
+        ],
+        "Cephalid Illusionist": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Loki, God of Mischief": [
+          3.8,
+          95,
+          0,
+          null
+        ],
+        "Narcomoeba": [
+          2.9,
+          100,
+          0,
+          null
+        ],
+        "Thassa's Oracle": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Cabal Therapy": [
+          1,
+          95,
+          0,
+          null
+        ],
+        "Ponder": [
+          3.8,
+          86,
+          0,
+          null
+        ],
+        "Dread Return": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Brainstorm": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Orim's Chant": [
+          1,
+          36,
+          0,
+          null
+        ],
+        "Swords to Plowshares": [
+          2.5,
+          95,
+          1.9,
+          82
+        ],
+        "Daze": [
+          1.4,
+          50,
+          0,
+          null
+        ],
+        "Force of Will": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Relic of Progenitus": [
+          1.1,
+          50,
+          0,
+          null
+        ],
+        "Shuko": [
+          2.2,
+          95,
+          0,
+          null
+        ],
+        "Flooded Strand": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Karakas": [
+          1.3,
+          86,
+          0,
+          null
+        ],
+        "Marsh Flats": [
+          1.3,
+          91,
+          0,
+          null
+        ],
+        "Meticulous Archive": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          3.3,
+          86,
+          0,
+          null
+        ],
+        "Tundra": [
+          2.1,
+          100,
+          0,
+          null
+        ],
+        "Undercity Sewers": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Underground Sea": [
+          1.1,
+          100,
+          0,
+          null
+        ],
+        "Urza's Saga": [
+          3.2,
+          95,
+          0,
+          null
+        ],
+        "Consign to Memory": [
+          0,
+          null,
+          2.3,
+          100
+        ],
+        "Flusterstorm": [
+          0,
+          null,
+          1,
+          50
+        ],
+        "Fragmentize": [
+          0,
+          null,
+          1.2,
+          45
+        ],
+        "Hydroblast": [
+          0,
+          null,
+          1.1,
+          59
+        ],
+        "Pithing Needle": [
+          0,
+          null,
+          1.3,
+          82
+        ],
+        "Prismatic Ending": [
+          0,
+          null,
+          1.7,
+          82
+        ],
+        "Surgical Extraction": [
+          0,
+          null,
+          1.1,
+          41
+        ],
+        "Lavinia, Azorius Renegade": [
+          0,
+          null,
+          2,
+          45
+        ],
+        "Serenity": [
+          0,
+          null,
+          1.3,
+          45
+        ],
+        "Force of Negation": [
+          0,
+          null,
+          2.9,
+          100
         ]
       }
     },
     {
       "nombre": "Selesnya Depths",
       "colores": "WG",
-      "meta": 1.3,
+      "meta": 0.9,
       "cartas": {
         "Dryad Arbor": [
           1,
@@ -3364,31 +4788,31 @@
         ],
         "Avatar of Burgeoning Echoes": [
           1.1,
-          70,
+          68,
           0,
           null
         ],
         "Carnivorous Cultivator": [
           3.6,
-          93,
+          87,
           0,
           null
         ],
         "Endurance": [
           1,
-          57,
-          1.4,
-          63
+          55,
+          1.5,
+          65
         ],
         "Knight of the Reliquary": [
-          3,
+          3.1,
           100,
           0,
           null
         ],
         "Icetill Explorer": [
           1,
-          97,
+          90,
           0,
           null
         ],
@@ -3406,9 +4830,9 @@
         ],
         "Legolas's Quick Reflexes": [
           1.2,
-          63,
+          61,
           1.1,
-          63
+          61
         ],
         "Swords to Plowshares": [
           4,
@@ -3418,7 +4842,7 @@
         ],
         "Once Upon a Time": [
           2.9,
-          37,
+          39,
           0,
           null
         ],
@@ -3460,7 +4884,7 @@
         ],
         "Ghost Quarter": [
           1,
-          47,
+          42,
           0,
           null
         ],
@@ -3472,18 +4896,18 @@
         ],
         "Lush Portico": [
           1,
-          80,
+          74,
           0,
           null
         ],
         "Misty Rainforest": [
           1.4,
-          53,
+          52,
           0,
           null
         ],
         "Savannah": [
-          2.3,
+          2.4,
           100,
           0,
           null
@@ -3508,19 +4932,19 @@
         ],
         "Tropical Island": [
           1,
-          73,
+          71,
           0,
           null
         ],
         "Wasteland": [
-          3.3,
+          3.4,
           100,
           0,
           null
         ],
         "Windswept Heath": [
           4,
-          93,
+          94,
           0,
           null
         ],
@@ -3534,7 +4958,7 @@
           0,
           null,
           1,
-          40
+          35
         ],
         "The Tabernacle at Pendrell Vale": [
           0,
@@ -3546,13 +4970,13 @@
           0,
           null,
           2.3,
-          63
+          58
         ],
         "Prismatic Ending": [
           0,
           null,
           1.6,
-          70
+          68
         ],
         "Collector Ouphe": [
           0,
@@ -3564,1847 +4988,31 @@
           0,
           null,
           2.1,
-          53
+          58
         ],
         "Gaddock Teeg": [
           0,
           null,
           1,
-          93
+          90
         ],
         "Keen-Eyed Curator": [
           0,
           null,
           1,
-          67
-        ],
-        "Lavinia, Azorius Renegade": [
-          0,
-          null,
-          2,
-          73
-        ],
-        "Force of Vigor": [
-          0,
-          null,
-          1.6,
-          90
-        ]
-      }
-    },
-    {
-      "nombre": "Hogaak Moonshadow",
-      "colores": "BG",
-      "meta": 1.3,
-      "cartas": {
-        "Dryad Arbor": [
-          1,
-          100,
-          0,
-          null
-        ],
-        "Dark Matter Manipulator": [
-          3.8,
-          88,
-          0,
-          null
-        ],
-        "Elvish Reclaimer": [
-          2.9,
-          83,
-          0,
-          null
-        ],
-        "Moonshadow": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Stitcher's Supplier": [
-          3.3,
-          96,
-          0,
-          null
-        ],
-        "Sylvan Safekeeper": [
-          1.7,
-          100,
-          0,
-          null
-        ],
-        "Orcish Bowmasters": [
-          3.9,
-          83,
-          0,
-          null
-        ],
-        "Scythecat Cub": [
-          2,
-          58,
-          0,
-          null
-        ],
-        "Wight of the Reliquary": [
-          3.9,
-          100,
-          0,
-          null
-        ],
-        "Hogaak, Arisen Necropolis": [
-          3.3,
-          100,
-          0,
-          null
-        ],
-        "Cabal Therapy": [
-          3,
-          71,
-          0,
-          null
-        ],
-        "Thoughtseize": [
-          4,
-          96,
-          0,
-          null
-        ],
-        "Once Upon a Time": [
-          3.2,
-          96,
-          0,
-          null
-        ],
-        "Bayou": [
-          2.8,
-          100,
-          0,
-          null
-        ],
-        "Bojuka Bog": [
-          1,
-          96,
-          0,
-          null
-        ],
-        "Boseiju, Who Endures": [
-          2,
-          96,
-          0,
-          null
-        ],
-        "Eumidian Hatchery": [
-          1,
-          88,
-          0,
-          null
-        ],
-        "Misty Rainforest": [
-          1.2,
-          83,
-          0,
-          null
-        ],
-        "Polluted Delta": [
-          1.1,
-          83,
-          0,
-          null
-        ],
-        "Talon Gates of Madara": [
-          1.2,
-          100,
-          0,
-          null
-        ],
-        "Underground Mortuary": [
-          1,
-          100,
-          0,
-          null
-        ],
-        "Verdant Catacombs": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Wasteland": [
-          3.9,
-          100,
-          0,
-          null
-        ],
-        "Duress": [
-          0,
-          null,
-          2,
-          58
-        ],
-        "Abrupt Decay": [
-          0,
-          null,
-          2.5,
-          75
-        ],
-        "Collector Ouphe": [
-          0,
-          null,
-          2.5,
-          96
-        ],
-        "Disruptor Flute": [
-          0,
-          null,
-          2.1,
-          46
-        ],
-        "Endurance": [
-          0,
-          null,
-          3.8,
-          62
-        ],
-        "Force of Vigor": [
-          0,
-          null,
-          2.6,
-          46
-        ],
-        "Leyline of the Void": [
-          0,
-          null,
-          3.6,
-          33
-        ],
-        "Snuff Out": [
-          0,
-          null,
-          2.6,
-          88
-        ]
-      }
-    },
-    {
-      "nombre": "Jeskai Tempo",
-      "colores": "WUR",
-      "meta": 1.3,
-      "cartas": {
-        "Tamiyo, Inquisitive Student": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Phelia, Exuberant Shepherd": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Quantum Riddler": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Murktide Regent": [
-          2.8,
-          100,
-          0,
-          null
-        ],
-        "Ponder": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Prismatic Ending": [
-          2,
-          100,
-          0,
-          null
-        ],
-        "Brainstorm": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Consign to Memory": [
-          1,
-          92,
-          2.1,
-          100
-        ],
-        "Stifle": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Swords to Plowshares": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Force of Negation": [
-          2,
-          84,
-          0,
-          null
-        ],
-        "Force of Will": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Arid Mesa": [
-          1.6,
-          100,
-          0,
-          null
-        ],
-        "Flooded Strand": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Karakas": [
-          1,
-          36,
-          0,
-          null
-        ],
-        "Meticulous Archive": [
-          1,
-          100,
-          0,
-          null
-        ],
-        "Polluted Delta": [
-          2.4,
-          76,
-          0,
-          null
-        ],
-        "Tundra": [
-          2.9,
-          100,
-          0,
-          null
-        ],
-        "Volcanic Island": [
-          1,
-          100,
-          0,
-          null
-        ],
-        "Wasteland": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Erode": [
-          0,
-          null,
-          1.8,
-          92
-        ],
-        "Hydroblast": [
-          0,
-          null,
-          1.3,
-          96
-        ],
-        "Pyroblast": [
-          0,
-          null,
-          2,
-          96
-        ],
-        "Containment Priest": [
-          0,
-          null,
-          2,
-          80
-        ],
-        "Lavinia, Azorius Renegade": [
-          0,
-          null,
-          2,
-          96
-        ],
-        "Wrath of the Skies": [
-          0,
-          null,
-          2,
-          100
-        ],
-        "Triumph of Saint Katherine": [
-          0,
-          null,
-          1.8,
-          96
-        ]
-      }
-    },
-    {
-      "nombre": "LED Dredge",
-      "colores": "WUBRG",
-      "meta": 1.1,
-      "cartas": {
-        "Golgari Thug": [
-          3.1,
-          100,
-          0,
-          null
-        ],
-        "Narcomoeba": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Poxwalkers": [
-          2.9,
-          100,
-          0,
-          null
-        ],
-        "Stinkweed Imp": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Anger": [
-          1,
-          90,
-          0,
-          null
-        ],
-        "Golgari Grave-Troll": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Ox of Agonas": [
-          2,
-          100,
-          0,
-          null
-        ],
-        "Ashen Rider": [
-          1,
-          85,
-          0,
-          null
-        ],
-        "Breakthrough": [
-          2.8,
-          100,
-          0,
-          null
-        ],
-        "Cabal Therapy": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Faithless Looting": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Dread Return": [
-          1.9,
-          100,
-          0,
-          null
-        ],
-        "Otherworldly Gaze": [
-          3.7,
-          100,
-          0,
-          null
-        ],
-        "Lion's Eye Diamond": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Bridge from Below": [
-          3.1,
-          100,
-          0,
-          null
-        ],
-        "Cephalid Coliseum": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Flooded Strand": [
-          1,
-          70,
-          0,
-          null
-        ],
-        "Scalding Tarn": [
-          4,
-          90,
-          0,
-          null
-        ],
-        "Underground Sea": [
-          1,
-          85,
-          0,
-          null
-        ],
-        "Volcanic Island": [
-          1.9,
-          85,
-          0,
-          null
-        ],
-        "Chain of Vapor": [
-          0,
-          null,
-          2,
           65
         ],
-        "Into the Flood Maw": [
-          0,
-          null,
-          2.7,
-          35
-        ],
-        "Kiora's Dismissal": [
-          0,
-          null,
-          1.1,
-          75
-        ],
-        "Stern Dismissal": [
-          0,
-          null,
-          1.9,
-          70
-        ],
-        "Shenanigans": [
-          0,
-          null,
-          2,
-          90
-        ],
-        "Leyline of Sanctity": [
-          0,
-          null,
-          3.9,
-          75
-        ],
-        "Unmask": [
-          0,
-          null,
-          4,
-          100
-        ]
-      }
-    },
-    {
-      "nombre": "Jeskai Control",
-      "colores": "WUR",
-      "meta": 1.1,
-      "cartas": {
-        "Tamiyo, Inquisitive Student": [
-          3.7,
-          86,
-          0,
-          null
-        ],
-        "Ponder": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Prismatic Ending": [
-          2,
-          97,
-          0,
-          null
-        ],
-        "Flow State": [
-          3.7,
-          94,
-          0,
-          null
-        ],
-        "Forth Eorlingas!": [
-          1.2,
-          100,
-          0,
-          null
-        ],
-        "Wrath of the Skies": [
-          1.1,
-          89,
-          1.6,
-          86
-        ],
-        "Supreme Verdict": [
-          1.1,
-          80,
-          0,
-          null
-        ],
-        "Terminus": [
-          1.3,
-          37,
-          0,
-          null
-        ],
-        "Brainstorm": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Erode": [
-          1.1,
-          43,
-          0,
-          null
-        ],
-        "Swords to Plowshares": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Force of Negation": [
-          1.9,
-          97,
-          0,
-          null
-        ],
-        "Force of Will": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Back to Basics": [
-          1.3,
-          74,
-          0,
-          null
-        ],
-        "Chandra, Chill of Compliance": [
-          2.4,
-          57,
-          0,
-          null
-        ],
-        "Narset, Parter of Veils": [
-          2.2,
-          69,
-          0,
-          null
-        ],
-        "Teferi, Time Raveler": [
-          1.9,
-          80,
-          0,
-          null
-        ],
-        "Flooded Strand": [
-          3.9,
-          100,
-          0,
-          null
-        ],
-        "Prismatic Vista": [
-          3.5,
-          91,
-          0,
-          null
-        ],
-        "Scalding Tarn": [
-          2.1,
-          97,
-          0,
-          null
-        ],
-        "Tundra": [
-          1.2,
-          100,
-          0,
-          null
-        ],
-        "Volcanic Island": [
-          1.1,
-          100,
-          0,
-          null
-        ],
-        "Consign to Memory": [
-          0,
-          null,
-          2.6,
-          97
-        ],
-        "Hydroblast": [
-          0,
-          null,
-          1.3,
-          66
-        ],
-        "Pyroblast": [
-          0,
-          null,
-          2.4,
-          97
-        ],
-        "Red Elemental Blast": [
-          0,
-          null,
-          1.1,
-          43
-        ],
-        "Surgical Extraction": [
-          0,
-          null,
-          1.5,
-          80
-        ],
-        "Containment Priest": [
-          0,
-          null,
-          1.8,
-          57
-        ],
         "Lavinia, Azorius Renegade": [
           0,
           null,
-          1.4,
-          37
-        ],
-        "Null Rod": [
-          0,
-          null,
-          1.1,
-          46
-        ],
-        "Ruination": [
-          0,
-          null,
-          1,
-          43
-        ]
-      }
-    },
-    {
-      "nombre": "Omni-Tell",
-      "colores": "UB",
-      "meta": 1.1,
-      "cartas": {
-        "Atraxa, Grand Unifier": [
-          2.1,
-          92,
-          0,
-          null
-        ],
-        "Emrakul, the Aeons Torn": [
-          1.8,
-          100,
-          0,
-          null
-        ],
-        "Ponder": [
-          3.9,
-          100,
-          0,
-          null
-        ],
-        "Show and Tell": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Stock Up": [
-          4,
-          88,
-          0,
-          null
-        ],
-        "Lorien Revealed": [
-          1.8,
-          62,
-          0,
-          null
-        ],
-        "Brainstorm": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Veil of Summer": [
-          3,
-          81,
-          0,
-          null
-        ],
-        "Cunning Wish": [
-          3.1,
-          62,
-          0,
-          null
-        ],
-        "Intuition": [
-          1.5,
-          42,
-          0,
-          null
-        ],
-        "Sink into Stupor": [
-          1.1,
-          62,
-          0,
-          null
-        ],
-        "Force of Will": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Lotus Petal": [
-          3.1,
-          81,
-          0,
-          null
-        ],
-        "The One Ring": [
-          3,
-          77,
-          0,
-          null
-        ],
-        "Omniscience": [
-          3.9,
-          100,
-          0,
-          null
-        ],
-        "Ancient Tomb": [
-          3.3,
-          100,
-          0,
-          null
-        ],
-        "City of Traitors": [
-          1.6,
-          62,
-          0,
-          null
-        ],
-        "Flooded Strand": [
-          1.1,
-          42,
-          0,
-          null
-        ],
-        "Hedge Maze": [
-          1,
-          77,
-          0,
-          null
-        ],
-        "Mistrise Village": [
-          1.4,
-          35,
-          0,
-          null
-        ],
-        "Misty Rainforest": [
-          3.2,
-          92,
-          0,
-          null
-        ],
-        "Polluted Delta": [
-          1.8,
-          81,
-          0,
-          null
-        ],
-        "Scalding Tarn": [
-          2.2,
-          46,
-          0,
-          null
-        ],
-        "Tropical Island": [
           2,
-          85,
-          0,
-          null
+          68
         ],
-        "Carpet of Flowers": [
-          0,
-          null,
-          2.9,
-          81
-        ],
-        "Consign to Memory": [
-          0,
-          null,
-          2.6,
-          100
-        ],
-        "Surgical Extraction": [
-          0,
-          null,
-          1.5,
-          88
-        ],
-        "Echoing Truth": [
-          0,
-          null,
-          1,
-          58
-        ],
-        "Shared Summons": [
-          0,
-          null,
-          1,
-          62
-        ],
-        "Sublime Epiphany": [
-          0,
-          null,
-          1,
-          50
-        ],
-        "Firemind's Foresight": [
-          0,
-          null,
-          1,
-          46
-        ]
-      }
-    },
-    {
-      "nombre": "Naya Initiative",
-      "colores": "WRG",
-      "meta": 1.0,
-      "cartas": {
-        "Broadside Bombardiers": [
-          2.1,
-          91,
-          1.9,
-          86
-        ],
-        "Elvish Spirit Guide": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Simian Spirit Guide": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Caves of Chaos Adventurer": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Seasoned Dungeoneer": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Undermountain Adventurer": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Chancellor of the Annex": [
-          4,
-          91,
-          0,
-          null
-        ],
-        "Once Upon a Time": [
-          2,
-          95,
-          0,
-          null
-        ],
-        "Eldrazi Confluence": [
-          2.6,
-          91,
-          1.1,
-          77
-        ],
-        "Chalice of the Void": [
-          4,
-          95,
-          0,
-          null
-        ],
-        "Chrome Mox": [
-          1.4,
-          95,
-          0,
-          null
-        ],
-        "Lotus Petal": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Trinisphere": [
-          4,
-          95,
-          0,
-          null
-        ],
-        "Ancient Tomb": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Cavern of Souls": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "City of Traitors": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Karakas": [
-          1,
-          91,
-          1,
-          36
-        ],
-        "Pyroblast": [
-          0,
-          null,
-          2,
-          45
-        ],
-        "Redirect Lightning": [
-          0,
-          null,
-          2.5,
-          45
-        ],
-        "Disruptor Flute": [
-          0,
-          null,
-          3.4,
-          41
-        ],
-        "Forth Eorlingas!": [
+        "Force of Vigor": [
           0,
           null,
           1.7,
-          45
-        ],
-        "Eowyn, Fearless Knight": [
-          0,
-          null,
-          1,
-          36
-        ],
-        "Minsc & Boo, Timeless Heroes": [
-          0,
-          null,
-          1.7,
-          45
-        ],
-        "Fury": [
-          0,
-          null,
-          3.9,
-          95
-        ],
-        "Pyrokinesis": [
-          0,
-          null,
-          2,
-          45
-        ]
-      }
-    },
-    {
-      "nombre": "Mardu Energy",
-      "colores": "WBR",
-      "meta": 1.0,
-      "cartas": {
-        "Guide of Souls": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Ocelot Pride": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Ajani, Nacatl Pariah": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Amped Raptor": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Hexing Squelcher": [
-          2.3,
-          50,
-          0,
-          null
-        ],
-        "Orcish Bowmasters": [
-          3.6,
-          100,
-          0,
-          null
-        ],
-        "Voice of Victory": [
-          3.6,
-          95,
-          0,
-          null
-        ],
-        "Cabal Therapy": [
-          2.8,
-          95,
-          0,
-          null
-        ],
-        "Thoughtseize": [
-          3.8,
-          100,
-          0,
-          null
-        ],
-        "Swords to Plowshares": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Goblin Bombardment": [
-          2.2,
-          100,
-          0,
-          null
-        ],
-        "Arid Mesa": [
-          3.9,
-          100,
-          0,
-          null
-        ],
-        "Badlands": [
-          1.1,
-          95,
-          0,
-          null
-        ],
-        "Elegant Parlor": [
-          1,
-          100,
-          0,
-          null
-        ],
-        "Karakas": [
-          1.7,
-          100,
-          0,
-          null
-        ],
-        "Marsh Flats": [
-          3.9,
-          100,
-          0,
-          null
-        ],
-        "Plateau": [
-          2.1,
-          100,
-          0,
-          null
-        ],
-        "Scrubland": [
-          2,
-          100,
-          0,
-          null
-        ],
-        "Shadowy Backstreet": [
-          1,
-          90,
-          0,
-          null
-        ],
-        "Silent Clearing": [
-          1.1,
-          80,
-          0,
-          null
-        ],
-        "Wasteland": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Deafening Silence": [
-          0,
-          null,
-          1.9,
-          70
-        ],
-        "Prismatic Ending": [
-          0,
-          null,
-          1.5,
-          55
-        ],
-        "Pyroblast": [
-          0,
-          null,
-          1.3,
-          80
-        ],
-        "Red Elemental Blast": [
-          0,
-          null,
-          1.2,
-          70
-        ],
-        "Containment Priest": [
-          0,
-          null,
-          2.1,
           90
-        ],
-        "Null Rod": [
-          0,
-          null,
-          1.9,
-          35
-        ],
-        "Stony Silence": [
-          0,
-          null,
-          1.9,
-          55
-        ],
-        "Clarion Conqueror": [
-          0,
-          null,
-          1.3,
-          50
-        ],
-        "Leyline of the Void": [
-          0,
-          null,
-          4,
-          85
-        ],
-        "Mindbreak Trap": [
-          0,
-          null,
-          1.8,
-          40
-        ]
-      }
-    },
-    {
-      "nombre": "Red Stompy",
-      "colores": "R",
-      "meta": 0.8,
-      "cartas": {
-        "Broadside Bombardiers": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Magus of the Moon": [
-          2.9,
-          100,
-          0,
-          null
-        ],
-        "Simian Spirit Guide": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Pyrogoyf": [
-          4,
-          82,
-          0,
-          null
-        ],
-        "Fury": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Shatterskull Smashing": [
-          3.1,
-          100,
-          0,
-          null
-        ],
-        "Sundering Eruption": [
-          3.8,
-          100,
-          0,
-          null
-        ],
-        "Chalice of the Void": [
-          3.8,
-          100,
-          0,
-          null
-        ],
-        "Chrome Mox": [
-          3.9,
-          100,
-          0,
-          null
-        ],
-        "The One Ring": [
-          3.9,
-          88,
-          0,
-          null
-        ],
-        "Blood Moon": [
-          3.1,
-          100,
-          0,
-          null
-        ],
-        "Fable of the Mirror-Breaker": [
-          4,
-          94,
-          0,
-          null
-        ],
-        "Ancient Tomb": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "City of Traitors": [
-          3.9,
-          100,
-          0,
-          null
-        ],
-        "Sokenzan, Crucible of Defiance": [
-          1.1,
-          41,
-          0,
-          null
-        ],
-        "Disruptor Flute": [
-          0,
-          null,
-          3.1,
-          82
-        ],
-        "Hexing Squelcher": [
-          0,
-          null,
-          2.1,
-          59
-        ],
-        "Null Rod": [
-          0,
-          null,
-          2,
-          53
-        ],
-        "Dead // Gone": [
-          0,
-          null,
-          2,
-          41
-        ],
-        "Fiery Confluence": [
-          0,
-          null,
-          2.4,
-          71
-        ],
-        "Leyline of the Void": [
-          0,
-          null,
-          3.9,
-          82
-        ]
-      }
-    },
-    {
-      "nombre": "Saga Storm",
-      "colores": "WUBRG",
-      "meta": 0.8,
-      "cartas": {
-        "Gaea's Will": [
-          1,
-          93,
-          0,
-          null
-        ],
-        "Duress": [
-          3.6,
-          93,
-          0,
-          null
-        ],
-        "Thoughtseize": [
-          4,
-          93,
-          0,
-          null
-        ],
-        "Burning Wish": [
-          3,
-          87,
-          0,
-          null
-        ],
-        "Infernal Tutor": [
-          4,
-          93,
-          0,
-          null
-        ],
-        "Beseech the Mirror": [
-          2.2,
-          100,
-          1,
-          93
-        ],
-        "Tendrils of Agony": [
-          1,
-          100,
-          1,
-          93
-        ],
-        "Dark Ritual": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Ad Nauseam": [
-          1,
-          93,
-          0,
-          null
-        ],
-        "Chrome Mox": [
-          3.9,
-          100,
-          0,
-          null
-        ],
-        "Lion's Eye Diamond": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Lotus Petal": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Mox Opal": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Giant's Boulder": [
-          2.9,
-          80,
-          0,
-          null
-        ],
-        "Skateboard": [
-          1,
-          67,
-          0,
-          null
-        ],
-        "Wishclaw Talisman": [
-          2,
-          93,
-          0,
-          null
-        ],
-        "Badlands": [
-          1,
-          80,
-          0,
-          null
-        ],
-        "Bayou": [
-          1.1,
-          67,
-          0,
-          null
-        ],
-        "Bloodstained Mire": [
-          2.1,
-          87,
-          0,
-          null
-        ],
-        "Raucous Theater": [
-          1,
-          80,
-          0,
-          null
-        ],
-        "Urza's Saga": [
-          3.9,
-          100,
-          0,
-          null
-        ],
-        "Vault of Whispers": [
-          2.3,
-          80,
-          0,
-          null
-        ],
-        "Verdant Catacombs": [
-          1.9,
-          80,
-          0,
-          null
-        ],
-        "Boseiju, Who Endures": [
-          0,
-          null,
-          1.9,
-          67
-        ],
-        "Cabal Therapy": [
-          0,
-          null,
-          1,
-          33
-        ],
-        "Haywire Mite": [
-          0,
-          null,
-          1,
-          80
-        ],
-        "Shattering Spree": [
-          0,
-          null,
-          1,
-          33
-        ],
-        "Surgical Extraction": [
-          0,
-          null,
-          2.2,
-          40
-        ],
-        "Abrupt Decay": [
-          0,
-          null,
-          1,
-          60
-        ],
-        "Hexing Squelcher": [
-          0,
-          null,
-          1.9,
-          87
-        ],
-        "Debt to the Deathless": [
-          0,
-          null,
-          1,
-          87
-        ],
-        "Helm of Obedience": [
-          0,
-          null,
-          1,
-          33
-        ],
-        "Leyline of the Void": [
-          0,
-          null,
-          4,
-          47
-        ],
-        "Peer into the Abyss": [
-          0,
-          null,
-          1,
-          93
-        ]
-      }
-    },
-    {
-      "nombre": "Stiflenought",
-      "colores": "WUR",
-      "meta": 0.8,
-      "cartas": {
-        "Phyrexian Dreadnought": [
-          2.9,
-          100,
-          0,
-          null
-        ],
-        "Tamiyo, Inquisitive Student": [
-          3.6,
-          71,
-          0,
-          null
-        ],
-        "Bilbo, Thief in the Night": [
-          2.1,
-          64,
-          0,
-          null
-        ],
-        "Curie, Emergent Intelligence": [
-          2,
-          50,
-          0,
-          null
-        ],
-        "Doorkeeper Thrull": [
-          3.1,
-          57,
-          0,
-          null
-        ],
-        "Abhorrent Oculus": [
-          1.8,
-          64,
-          0,
-          null
-        ],
-        "Nulldrifter": [
-          3.2,
-          36,
-          0,
-          null
-        ],
-        "Ponder": [
-          3.8,
-          100,
-          0,
-          null
-        ],
-        "Prismatic Ending": [
-          2.9,
-          57,
-          1,
-          50
-        ],
-        "Flow State": [
-          3.6,
-          64,
-          0,
-          null
-        ],
-        "Lorien Revealed": [
-          1.1,
-          57,
-          0,
-          null
-        ],
-        "Brainstorm": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Stifle": [
-          2.6,
-          50,
-          0,
-          null
-        ],
-        "Swords to Plowshares": [
-          4,
-          93,
-          0,
-          null
-        ],
-        "Force of Negation": [
-          1,
-          50,
-          2,
-          71
-        ],
-        "Force of Will": [
-          4,
-          100,
-          0,
-          null
-        ],
-        "Dress Down": [
-          2.8,
-          93,
-          0,
-          null
-        ],
-        "Arid Mesa": [
-          1.4,
-          50,
-          0,
-          null
-        ],
-        "Flooded Strand": [
-          3.7,
-          93,
-          0,
-          null
-        ],
-        "Karakas": [
-          1,
-          86,
-          0,
-          null
-        ],
-        "Meticulous Archive": [
-          1,
-          93,
-          0,
-          null
-        ],
-        "Misty Rainforest": [
-          1.3,
-          64,
-          0,
-          null
-        ],
-        "Polluted Delta": [
-          1.8,
-          71,
-          0,
-          null
-        ],
-        "Scalding Tarn": [
-          1.5,
-          57,
-          0,
-          null
-        ],
-        "Tundra": [
-          2.2,
-          93,
-          0,
-          null
-        ],
-        "Volcanic Island": [
-          1.7,
-          50,
-          0,
-          null
-        ],
-        "Wasteland": [
-          3.1,
-          57,
-          0,
-          null
-        ],
-        "Consign to Memory": [
-          0,
-          null,
-          2.2,
-          86
-        ],
-        "Erode": [
-          0,
-          null,
-          1.2,
-          36
-        ],
-        "Pyroblast": [
-          0,
-          null,
-          2,
-          43
-        ],
-        "Forth Eorlingas!": [
-          0,
-          null,
-          2,
-          36
-        ],
-        "Wrath of the Skies": [
-          0,
-          null,
-          1,
-          43
-        ],
-        "Sailors' Bane": [
-          0,
-          null,
-          1.6,
-          36
         ]
       }
     },
@@ -5414,14 +5022,14 @@
       "meta": 0.7,
       "cartas": {
         "Goblin Welder": [
-          3.8,
-          60,
+          4,
+          73,
           0,
           null
         ],
         "Goblin Engineer": [
-          3.8,
-          60,
+          4,
+          73,
           0,
           null
         ],
@@ -5433,49 +5041,55 @@
         ],
         "Phyrexian Dragon Engine": [
           1,
-          47,
+          68,
           0,
           null
         ],
         "Simian Spirit Guide": [
-          2.1,
-          47,
+          2.3,
+          50,
           0,
           null
         ],
         "Chaos Defiler": [
           1,
-          53,
+          59,
           0,
           null
         ],
         "Lightning Bolt": [
-          2.1,
-          53,
+          2.2,
+          59,
           0,
           null
         ],
         "Pyroblast": [
-          3.7,
-          60,
+          3.8,
+          59,
           0,
           null
         ],
         "Red Elemental Blast": [
-          2,
-          53,
+          2.4,
+          64,
           0,
           null
         ],
         "Lotus Petal": [
-          2.7,
-          100,
+          2.6,
+          95,
           0,
           null
         ],
         "Mox Opal": [
-          1.6,
-          100,
+          1.7,
+          91,
+          0,
+          null
+        ],
+        "Chromatic Star": [
+          1,
+          36,
           0,
           null
         ],
@@ -5485,51 +5099,45 @@
           0,
           null
         ],
-        "Pithing Needle": [
-          1,
-          33,
-          1,
-          60
-        ],
         "Sewer-veillance Cam": [
-          1.6,
-          33,
+          1.8,
+          45,
           0,
           null
         ],
         "Skateboard": [
           1,
-          67,
+          68,
           0,
           null
         ],
         "Soul-Guide Lantern": [
           1,
-          80,
+          77,
           0,
           null
         ],
         "Agatha's Soul Cauldron": [
-          1.6,
-          47,
+          1.2,
+          59,
+          0,
+          null
+        ],
+        "Legion Extruder": [
+          1,
+          36,
           0,
           null
         ],
         "Ensnaring Bridge": [
-          1,
-          40,
-          1,
-          33
-        ],
-        "Fable of the Mirror-Breaker": [
-          3.5,
-          53,
+          1.1,
+          64,
           0,
           null
         ],
-        "Karn, the Great Creator": [
-          3,
-          33,
+        "Fable of the Mirror-Breaker": [
+          3.5,
+          50,
           0,
           null
         ],
@@ -5540,20 +5148,20 @@
           null
         ],
         "Arena of Glory": [
-          1.1,
-          47,
+          1.2,
+          55,
           0,
           null
         ],
         "City of Traitors": [
-          1.6,
-          60,
+          1.5,
+          64,
           0,
           null
         ],
         "Great Furnace": [
-          2.1,
-          53,
+          2,
+          64,
           0,
           null
         ],
@@ -5567,51 +5175,479 @@
           0,
           null,
           1.3,
-          60
+          55
+        ],
+        "Pithing Needle": [
+          0,
+          null,
+          1,
+          68
         ],
         "Damping Sphere": [
           0,
           null,
-          2.1,
-          47
+          1.9,
+          68
         ],
         "Disruptor Flute": [
           0,
           null,
           1.6,
-          87
+          95
         ],
         "Blood Moon": [
           0,
           null,
-          2.5,
-          40
+          2.8,
+          55
         ],
-        "Dismember": [
+        "Leyline of the Void": [
+          0,
+          null,
+          3.7,
+          45
+        ],
+        "Fury": [
+          0,
+          null,
+          2.6,
+          59
+        ]
+      }
+    },
+    {
+      "nombre": "Creative Technique",
+      "colores": "RG",
+      "meta": 0.7,
+      "cartas": {
+        "Trumpeting Carnosaur": [
+          2.6,
+          100,
+          2,
+          67
+        ],
+        "Etali, Primal Conqueror": [
+          1.4,
+          89,
+          0,
+          null
+        ],
+        "Maelstrom Wanderer": [
+          2.5,
+          89,
+          0,
+          null
+        ],
+        "Apex Devastator": [
+          3.9,
+          89,
+          0,
+          null
+        ],
+        "Emrakul, the Aeons Torn": [
+          2.2,
+          100,
+          0,
+          null
+        ],
+        "Throes of Chaos": [
+          3.9,
+          94,
+          0,
+          null
+        ],
+        "Creative Technique": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Call Forth the Tempest": [
+          2.4,
+          83,
+          0,
+          null
+        ],
+        "Tibalt's Trickery": [
+          3.1,
+          83,
+          1.1,
+          78
+        ],
+        "Violent Outburst": [
+          4,
+          83,
+          0,
+          null
+        ],
+        "Ancient Tomb": [
+          3.8,
+          100,
+          0,
+          null
+        ],
+        "Boseiju, Who Endures": [
+          3.1,
+          89,
+          1,
+          78
+        ],
+        "City of Traitors": [
+          2.4,
+          56,
+          0,
+          null
+        ],
+        "Crystal Vein": [
+          2,
+          89,
+          0,
+          null
+        ],
+        "Dwarven Ruins": [
+          3.2,
+          100,
+          0,
+          null
+        ],
+        "Hickory Woodlot": [
+          2.3,
+          89,
+          0,
+          null
+        ],
+        "Mossfire Valley": [
+          4,
+          89,
+          0,
+          null
+        ],
+        "Petrified Hamlet": [
+          3.3,
+          56,
+          1,
+          33
+        ],
+        "Sandstone Needle": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Taiga": [
+          2.2,
+          67,
+          0,
+          null
+        ],
+        "Tinder Farm": [
+          2,
+          83,
+          0,
+          null
+        ],
+        "Blast Zone": [
           0,
           null,
           1.6,
+          44
+        ],
+        "Karakas": [
+          0,
+          null,
+          1.8,
           33
         ],
         "Leyline of the Void": [
           0,
           null,
-          3.5,
-          40
+          3.7,
+          100
         ],
-        "Fury": [
+        "Mindbreak Trap": [
           0,
           null,
-          3.1,
-          53
+          3,
+          50
+        ],
+        "Ingot Chewer": [
+          0,
+          null,
+          2.1,
+          83
+        ],
+        "Pyrokinesis": [
+          0,
+          null,
+          2.3,
+          44
         ]
       }
     },
     {
-      "nombre": "Beseech Storm",
-      "colores": "UBRG",
-      "meta": 0.7,
+      "nombre": "Beanstalk Control (Yorion)",
+      "colores": "WUG",
+      "meta": 0.6,
       "cartas": {
+        "Yorion, Sky Nomad": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Tamiyo, Inquisitive Student": [
+          3.1,
+          89,
+          0,
+          null
+        ],
+        "Phelia, Exuberant Shepherd": [
+          3.1,
+          89,
+          0,
+          null
+        ],
+        "Uro, Titan of Nature's Wrath": [
+          2.1,
+          89,
+          0,
+          null
+        ],
+        "Icetill Explorer": [
+          1,
+          84,
+          0,
+          null
+        ],
+        "Quantum Riddler": [
+          4,
+          95,
+          0,
+          null
+        ],
+        "Solitude": [
+          1.3,
+          100,
+          0,
+          null
+        ],
+        "Ponder": [
+          4,
+          95,
+          0,
+          null
+        ],
+        "Prismatic Ending": [
+          2,
+          84,
+          0,
+          null
+        ],
+        "Flow State": [
+          1,
+          84,
+          0,
+          null
+        ],
+        "Wrath of the Skies": [
+          1.1,
+          95,
+          1,
+          79
+        ],
+        "Lorien Revealed": [
+          4,
+          89,
+          0,
+          null
+        ],
+        "Terminus": [
+          2,
+          79,
+          0,
+          null
+        ],
+        "Brainstorm": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Consign to Memory": [
+          1,
+          84,
+          2.2,
+          95
+        ],
+        "Swords to Plowshares": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Force of Negation": [
+          3.1,
+          89,
+          1.1,
+          84
+        ],
+        "Force of Will": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Up the Beanstalk": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Leyline Binding": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Flooded Strand": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Hedge Maze": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Karakas": [
+          1,
+          95,
+          0,
+          null
+        ],
+        "Meticulous Archive": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Misty Rainforest": [
+          4,
+          100,
+          0,
+          null
+        ],
+        "Mystic Sanctuary": [
+          1,
+          95,
+          0,
+          null
+        ],
+        "Polluted Delta": [
+          2.1,
+          84,
+          0,
+          null
+        ],
+        "Savannah": [
+          1,
+          100,
+          0,
+          null
+        ],
+        "Tropical Island": [
+          1.8,
+          100,
+          0,
+          null
+        ],
+        "Tundra": [
+          1.9,
+          100,
+          0,
+          null
+        ],
+        "Volcanic Island": [
+          1,
+          95,
+          0,
+          null
+        ],
+        "Wasteland": [
+          3.1,
+          95,
+          0,
+          null
+        ],
+        "Windswept Heath": [
+          1.2,
+          95,
+          0,
+          null
+        ],
+        "Xander's Lounge": [
+          1,
+          89,
+          0,
+          null
+        ],
+        "Blue Elemental Blast": [
+          0,
+          null,
+          1,
+          63
+        ],
+        "Carpet of Flowers": [
+          0,
+          null,
+          3,
+          95
+        ],
+        "Hydroblast": [
+          0,
+          null,
+          1.3,
+          79
+        ],
+        "Pyroblast": [
+          0,
+          null,
+          1.4,
+          84
+        ],
+        "Red Elemental Blast": [
+          0,
+          null,
+          1,
+          47
+        ],
+        "Surgical Extraction": [
+          0,
+          null,
+          1.9,
+          79
+        ],
+        "Null Rod": [
+          0,
+          null,
+          1,
+          74
+        ]
+      }
+    },
+    {
+      "nombre": "Saga Storm",
+      "colores": "UBRG",
+      "meta": 0.6,
+      "cartas": {
+        "Hexing Squelcher": [
+          1.3,
+          44,
+          1.9,
+          100
+        ],
         "Gaea's Will": [
           1,
           100,
@@ -5619,26 +5655,20 @@
           null
         ],
         "Duress": [
-          2.6,
-          92,
-          0,
-          null
-        ],
-        "Ponder": [
-          3.9,
-          62,
-          0,
-          null
+          3.4,
+          100,
+          1.3,
+          44
         ],
         "Thoughtseize": [
-          3.3,
+          4,
           100,
           0,
           null
         ],
         "Burning Wish": [
-          2.2,
-          46,
+          3,
+          100,
           0,
           null
         ],
@@ -5649,38 +5679,26 @@
           null
         ],
         "Beseech the Mirror": [
-          1.8,
+          2,
           100,
           1,
-          77
+          100
         ],
         "Tendrils of Agony": [
           1,
           100,
           1,
-          62
+          100
         ],
         "Brainstorm": [
           4,
-          62,
+          33,
           0,
           null
         ],
         "Dark Ritual": [
           4,
           100,
-          0,
-          null
-        ],
-        "Veil of Summer": [
-          2.6,
-          85,
-          1,
-          38
-        ],
-        "Cabal Ritual": [
-          2.3,
-          62,
           0,
           null
         ],
@@ -5691,7 +5709,7 @@
           null
         ],
         "Chrome Mox": [
-          2.7,
+          4,
           100,
           0,
           null
@@ -5710,147 +5728,147 @@
         ],
         "Mox Opal": [
           4,
-          38,
+          100,
           0,
           null
         ],
         "Giant's Boulder": [
-          4,
-          38,
+          3,
+          67,
+          0,
+          null
+        ],
+        "Skateboard": [
+          1,
+          67,
           0,
           null
         ],
         "Wishclaw Talisman": [
-          1.8,
-          77,
+          2,
+          100,
           0,
           null
         ],
-        "Song of Creation": [
+        "Badlands": [
           1,
-          38,
+          100,
           0,
           null
         ],
         "Bayou": [
           1,
-          54,
+          56,
           0,
           null
         ],
-        "Boseiju, Who Endures": [
+        "Bloodstained Mire": [
+          2.4,
+          100,
+          0,
+          null
+        ],
+        "Raucous Theater": [
           1,
-          46,
-          1.4,
-          77
-        ],
-        "Misty Rainforest": [
-          2.9,
-          54,
-          0,
-          null
-        ],
-        "Polluted Delta": [
-          4,
-          62,
-          0,
-          null
-        ],
-        "Tropical Island": [
-          1,
-          54,
+          100,
           0,
           null
         ],
         "Undercity Sewers": [
           1,
-          62,
+          33,
           0,
           null
         ],
         "Underground Sea": [
-          1.1,
-          62,
+          1,
+          44,
           0,
           null
         ],
         "Urza's Saga": [
-          3.8,
-          38,
+          3.7,
+          100,
+          0,
+          null
+        ],
+        "Vault of Whispers": [
+          2,
+          67,
           0,
           null
         ],
         "Verdant Catacombs": [
-          1.3,
-          46,
+          2,
+          89,
           0,
           null
         ],
-        "Carpet of Flowers": [
+        "Boseiju, Who Endures": [
           0,
           null,
-          2.9,
-          54
+          2,
+          56
         ],
-        "Chain of Vapor": [
-          0,
-          null,
-          1.6,
-          54
-        ],
-        "Grafdigger's Cage": [
+        "Bone Shards": [
           0,
           null,
           1,
-          38
+          56
+        ],
+        "Boomerang Basics": [
+          0,
+          null,
+          3.8,
+          44
+        ],
+        "Cabal Therapy": [
+          0,
+          null,
+          1,
+          56
         ],
         "Haywire Mite": [
           0,
           null,
           1,
-          38
+          56
+        ],
+        "Shattering Spree": [
+          0,
+          null,
+          1,
+          67
         ],
         "Surgical Extraction": [
           0,
           null,
-          1.7,
-          46
+          2,
+          67
         ],
         "Abrupt Decay": [
           0,
           null,
-          2,
-          46
-        ],
-        "Echoing Truth": [
-          0,
-          null,
-          1.2,
-          46
-        ],
-        "Hexing Squelcher": [
-          0,
-          null,
-          1.3,
-          46
+          1,
+          56
         ],
         "Debt to the Deathless": [
           0,
           null,
           1,
-          77
+          100
         ],
-        "Echo of Eons": [
+        "Leyline of the Void": [
           0,
           null,
-          1,
-          46
+          4,
+          33
         ],
         "Peer into the Abyss": [
           0,
           null,
           1,
-          54
+          99
         ]
       }
     }
